@@ -1,0 +1,5402 @@
+[
+  {
+    "stt": 1,
+    "vocab": "爱",
+    "hanviet": "Ái",
+    "pinyin": "ài",
+    "meaning": "V. love; V. like doing sth. / Động từ. yêu; Động từ. thích làm việc gì đó",
+    "example": "妈妈，我〜 tu... / 我〜吃米饭。 (妈妈，我〜你。 / 我〜吃米饭。)",
+    "example_meaning": "Mẹ ơi, con yêu mẹ. / Tôi thích ăn cơm."
+  },
+  {
+    "stt": 2,
+    "vocab": "八",
+    "hanviet": "Bát",
+    "pinyin": "bā",
+    "meaning": "num. eight / Số từ. tám (số 8)",
+    "example": "他儿子今年〜岁了。",
+    "example_meaning": "Con trai anh ấy năm nay 8 tuổi rồi."
+  },
+  {
+    "stt": 3,
+    "vocab": "爸爸",
+    "hanviet": "Ba Ba",
+    "pinyin": "bàba",
+    "meaning": "n. father; dad; daddy / Danh từ. bố; ba; cha",
+    "example": "我〜是医生。",
+    "example_meaning": "Bố tôi là bác sĩ."
+  },
+  {
+    "stt": 4,
+    "vocab": "杯子",
+    "hanviet": "Bôi Tử",
+    "pinyin": "bēizi",
+    "meaning": "n. cup; glass / Danh từ. cốc; tách; ly",
+    "example": "〜里有茶。",
+    "example_meaning": "Trong cốc có trà."
+  },
+  {
+    "stt": 5,
+    "vocab": "北京",
+    "hanviet": "Bắc Kinh",
+    "pinyin": "Běijīng",
+    "meaning": "n. Beijing / Danh từ. Bắc Kinh",
+    "example": "我住在〜。",
+    "example_meaning": "Tôi sống ở Bắc Kinh."
+  },
+  {
+    "stt": 6,
+    "vocab": "本",
+    "hanviet": "Bản",
+    "pinyin": "běn",
+    "meaning": "nm. copy; issue (used for counting books and other bound items) / Lượng từ. cuốn; bản; quyển (dùng cho sách, tạp chí...)",
+    "example": "桌 sugar 上有一〜书。",
+    "example_meaning": "Trên bàn có một quyển sách."
+  },
+  {
+    "stt": 7,
+    "vocab": "不客气",
+    "hanviet": "Bất Khách Khí",
+    "pinyin": "bú kèqi",
+    "meaning": "You’re welcome. / Không có gì; Đừng khách sáo.",
+    "example": "甲：谢谢你！乙：〜。",
+    "example_meaning": "A: Cảm ơn bạn! B: Không có gì."
+  },
+  {
+    "stt": 8,
+    "vocab": "不",
+    "hanviet": "Bất",
+    "pinyin": "bù",
+    "meaning": "adv. not; no / Phó từ. không",
+    "example": "我〜是学生。",
+    "example_meaning": "Tôi không phải là học sinh."
+  },
+  {
+    "stt": 9,
+    "vocab": "菜",
+    "hanviet": "Thái",
+    "pinyin": "cài",
+    "meaning": "n. vegetable; n. dish / Danh từ. rau; Danh từ. món ăn",
+    "example": "我去超市买点儿〜。 / 今天我做了二个〜。",
+    "example_meaning": "Tôi đi siêu thị mua một ít rau (thức ăn). / Hôm nay tôi đã làm hai món ăn."
+  },
+  {
+    "stt": 10,
+    "vocab": "茶",
+    "hanviet": "Trà",
+    "pinyin": "chá",
+    "meaning": "n. tea (liquid drink/tea leaves) / Danh từ. trà; chè (nước trà/lá trà)",
+    "example": "请喝杯〜吧。",
+    "example_meaning": "Xin mời uống tách trà."
+  },
+  {
+    "stt": 11,
+    "vocab": "吃",
+    "hanviet": "Cật",
+    "pinyin": "chī",
+    "meaning": "V. eat / Động từ. ăn",
+    "example": "请〜点儿米饭。",
+    "example_meaning": "Xin vui lòng ăn một ít cơm."
+  },
+  {
+    "stt": 12,
+    "vocab": "出租车",
+    "hanviet": "Xuất Tô Xa",
+    "pinyin": "chūzūchē",
+    "meaning": "n. taxi / Danh từ. xe taxi",
+    "example": "我们坐〜去火车站。",
+    "example_meaning": "Chúng tôi đi xe taxi đến ga tàu hỏa."
+  },
+  {
+    "stt": 13,
+    "vocab": "打电话",
+    "hanviet": "Đả Điện Thoại",
+    "pinyin": "dǎ diànhuà",
+    "meaning": "make a phone call / Gọi điện thoại",
+    "example": "他在〜呢。",
+    "example_meaning": "Anh ấy đang gọi điện thoại đấy."
+  },
+  {
+    "stt": 14,
+    "vocab": "大",
+    "hanviet": "Đại",
+    "pinyin": "dà",
+    "meaning": "adj. big; large; huge; great / Tính từ. to; lớn; khổng lồ; vĩ đại",
+    "example": "这个苹果很〜。",
+    "example_meaning": "Quả táo này rất to."
+  },
+  {
+    "stt": 15,
+    "vocab": "的",
+    "hanviet": "Đích",
+    "pinyin": "de",
+    "meaning": "sa. of (marker of attributive); sa. expressing emphasis; indicating sb. or sth. / Trợ từ kết cấu. của (biểu thị quan hệ sở hữu/hạn định); biểu thị sự nhấn mạnh; chỉ người hoặc vật",
+    "example": "这是我〜书。 / 我是坐飞机来中国〜。 / 家里没吃〜了，我们去買菜。 (这是我〜书。 / 我是坐飞机来中国〜。 / 家里没吃〜了，我们去买点儿吧。)",
+    "example_meaning": "Đây là sách của tôi. / Tôi đi máy bay đến Trung Quốc đấy. / Ở nhà không còn cái gì ăn nữa rồi, chúng ta đi mua một ít đi."
+  },
+  {
+    "stt": 16,
+    "vocab": "点",
+    "hanviet": "Điểm",
+    "pinyin": "diǎn",
+    "meaning": "n. o’clock; V. order / Danh từ. giờ; Động từ. gọi món (thức ăn)",
+    "example": "现在是下午 3 〜 2 0。 / 先生，请问您什么时候开始〜菜？",
+    "example_meaning": "Bây giờ là 3 giờ 20 phút chiều. / Thưa ông, xin hỏi khi nào ông bắt đầu gọi món?"
+  },
+  {
+    "stt": 17,
+    "vocab": "电脑",
+    "hanviet": "Điện Não",
+    "pinyin": "diànnǎo",
+    "meaning": "n. computer / Danh từ. máy tính; máy vi tính",
+    "example": "我买了个〜。",
+    "example_meaning": "Tôi đã mua một chiếc máy tính."
+  },
+  {
+    "stt": 18,
+    "vocab": "电视",
+    "hanviet": "Điện Thị",
+    "pinyin": "diànshì",
+    "meaning": "n. television / Danh từ. tivi; truyền hình",
+    "example": "妈妈在看〜。",
+    "example_meaning": "Mẹ đang xem tivi."
+  },
+  {
+    "stt": 19,
+    "vocab": "电影",
+    "hanviet": "Điện Ảnh",
+    "pinyin": "diànyǐng",
+    "meaning": "n. motion picture; movie; film / Danh từ. phim; phim điện ảnh",
+    "example": "我喜欢看〜。",
+    "example_meaning": "Tôi thích xem phim điện ảnh."
+  },
+  {
+    "stt": 20,
+    "vocab": "东西",
+    "hanviet": "Đông Tây",
+    "pinyin": "dōngxi",
+    "meaning": "n. thing; object / Danh từ. đồ vật; thứ; đồ đạc",
+    "example": "我在商店 bought 了很多〜。",
+    "example_meaning": "Tôi đã mua rất nhiều đồ ở cửa hàng."
+  },
+  {
+    "stt": 21,
+    "vocab": "都",
+    "hanviet": "Đô",
+    "pinyin": "dōu",
+    "meaning": "adv. all; adv. used to emphasize; adv. already / Phó từ. đều; phó từ dùng để nhấn mạnh; phó từ. đã (biểu thị đã đến lúc)",
+    "example": "我们〜来了。 / 我〜快吃完了。 / 现在〜三点了，我们快迟到了。",
+    "example_meaning": "Chúng tôi đều đến rồi. / Tôi sắp ăn xong cả rồi. / Bây giờ đã 3 giờ rồi, chúng ta sắp muộn rồi."
+  },
+  {
+    "stt": 22,
+    "vocab": "读",
+    "hanviet": "Độc",
+    "pinyin": "dú",
+    "meaning": "V. read / Động từ. đọc",
+    "example": "你会〜这个汉字吗？ / 你喜欢〜书吗？",
+    "example_meaning": "Bạn biết đọc chữ Hán này không? / Bạn có thích đọc sách không?"
+  },
+  {
+    "stt": 23,
+    "vocab": "对不起",
+    "hanviet": "Đối Bất Khởi",
+    "pinyin": "duìbuqǐ",
+    "meaning": "I’m sorry. / Xin lỗi; Tôi xin lỗi.",
+    "example": "甲：〜。乙：没关系。",
+    "example_meaning": "A: Xin lỗi. B: Không sao đâu."
+  },
+  {
+    "stt": 24,
+    "vocab": "多",
+    "hanviet": "Đa",
+    "pinyin": "duō",
+    "meaning": "adj. a lot of; adv. how (used in an interrogative sentence, expressing an inquiry of number or degree); adv. how (used before an adjective, indicating exclamation) / Tính từ. nhiều; Phó từ. bao nhiêu (dùng trong câu hỏi để hỏi về số lượng hoặc mức độ); Phó từ. thật là, biết bao (dùng trước tính từ biểu thị sự cảm thán)",
+    "example": "这里的人很〜。 / 你儿子〜大了？ / 他跑得〜快啊！",
+    "example_meaning": "Người ở đây rất đông. / Con trai bạn bao nhiêu tuổi rồi? / Anh ấy chạy nhanh biết bao!"
+  },
+  {
+    "stt": 25,
+    "vocab": "多少",
+    "hanviet": "Đa Thiểu",
+    "pinyin": "duōshao",
+    "meaning": "pron. how many; how much / Đại từ. bao nhiêu",
+    "example": "你们学校有〜学生？",
+    "example_meaning": "Trường của các bạn có bao nhiêu học sinh?"
+  },
+  {
+    "stt": 26,
+    "vocab": "儿子",
+    "hanviet": "Nhi Tử",
+    "pinyin": "érzi",
+    "meaning": "n. son / Danh từ. con trai",
+    "example": "我〜三岁了。",
+    "example_meaning": "Con trai tôi 3 tuổi rồi."
+  },
+  {
+    "stt": 27,
+    "vocab": "二",
+    "hanviet": "Nhị",
+    "pinyin": "èr",
+    "meaning": "num. two / Số từ. hai (số 2)",
+    "example": "现在十〜点了。",
+    "example_meaning": "Bây giờ là mười hai giờ rồi."
+  },
+  {
+    "stt": 28,
+    "vocab": "饭店",
+    "hanviet": "Phạn Điếm",
+    "pinyin": "fàndiàn",
+    "meaning": "n. restaurant, eatery; (large) hotel / Danh từ. nhà hàng, quán ăn; khách sạn (lớn)",
+    "example": "中午我们去〜吃吧。",
+    "example_meaning": "Buổi trưa chúng ta đến nhà hàng ăn nhé."
+  },
+  {
+    "stt": 29,
+    "vocab": "飞机",
+    "hanviet": "Phi Cơ",
+    "pinyin": "fēijī",
+    "meaning": "n. plane / Danh từ. máy bay",
+    "example": "我坐〜去北京。",
+    "example_meaning": "Tôi đi máy bay đến Bắc Kinh."
+  },
+  {
+    "stt": 30,
+    "vocab": "分钟",
+    "hanviet": "Phân Chung",
+    "pinyin": "fēnzhōng",
+    "meaning": "n. minute / Danh từ. phút",
+    "example": "我想休息几〜。",
+    "example_meaning": "Tôi muốn nghỉ ngơi vài phút."
+  },
+  {
+    "stt": 31,
+    "vocab": "高兴",
+    "hanviet": "Cao Hưng",
+    "pinyin": "gāoxìng",
+    "meaning": "adj. happy; glad; cheerful; pleased / Tính từ. vui vẻ; mừng rỡ; phấn khởi; hài lòng",
+    "example": "今天我很〜。",
+    "example_meaning": "Hôm nay tôi rất vui."
+  },
+  {
+    "stt": 32,
+    "vocab": "个",
+    "hanviet": "Cá",
+    "pinyin": "gè",
+    "meaning": "nm. used with nouns without specific measure words / Lượng từ. cái; chiếc; quả... (dùng trước danh từ không có lượng từ chuyên dụng)",
+    "example": "我是一个〜学生。",
+    "example_meaning": "Tôi là một học sinh."
+  },
+  {
+    "stt": 33,
+    "vocab": "工作",
+    "hanviet": "Công Tác",
+    "pinyin": "gōngzuò",
+    "meaning": "n. job; work; V. work / Danh từ. công việc; việc làm; Động từ. làm việc; công tác",
+    "example": "我很喜欢现在的〜。 / 我在医院〜。",
+    "example_meaning": "Tôi rất thích công việc hiện tại. / Tôi làm việc ở bệnh viện."
+  },
+  {
+    "stt": 34,
+    "vocab": "汉语",
+    "hanviet": "Hán Ngữ",
+    "pinyin": "Hànyǔ",
+    "meaning": "n. Chinese language / Danh từ. tiếng Trung; tiếng Hán",
+    "example": "他在学习〜。",
+    "example_meaning": "Anh ấy đang học tiếng Trung."
+  },
+  {
+    "stt": 35,
+    "vocab": "好",
+    "hanviet": "Hảo",
+    "pinyin": "hǎo",
+    "meaning": "adj. good; nice; well; fine; ok; please; adv. very / Tính từ. tốt; đẹp; khoẻ; ổn; được; xin vui lòng; Phó từ. rất (biểu thị mức độ cao)",
+    "example": "今天天气很〜。 / 你听我说，〜吗？ / 你的衣服〜漂亮啊！",
+    "example_meaning": "Hôm nay thời tiết rất tốt. / Bạn nghe tôi nói này, được không? / Quần áo của bạn thật đẹp quá!"
+  },
+  {
+    "stt": 36,
+    "vocab": "号",
+    "hanviet": "Hiệu",
+    "pinyin": "hào",
+    "meaning": "n. date; nm. number / Danh từ. ngày (trong tháng); Lượng từ. số (số phòng, số điện thoại...)",
+    "example": "今天是2002年1月1〜。 / 你的房间〜是多少？",
+    "example_meaning": "Hôm nay là ngày 1 tháng 1 năm 2002. / Số phòng của bạn là bao nhiêu?"
+  },
+  {
+    "stt": 37,
+    "vocab": "喝",
+    "hanviet": "Hát",
+    "pinyin": "hē",
+    "meaning": "V. drink / Động từ. uống",
+    "example": "我想〜水。",
+    "example_meaning": "Tôi muốn uống nước."
+  },
+  {
+    "stt": 38,
+    "vocab": "和",
+    "hanviet": "Hòa",
+    "pinyin": "hé",
+    "meaning": "conj. and; prep. with / Liên từ. và; Giới từ. với; cùng với",
+    "example": "爸爸〜妈妈都在家。 / 他〜王先生说话呢。",
+    "example_meaning": "Bố và mẹ đều ở nhà. / Anh ấy đang nói chuyện with Vương tiên sinh. (Anh ấy đang nói chuyện với ông Vương.)"
+  },
+  {
+    "stt": 39,
+    "vocab": "很",
+    "hanviet": "Ngận",
+    "pinyin": "hěn",
+    "meaning": "adv. very / Phó từ. rất",
+    "example": "李小姐〜漂亮。",
+    "example_meaning": "Cô Lý rất xinh đẹp."
+  },
+  {
+    "stt": 40,
+    "vocab": "后面",
+    "hanviet": "Hậu Diện",
+    "pinyin": "hòumiàn",
+    "meaning": "n. at the back; in the rear; behind; n. later; afterwards / Danh từ. phía sau; ở đằng sau; Danh từ. sau này; về sau",
+    "example": "商店在学校〜。 / 关于这个问题，〜我还会详细说。",
+    "example_meaning": "Cửa hàng ở phía sau trường học. / Về vấn đề này, lát nữa tôi sẽ nói chi tiết."
+  },
+  {
+    "stt": 41,
+    "vocab": "回",
+    "hanviet": "Hồi",
+    "pinyin": "huí",
+    "meaning": "V. go back; vm. number of times / Động từ. về; quay lại; Động lượng từ. lần (lượt)",
+    "example": "我八点〜家。 / 我去过一〜北京。",
+    "example_meaning": "Tôi về nhà lúc 8 giờ. / Tôi từng đi Bắc Kinh một lần."
+  },
+  {
+    "stt": 42,
+    "vocab": "会",
+    "hanviet": "Hội",
+    "pinyin": "huì",
+    "meaning": "aux. can; be capable of; V. used after a verb, resultative; aux. may / Động từ năng nguyện. biết (qua học tập); Động từ bổ ngữ kết quả. được; Động từ năng nguyện. có thể (khả năng xảy ra)",
+    "example": "我〜开车。 / 我学〜了汉语。 / 明天是不〜下雨的。",
+    "example_meaning": "Tôi biết lái xe. / Tôi đã học được tiếng Trung rồi. / Ngày mai chắc sẽ không mưa đâu."
+  },
+  {
+    "stt": 43,
+    "vocab": "几",
+    "hanviet": "Kỷ",
+    "pinyin": "jǐ",
+    "meaning": "pron. how many; pron. express an indeterminate amount / Đại từ. mấy; bao nhiêu; Đại từ biểu thị số lượng không xác định. vài; một vài",
+    "example": "你有〜个儿子？ / 我家里来了〜个人。",
+    "example_meaning": "Bạn có mấy đứa con trai? / Nhà tôi có vài người đến chơi."
+  },
+  {
+    "stt": 44,
+    "vocab": "家",
+    "hanviet": "Gia",
+    "pinyin": "jiā",
+    "meaning": "n. home; family; household; nm. used for families, restaurants, hotels or companies / Danh từ. nhà; gia đình; hộ gia đình; Lượng từ. ngôi; cái (dùng cho gia đình, nhà hàng, khách sạn hoặc công ty)",
+    "example": "我〜在北京。 / 我哥哥开了一〜公司。",
+    "example_meaning": "Nhà tôi ở Bắc Kinh. / Anh trai tôi mở một công ty."
+  },
+  {
+    "stt": 45,
+    "vocab": "叫",
+    "hanviet": "Khiếu",
+    "pinyin": "jiào",
+    "meaning": "V. call(ed) (followed by a name) / Động từ. gọi là; tên là (theo sau bởi một tên riêng)",
+    "example": "我的名字〜李明。",
+    "example_meaning": "Tên của tôi gọi là Lý Minh."
+  },
+  {
+    "stt": 46,
+    "vocab": "今天",
+    "hanviet": "Kim Thiên",
+    "pinyin": "jīntiān",
+    "meaning": "n. today / Danh từ. hôm nay",
+    "example": "我〜去北京。",
+    "example_meaning": "Hôm nay tôi đi Bắc Kinh."
+  },
+  {
+    "stt": 47,
+    "vocab": "九",
+    "hanviet": "Cửu",
+    "pinyin": "jiǔ",
+    "meaning": "num. nine / Số từ. chín (số 9)",
+    "example": "今天是八月〜日。",
+    "example_meaning": "Hôm nay là ngày 9 tháng 8."
+  },
+  {
+    "stt": 48,
+    "vocab": "开",
+    "hanviet": "Khai",
+    "pinyin": "kāi",
+    "meaning": "V. drive; V. open/found; V. open; V. hold / Động từ. lái (xe); Động từ. mở rộng, thành lập; Động từ. mở; Động từ. tổ chức (hội nghị, đại hội...)",
+    "example": "我〜了三年出租车了。 / 我爸爸〜 l một cái nhỏ công ty (我爸爸〜了一个小公司。) / 请〜门，让我进去。 / 我们学校在每年夏天〜运动会。",
+    "example_meaning": "Tôi lái taxi được 3 năm rồi. / Bố tôi mở một công ty nhỏ. / Xin vui lòng mở cửa, cho tôi vào với. / Trường chúng tôi tổ chức đại hội thể thao vào mỗi mùa hè."
+  },
+  {
+    "stt": 49,
+    "vocab": "看",
+    "hanviet": "Khán",
+    "pinyin": "kàn",
+    "meaning": "V. look; watch; V. read; appreciate / Động từ. nhìn; xem; Động từ. đọc (sách); thưởng thức",
+    "example": "你〜，那本书在桌子上呢。 / 我在〜书呢。",
+    "example_meaning": "Bạn nhìn xem, cuốn sách kia đang ở trên bàn kìa. / Tôi đang đọc sách."
+  },
+  {
+    "stt": 50,
+    "vocab": "看见",
+    "hanviet": "Khán Kiến",
+    "pinyin": "kànjiàn",
+    "meaning": "V. see / Động từ. nhìn thấy; trông thấy",
+    "example": "我没〜他。",
+    "example_meaning": "Tôi không nhìn thấy anh ấy."
+  },
+  {
+    "stt": 51,
+    "vocab": "块",
+    "hanviet": "Khối",
+    "pinyin": "kuài",
+    "meaning": "nm. RMB Yuan; nm. piece; vm. together / Lượng từ. tệ (đơn vị tiền tệ Nhân dân tệ); Lượng từ. cục, miếng, khối; Phó từ. cùng nhau",
+    "example": "这本书二十〜钱。 / 来吃〜西瓜吧。 / 我跟朋友在一〜儿呢。",
+    "example_meaning": "Cuốn sách này giá 20 tệ. / Lại đây ăn miếng dưa hấu đi. / Tôi đang ở cùng một chỗ với bạn bè."
+  },
+  {
+    "stt": 52,
+    "vocab": "来",
+    "hanviet": "Lai",
+    "pinyin": "lái",
+    "meaning": "V. come; V. used to indicate some action / Động từ. đến; Động từ dùng để biểu thị một hành động nào đó",
+    "example": "他是昨天〜这儿的。 / 再〜点儿水果，怎么样？",
+    "example_meaning": "Anh ấy đến đây vào ngày hôm qua. / Ăn thêm chút trái cây nữa nhé, thấy thế nào?"
+  },
+  {
+    "stt": 53,
+    "vocab": "老师",
+    "hanviet": "Lão Sư",
+    "pinyin": "lǎoshī",
+    "meaning": "n. teacher / Danh từ. giáo viên; thầy giáo; cô giáo",
+    "example": "他就是我们的汉语〜。",
+    "example_meaning": "Thầy ấy chính là giáo viên tiếng Trung của chúng tôi."
+  },
+  {
+    "stt": 54,
+    "vocab": "了",
+    "hanviet": "Liễu",
+    "pinyin": "le",
+    "meaning": "mp. used at the end of a sentence to indicate change in status; sa. used after a verb to indicate that the action is in the past and has been completed / Trợ từ ngữ khí. dùng ở cuối câu biểu thị sự thay đổi trạng thái; Trợ từ động thái. dùng sau động từ biểu thị hành động đã xảy ra và hoàn thành",
+    "example": "昨天下雨〜。 / 我吃〜饭就去 you kia (我吃〜饭就去你那里。)",
+    "example_meaning": "Hôm qua trời mưa rồi. / Tôi ăn cơm xong sẽ đi đến chỗ bạn ngay."
+  },
+  {
+    "stt": 55,
+    "vocab": "冷",
+    "hanviet": "Lãnh",
+    "pinyin": "lěng",
+    "meaning": "adj. cold / Tính từ. lạnh",
+    "example": "今天太〜了。",
+    "example_meaning": "Hôm nay lạnh quá."
+  },
+  {
+    "stt": 56,
+    "vocab": "里",
+    "hanviet": "Lý",
+    "pinyin": "lǐ",
+    "meaning": "n. interior; inside / Danh từ chỉ phương vị. bên trong; trong",
+    "example": "我们都在学校〜。",
+    "example_meaning": "Chúng tôi đều ở trong trường học."
+  },
+  {
+    "stt": 57,
+    "vocab": "零",
+    "hanviet": "Linh",
+    "pinyin": "líng",
+    "meaning": "num. zero / Số từ. không (số 0)",
+    "example": "今年是一〜一一年。",
+    "example_meaning": "Năm nay là năm 2011."
+  },
+  {
+    "stt": 58,
+    "vocab": "六",
+    "hanviet": "Lục",
+    "pinyin": "liù",
+    "meaning": "num. six / Số từ. sáu (số 6)",
+    "example": "桌子上有〜个杯子。",
+    "example_meaning": "Trên bàn có sáu cái cốc."
+  },
+  {
+    "stt": 59,
+    "vocab": "妈妈",
+    "hanviet": "Ma Ma",
+    "pinyin": "māma",
+    "meaning": "n. mother; ma; mamma; mum / Danh từ. mẹ; má",
+    "example": "我〜不在家。",
+    "example_meaning": "Mẹ tôi không ở nhà."
+  },
+  {
+    "stt": 60,
+    "vocab": "吗",
+    "hanviet": "Ma",
+    "pinyin": "ma",
+    "meaning": "mp. used at the end of a sentence, indicating a question / Trợ từ ngữ khí. không? à? (dùng ở cuối câu để hỏi)",
+    "example": "你是中国人〜？",
+    "example_meaning": "Bạn là người Trung Quốc phải không?"
+  },
+  {
+    "stt": 61,
+    "vocab": "买",
+    "hanviet": "Mãi",
+    "pinyin": "mǎi",
+    "meaning": "V. buy / Động từ. mua",
+    "example": "我〜了一些苹果。",
+    "example_meaning": "Tôi đã mua một vài quả táo."
+  },
+  {
+    "stt": 62,
+    "vocab": "没关系",
+    "hanviet": "Một Quan Hệ",
+    "pinyin": "méi guānxi",
+    "meaning": "That’s all right. You are welcome. / Không sao đâu; Không có gì.",
+    "example": "甲：对不起！乙：〜。",
+    "example_meaning": "A: Xin lỗi! B: Không sao đâu."
+  },
+  {
+    "stt": 63,
+    "vocab": "沒有",
+    "hanviet": "Một Hữu",
+    "pinyin": "méiyǒu",
+    "meaning": "V. have nothing or nobody; can't compare with others / Động từ. không có (người hoặc vật); không bằng (so sánh kém)",
+    "example": "我家里〜人。 / 我〜打 (我〜他高。)",
+    "example_meaning": "Nhà tôi không có ai ở nhà. / Tôi không cao bằng anh ấy."
+  },
+  {
+    "stt": 64,
+    "vocab": "米饭",
+    "hanviet": "Mễ Phạn",
+    "pinyin": "mǐfàn",
+    "meaning": "n. cooked rice / Danh từ. cơm (đã nấu chín)",
+    "example": "我爱吃〜。",
+    "example_meaning": "Tôi thích ăn cơm."
+  },
+  {
+    "stt": 65,
+    "vocab": "明天",
+    "hanviet": "Minh Thiên",
+    "pinyin": "míngtiān",
+    "meaning": "n. tomorrow / Danh từ. ngày mai",
+    "example": "今天星期日，〜是星期一。",
+    "example_meaning": "Hôm nay là Chủ nhật, ngày mai là Thứ hai."
+  },
+  {
+    "stt": 66,
+    "vocab": "名字",
+    "hanviet": "Danh Tự",
+    "pinyin": "míngzi",
+    "meaning": "n. name; title / Danh từ. tên; tên gọi",
+    "example": "我的〜叫李明。",
+    "example_meaning": "Tên của tôi gọi là Lý Minh."
+  },
+  {
+    "stt": 67,
+    "vocab": "哪",
+    "hanviet": "Nả",
+    "pinyin": "nǎ",
+    "meaning": "pron. which (used in front of a measure word) / Đại từ. nào (dùng trước lượng từ)",
+    "example": "〜个杯子是你的？",
+    "example_meaning": "Cái cốc nào là của bạn?"
+  },
+  {
+    "stt": 68,
+    "vocab": "哪儿",
+    "hanviet": "Nả Nhi",
+    "pinyin": "nǎr",
+    "meaning": "pron. where / Đại từ. đâu; ở đâu",
+    "example": "你家在〜？",
+    "example_meaning": "Nhà bạn ở đâu?"
+  },
+  {
+    "stt": 69,
+    "vocab": "那（那儿）",
+    "hanviet": "Na (Na Nhi)",
+    "pinyin": "nà (nàr)",
+    "meaning": "pron. that; pron. there / Đại từ. kia, đó; Đại từ. chỗ kia, đằng đó",
+    "example": "我不认识〜个人。 / 我们的车在〜。",
+    "example_meaning": "Tôi không quen biết người kia. / Xe của chúng tôi ở đằng kia."
+  },
+  {
+    "stt": 70,
+    "vocab": "呢",
+    "hanviet": "Ni",
+    "pinyin": "ne",
+    "meaning": "mp. used at the end of a sentence, indicating an interrogative statement; mp. used at the end of a sentence to indicate a statement / Trợ từ ngữ khí. dùng ở cuối câu biểu thị sự dò hỏi (thế còn...); dùng ở cuối câu trần thuật biểu thị sự tiếp diễn của hành động (đang... đấy)",
+    "example": "你们家有几个人〜？ / 我在睡觉〜。",
+    "example_meaning": "Nhà các bạn có mấy người thế? / Tôi đang ngủ đây."
+  },
+  {
+    "stt": 71,
+    "vocab": "能",
+    "hanviet": "Năng",
+    "pinyin": "néng",
+    "meaning": "aux. can; may / Động từ năng nguyện. có thể (năng lực hoặc sự cho phép)",
+    "example": "我〜坐在这儿吗？",
+    "example_meaning": "Tôi có thể ngồi ở đây được không?"
+  },
+  {
+    "stt": 72,
+    "vocab": "你",
+    "hanviet": "Nhĩ",
+    "pinyin": "nǐ",
+    "meaning": "pron. you / Đại từ. bạn; anh; chị; mày (ngôi thứ hai số ít)",
+    "example": "〜认识这个人吗？",
+    "example_meaning": "Bạn có quen biết người này không?"
+  },
+  {
+    "stt": 73,
+    "vocab": "年",
+    "hanviet": "Niên",
+    "pinyin": "nián",
+    "meaning": "n. year / Danh từ. năm",
+    "example": "我在中国住了三〜。",
+    "example_meaning": "Tôi đã sống ở Trung Quốc được 3 năm rồi."
+  },
+  {
+    "stt": 74,
+    "vocab": "女儿",
+    "hanviet": "Nữ Nhi",
+    "pinyin": "nǚ'ér",
+    "meaning": "n. daughter / Danh từ. con gái",
+    "example": "我有两个〜。",
+    "example_meaning": "Tôi có hai đứa con gái."
+  },
+  {
+    "stt": 75,
+    "vocab": "朋友",
+    "hanviet": "Bằng Hữu",
+    "pinyin": "péngyou",
+    "meaning": "n. friend / Danh từ. bạn bè; người bạn",
+    "example": "他是我的好〜。",
+    "example_meaning": "Anh ấy là người bạn tốt của tôi."
+  },
+  {
+    "stt": 76,
+    "vocab": "漂亮",
+    "hanviet": "Phiêu Lượng",
+    "pinyin": "piàoliang",
+    "meaning": "adj. good-looking; pretty; beautiful / Tính từ. đẹp; xinh đẹp; xinh xắn",
+    "example": "你的衣服真〜。",
+    "example_meaning": "Quần áo của bạn thật đẹp quá."
+  },
+  {
+    "stt": 77,
+    "vocab": "苹果",
+    "hanviet": "Bình Quả",
+    "pinyin": "píngguǒ",
+    "meaning": "n. apple / Danh từ. quả táo",
+    "example": "你想不想吃个〜？",
+    "example_meaning": "Bạn có muốn ăn một quả táo không?"
+  },
+  {
+    "stt": 78,
+    "vocab": "七",
+    "hanviet": "Thất",
+    "pinyin": "qī",
+    "meaning": "num. seven / Số từ. bảy (số 7)",
+    "example": "一个星期有〜天。",
+    "example_meaning": "Một tuần có bảy ngày."
+  },
+  {
+    "stt": 79,
+    "vocab": "钱",
+    "hanviet": "Tiền",
+    "pinyin": "qián",
+    "meaning": "n. money / Danh từ. tiền",
+    "example": "一个苹果三块〜。",
+    "example_meaning": "Một quả táo giá ba tệ."
+  },
+  {
+    "stt": 80,
+    "vocab": "前面",
+    "hanviet": "Tiền Diện",
+    "pinyin": "qiánmiàn",
+    "meaning": "n. before; in front; at the head; ahead / Danh từ. phía trước; đằng trước; trước mặt",
+    "example": "〜那个人 square_root... 〜那 个 人 是 我 的 同 学 。",
+    "example_meaning": "Người ở phía trước kia là bạn học của tôi."
+  },
+  {
+    "stt": 81,
+    "vocab": "请",
+    "hanviet": "Thỉnh",
+    "pinyin": "qǐng",
+    "meaning": "V. please; V. request; ask; invite; engage; hire; V. entertain; treat / Động từ. xin, vui lòng; Động từ. yêu cầu, thỉnh cầu, mời, thuê; Động từ. chiêu đãi, bao (ăn uống)",
+    "example": "〜坐在椅子上。 / 我去〜老师帮忙。 / 他想〜我吃饭。",
+    "example_meaning": "Xin mời ngồi trên ghế. / Tôi đi nhờ thầy cô giúp đỡ. / Anh ấy muốn mời tôi ăn cơm."
+  },
+  {
+    "stt": 82,
+    "vocab": "去",
+    "hanviet": "Khứ",
+    "pinyin": "qù",
+    "meaning": "V. go; leave; V. used after a verb, indicating the tendency of the action; V. remove; get rid of / Động từ. đi; rời đi; Động từ chỉ xu hướng (đặt sau động từ); Động từ. bỏ, loại bỏ",
+    "example": "我星期三〜中国。 / 小猫跑到房间里〜了。 / 把这个字〜掉，这个句子就đúng了。 (我星期三〜中国。 / 小猫跑到房间里〜了。 / 把这个字〜掉，这个句子就对了。)",
+    "example_meaning": "Tôi đi Trung Quốc vào thứ Tư. / Chú mèo con chạy vào trong phòng rồi. / Bỏ chữ này đi thì câu này đúng rồi."
+  },
+  {
+    "stt": 83,
+    "vocab": "热",
+    "hanviet": "Nhiệt",
+    "pinyin": "rè",
+    "meaning": "adj. hot; high in temperature; V. heat up; warm up / Tính từ. nóng; nhiệt độ cao; Động từ. làm nóng, hâm nóng",
+    "example": "今天很〜。 / 我去〜一下米饭。",
+    "example_meaning": "Hôm nay rất nóng. / Tôi đi hâm nóng cơm một lát."
+  },
+  {
+    "stt": 84,
+    "vocab": "人",
+    "hanviet": "Nhân",
+    "pinyin": "rén",
+    "meaning": "n. human being; person; people / Danh từ. người; loài người; nhân loại",
+    "example": "商店里有很多〜。",
+    "example_meaning": "Trong cửa hàng có rất nhiều người."
+  },
+  {
+    "stt": 85,
+    "vocab": "认识",
+    "hanviet": "Nhận Thức",
+    "pinyin": "rènshi",
+    "meaning": "V. get to know; get acquainted with / Động từ. quen biết; nhận biết",
+    "example": "〜你很高兴。",
+    "example_meaning": "Quen biết bạn rất vui."
+  },
+  {
+    "stt": 86,
+    "vocab": "三",
+    "hanviet": "Tam",
+    "pinyin": "sān",
+    "meaning": "num. three / Số từ. ba (số 3)",
+    "example": "我有〜本书。",
+    "example_meaning": "Tôi có ba quyển sách."
+  },
+  {
+    "stt": 87,
+    "vocab": "商店",
+    "hanviet": "Thương Điếm",
+    "pinyin": "shāngdiàn",
+    "meaning": "n. shop; store / Danh từ. cửa hàng; tiệm",
+    "example": "她去〜买东西了。",
+    "example_meaning": "Cô ấy đi cửa hàng mua đồ rồi."
+  },
+  {
+    "stt": 88,
+    "vocab": "上",
+    "hanviet": "Thượng",
+    "pinyin": "shàng",
+    "meaning": "n. upper; up; on; upward; V. be engaged (in work, study, etc.) at a fixed time; V. go up; mount; board; get on / Danh từ chỉ phương vị. phía trên; trên; hướng lên; Động từ. đi làm, đi học (vào thời gian cố định); Động từ. lên, đi lên, lên xe/lên tàu",
+    "example": "水果在桌子〜。 / 我们八点去〜学。 / 我们坐电梯〜楼。",
+    "example_meaning": "Trái cây ở trên bàn. / Chúng tôi đi học lúc 8 giờ. / Chúng tôi đi thang máy lên lầu."
+  },
+  {
+    "stt": 89,
+    "vocab": "上午",
+    "hanviet": "Thượng Ngọ",
+    "pinyin": "shàngwǔ",
+    "meaning": "n. morning / Danh từ. buổi sáng (nửa đầu ngày, từ khoảng 8h đến 12h)",
+    "example": "现在是〜 10 点。",
+    "example_meaning": "Bây giờ là 10 giờ sáng."
+  },
+  {
+    "stt": 90,
+    "vocab": "少",
+    "hanviet": "Thiểu",
+    "pinyin": "shǎo",
+    "meaning": "adj. not much / many; V. be short; be lack / Tính từ. ít; không nhiều; Động từ. thiếu; không đủ",
+    "example": "杯子里的水很〜。 / 我还〜本书。",
+    "example_meaning": "Nước trong cốc rất ít. / Tôi còn thiếu một quyển sách."
+  },
+  {
+    "stt": 91,
+    "vocab": "谁",
+    "hanviet": "Thùy",
+    "pinyin": "shéi",
+    "meaning": "pron. who(m) / Đại từ. ai",
+    "example": "那个人是〜？",
+    "example_meaning": "Người kia là ai?"
+  },
+  {
+    "stt": 92,
+    "vocab": "什么",
+    "hanviet": "Thập Ma",
+    "pinyin": "shénme",
+    "meaning": "pron. what; pron. express explicit meaning, referring to the thing uncertain or unspoken / Đại từ. cái gì; Đại từ biểu thị ý nghĩa không xác định (bất cứ cái gì/cái nào đó chưa xác định)",
+    "example": "你看见了〜？ / 你真棒，〜都会！",
+    "example_meaning": "Bạn đã nhìn thấy cái gì? / Bạn thật giỏi, cái gì cũng biết!"
+  },
+  {
+    "stt": 93,
+    "vocab": "十",
+    "hanviet": "Thập",
+    "pinyin": "shí",
+    "meaning": "num. ten / Số từ. mười (số 10)",
+    "example": "现在是〜月。",
+    "example_meaning": "Bây giờ là tháng mười."
+  },
+  {
+    "stt": 94,
+    "vocab": "时候",
+    "hanviet": "Thời Hậu",
+    "pinyin": "shíhou",
+    "meaning": "n. moment; time; period / Danh từ. lúc; khi; thời gian; khoảnh khắc",
+    "example": "我回家的〜，他在睡觉。",
+    "example_meaning": "Lúc tôi về nhà thì anh ấy đang ngủ."
+  },
+  {
+    "stt": 95,
+    "vocab": "是",
+    "hanviet": "Thị",
+    "pinyin": "shì",
+    "meaning": "V. be; V. yes / Động từ. là; Động từ. vâng, đúng, phải",
+    "example": "他不〜学生。 / 甲：你是中国人吗？乙：〜，我是中国人。",
+    "example_meaning": "Anh ấy không phải là học sinh. / A: Bạn là người Trung Quốc phải không? B: Đúng vậy, tôi là người Trung Quốc."
+  },
+  {
+    "stt": 96,
+    "vocab": "书",
+    "hanviet": "Thư",
+    "pinyin": "shū",
+    "meaning": "n. book / Danh từ. sách",
+    "example": "我喜欢读〜。",
+    "example_meaning": "Tôi thích đọc sách."
+  },
+  {
+    "stt": 97,
+    "vocab": "水",
+    "hanviet": "Thủy",
+    "pinyin": "shuǐ",
+    "meaning": "n. water / Danh từ. nước",
+    "example": "杯子里还有〜吗？",
+    "example_meaning": "Trong cốc còn nước không?"
+  },
+  {
+    "stt": 98,
+    "vocab": "水果",
+    "hanviet": "Thủy Quả",
+    "pinyin": "shuǐguǒ",
+    "meaning": "n. fruit / Danh từ. hoa quả; trái cây",
+    "example": "我想去商店买〜。",
+    "example_meaning": "Tôi muốn đến cửa hàng mua trái cây."
+  },
+  {
+    "stt": 99,
+    "vocab": "睡觉",
+    "hanviet": "Thụy Giác",
+    "pinyin": "shuìjiào",
+    "meaning": "V. sleep; go to bed / Động từ. ngủ; đi ngủ",
+    "example": "儿子在〜呢。",
+    "example_meaning": "Con trai đang ngủ đấy."
+  },
+  {
+    "stt": 100,
+    "vocab": "说",
+    "hanviet": "Thuyết",
+    "pinyin": "shuō",
+    "meaning": "V. speak; talk; say / Động từ. nói",
+    "example": "你在〜什么？",
+    "example_meaning": "Bạn đang nói cái gì vậy?"
+  },
+  {
+    "stt": 101,
+    "vocab": "说话",
+    "hanviet": "Thuyết Thoại",
+    "pinyin": "shuōhuà",
+    "meaning": "V. speak; talk; say / Động từ. nói chuyện; phát biểu",
+    "example": "他们在〜。",
+    "example_meaning": "Họ đang nói chuyện."
+  },
+  {
+    "stt": 102,
+    "vocab": "四",
+    "hanviet": "Tứ",
+    "pinyin": "sì",
+    "meaning": "num. four / Số từ. bốn (số 4)",
+    "example": "我们〜个人去看电影。",
+    "example_meaning": "Bốn người chúng tôi đi xem phim."
+  },
+  {
+    "stt": 103,
+    "vocab": "岁",
+    "hanviet": "Tuế",
+    "pinyin": "suì",
+    "meaning": "nm. year (of age) / Lượng từ. tuổi (đơn vị đo tuổi tác)",
+    "example": "李医生今年 4 0〜。",
+    "example_meaning": "Bác sĩ Lý năm nay 40 tuổi."
+  },
+  {
+    "stt": 104,
+    "vocab": "他",
+    "hanviet": "Tha",
+    "pinyin": "tā",
+    "meaning": "pron. he; him / Đại từ. anh ấy; ông ấy; nó (ngôi thứ ba số ít, chỉ nam giới hoặc vật số ít ngôi thứ ba)",
+    "example": "〜是我们的老师。",
+    "example_meaning": "Anh ấy là giáo viên của chúng tôi."
+  },
+  {
+    "stt": 105,
+    "vocab": "她",
+    "hanviet": "Tha",
+    "pinyin": "tā",
+    "meaning": "pron. she; her / Đại từ. cô ấy; bà ấy; chị ấy (ngôi thứ ba số ít, chỉ nữ giới)",
+    "example": "我认识〜的妈妈。",
+    "example_meaning": "Tôi quen mẹ của cô ấy."
+  },
+  {
+    "stt": 106,
+    "vocab": "太",
+    "hanviet": "Thái",
+    "pinyin": "tài",
+    "meaning": "adv. (in expressing approval or compliment) very much or extremely; adv. too; excessively / Phó từ. quá; lắm; cực kỳ (biểu thị sự tán thành hoặc khen ngợi); Phó từ. quá (biểu thị quá mức)",
+    "example": "这个学校〜大了。 / 这个苹果〜大, 我吃不完。",
+    "example_meaning": "Trường học này to quá. / Quả táo này to quá, tôi ăn không hết."
+  },
+  {
+    "stt": 107,
+    "vocab": "天气",
+    "hanviet": "Thiên Khí",
+    "pinyin": "tiānqì",
+    "meaning": "n. weather / Danh từ. thời tiết",
+    "example": "今天的〜非常好。",
+    "example_meaning": "Thời tiết hôm nay cực kỳ tốt."
+  },
+  {
+    "stt": 108,
+    "vocab": "听",
+    "hanviet": "Thính",
+    "pinyin": "tīng",
+    "meaning": "V. hear; listen; V. obey; accept / Động từ. nghe; Động từ. nghe theo, vâng lời, chấp nhận",
+    "example": "你〜，谁来了？ / 这件事儿，我〜你的。",
+    "example_meaning": "Bạn nghe xem, ai đến thế? / Việc này tôi nghe theo bạn."
+  },
+  {
+    "stt": 109,
+    "vocab": "同学",
+    "hanviet": "Đồng Học",
+    "pinyin": "tóngxué",
+    "meaning": "n. student; classmate / Danh từ. học sinh, bạn học; bạn cùng lớp",
+    "example": "〜们，你们好！",
+    "example_meaning": "Chào các bạn học sinh!"
+  },
+  {
+    "stt": 110,
+    "vocab": "喂",
+    "hanviet": "Úy / Oai",
+    "pinyin": "wèi",
+    "meaning": "int. hello; hey; hi / Thán từ. alo; này (dùng khi gọi điện thoại hoặc gọi ai đó)",
+    "example": "〜，李老师在吗？",
+    "example_meaning": "Alo, cô Lý có nhà không? / Alo, thầy Lý có ở đó không?"
+  },
+  {
+    "stt": 111,
+    "vocab": "我",
+    "hanviet": "Ngã",
+    "pinyin": "wǒ",
+    "meaning": "pron. I; me / Đại từ. tôi; tao; tớ (ngôi thứ nhất số ít)",
+    "example": "〜是一个 student。 (〜是一个学生。)",
+    "example_meaning": "Tôi là một học sinh."
+  },
+  {
+    "stt": 112,
+    "vocab": "我们",
+    "hanviet": "Ngã Môn",
+    "pinyin": "wǒmen",
+    "meaning": "pron. we; us / Đại từ. chúng tôi; chúng ta; chúng tớ",
+    "example": "〜都是学生。",
+    "example_meaning": "Chúng tôi đều là học sinh."
+  },
+  {
+    "stt": 113,
+    "vocab": "五",
+    "hanviet": "Ngũ",
+    "pinyin": "wǔ",
+    "meaning": "num. five / Số từ. năm (số 5)",
+    "example": "今天星期〜。",
+    "example_meaning": "Hôm nay là Thứ sáu."
+  },
+  {
+    "stt": 114,
+    "vocab": "喜欢",
+    "hanviet": "Hỷ Hoan",
+    "pinyin": "xǐhuan",
+    "meaning": "V. like or be interested in (sb. or sth.) / Động từ. thích hoặc có hứng thú với (ai hoặc cái gì)",
+    "example": "我〜学汉语。",
+    "example_meaning": "Tôi thích học tiếng Trung."
+  },
+  {
+    "stt": 115,
+    "vocab": "下",
+    "hanviet": "Hạ",
+    "pinyin": "xià",
+    "meaning": "n. under; below; V. fall; n. next; V. go down; get off; V. finish; leave (work or shift or class) / Danh từ chỉ phương vị. dưới, phía dưới; Động từ. rơi (mưa, tuyết...); Danh từ. sau, kế tiếp; Động từ. xuống, bước xuống, xuống xe; Động từ. tan (làm, học)",
+    "example": "小猫在桌子〜面。 / 今天〜雨了。 / 我〜个月去北京。 / 他在〜飞机呢。 / 我们八点〜班。",
+    "example_meaning": "Chú mèo con ở dưới bàn. / Hôm nay trời mưa rồi. / Tháng sau tôi đi Bắc Kinh. / Anh ấy đang xuống máy bay đấy. / Chúng tôi tan làm lúc 8 giờ."
+  },
+  {
+    "stt": 116,
+    "vocab": "下午",
+    "hanviet": "Hạ Ngọ",
+    "pinyin": "xiàwǔ",
+    "meaning": "n. afternoon / Danh từ. buổi chiều (từ khoảng 12h trưa đến khi mặt trời lặn)",
+    "example": "我今天〜不去学校了。",
+    "example_meaning": "Chiều nay tôi không đến trường nữa."
+  },
+  {
+    "stt": 117,
+    "vocab": "下雨",
+    "hanviet": "Hạ Vũ",
+    "pinyin": "xià yǔ",
+    "meaning": "V. rain / Động từ. mưa, rơi mưa",
+    "example": "昨天〜了。",
+    "example_meaning": "Hôm qua trời mưa rồi."
+  },
+  {
+    "stt": 118,
+    "vocab": "先生",
+    "hanviet": "Tiên Sinh",
+    "pinyin": "xiānsheng",
+    "meaning": "n. (addressing) Mr.; Mister; sir / Danh từ. ông; ngài; thầy (dùng để xưng hô lịch sự)",
+    "example": "你也认识王〜？",
+    "example_meaning": "Bạn cũng quen biết ông Vương à?"
+  },
+  {
+    "stt": 119,
+    "vocab": "现在",
+    "hanviet": "Hiện Tại",
+    "pinyin": "xiànzài",
+    "meaning": "n. now; nowadays; today; at present / Danh từ. bây giờ; hiện nay; ngày nay; hiện tại",
+    "example": "〜是 1 2 点。",
+    "example_meaning": "Bây giờ là 12 giờ."
+  },
+  {
+    "stt": 120,
+    "vocab": "想",
+    "hanviet": "Tưởng",
+    "pinyin": "xiǎng",
+    "meaning": "aux. want to; be going to; would like to; V. think; think about; think of; think over; V. miss / Động từ năng nguyện. muốn, định; Động từ. nghĩ, suy nghĩ, cân nhắc; Động từ. nhớ, nhớ nhung",
+    "example": "我〜星期六去北京。 / 妈妈，你在〜什么呢？ / 爸爸，我〜你了。",
+    "example_meaning": "Tôi muốn đi Bắc Kinh vào thứ Bảy. / Mẹ ơi, mẹ đang nghĩ gì thế ạ? / Bố ơi, con nhớ bố rồi."
+  },
+  {
+    "stt": 121,
+    "vocab": "小",
+    "hanviet": "Tiểu",
+    "pinyin": "xiǎo",
+    "meaning": "adj. small; little; V. become smaller / Tính từ. nhỏ, bé; Động từ. nhỏ đi, giảm đi",
+    "example": "这个苹果太〜了。 / 雨〜lê, chúng ta bây giờ đi thôi (雨〜了，我们现在走吧。)",
+    "example_meaning": "Quả táo này nhỏ quá. / Mưa nhỏ rồi, chúng ta đi thôi."
+  },
+  {
+    "stt": 122,
+    "vocab": "小姐",
+    "hanviet": "Tiểu Thư",
+    "pinyin": "xiǎojie",
+    "meaning": "n. Miss / Danh từ. cô; tiểu thư",
+    "example": "〜，你叫什么名字？",
+    "example_meaning": "Cô ơi, cô tên là gì?"
+  },
+  {
+    "stt": 123,
+    "vocab": "些",
+    "hanviet": "Tá",
+    "pinyin": "xiē",
+    "meaning": "nm. some; vm. a little bit / Lượng từ. một số, một vài; Lượng từ bổ ngữ động từ. một chút, một ít",
+    "example": "我买了〜苹果。 / 我的病好〜了。",
+    "example_meaning": "Tôi đã mua một số quả táo. / Bệnh của tôi đã đỡ hơn một chút rồi."
+  },
+  {
+    "stt": 124,
+    "vocab": "写",
+    "hanviet": "Tả",
+    "pinyin": "xiě",
+    "meaning": "V. write / Động từ. viết",
+    "example": "你〜的字很漂亮。",
+    "example_meaning": "Chữ bạn viết rất đẹp."
+  },
+  {
+    "stt": 125,
+    "vocab": "谢谢",
+    "hanviet": "Tạ Tạ",
+    "pinyin": "xièxie",
+    "meaning": "V. thank / Động từ. cảm ơn",
+    "example": "甲：〜你。乙：不客气！",
+    "example_meaning": "A: Cảm ơn bạn. B: Không có gì!"
+  },
+  {
+    "stt": 126,
+    "vocab": "星期",
+    "hanviet": "Tinh Kỳ",
+    "pinyin": "xīngqī",
+    "meaning": "n. week / Danh từ. tuần",
+    "example": "一个〜有七天。",
+    "example_meaning": "Một tuần có bảy ngày."
+  },
+  {
+    "stt": 127,
+    "vocab": "学生",
+    "hanviet": "Học Sinh",
+    "pinyin": "xuésheng",
+    "meaning": "n. student / Danh từ. học sinh; sinh viên",
+    "example": "我们学校里的〜很多。",
+    "example_meaning": "Học sinh trong trường chúng tôi rất đông."
+  },
+  {
+    "stt": 128,
+    "vocab": "学习",
+    "hanviet": "Học Tập",
+    "pinyin": "xuéxí",
+    "meaning": "V. study; learn / Động từ. học; học tập",
+    "example": "你喜欢〜汉语吗？",
+    "example_meaning": "Bạn có thích học tiếng Trung không?"
+  },
+  {
+    "stt": 129,
+    "vocab": "学校",
+    "hanviet": "Học Hiệu",
+    "pinyin": "xuéxiào",
+    "meaning": "n. school / Danh từ. trường học",
+    "example": "我们〜很大。",
+    "example_meaning": "Trường học của chúng tôi rất lớn."
+  },
+  {
+    "stt": 130,
+    "vocab": "一",
+    "hanviet": "Nhất",
+    "pinyin": "yī",
+    "meaning": "num. one; num. used between a reduplicative verb / Số từ. một (số 1); Số từ đặt giữa động từ lặp lại (biểu thị hành động thử hoặc diễn ra nhanh)",
+    "example": "这儿〜个人都没有。 / 请让我看〜看。",
+    "example_meaning": "Ở đây một người cũng không có. / Xin hãy để tôi xem một lát."
+  },
+  {
+    "stt": 131,
+    "vocab": "一点儿",
+    "hanviet": "Nhất Điểm Nhi",
+    "pinyin": "yìdiǎnr",
+    "meaning": "nm. a little / Lượng từ. một chút, một ít",
+    "example": "我只有〜钱。",
+    "example_meaning": "Tôi chỉ có một ít tiền."
+  },
+  {
+    "stt": 132,
+    "vocab": "衣服",
+    "hanviet": "Y Phục",
+    "pinyin": "yīfu",
+    "meaning": "n. clothing; clothes; dress / Danh từ. quần áo; y phục",
+    "example": "我在商店买了很多〜。",
+    "example_meaning": "Tôi đã mua rất nhiều quần áo ở cửa hàng."
+  },
+  {
+    "stt": 133,
+    "vocab": "医生",
+    "hanviet": "Y Sinh / Y Sanh",
+    "pinyin": "yīshēng",
+    "meaning": "n. doctor; surgeon / Danh từ. bác sĩ; y sĩ",
+    "example": "他是这个医院里的〜。",
+    "example_meaning": "Anh ấy là bác sĩ trong bệnh viện này."
+  },
+  {
+    "stt": 134,
+    "vocab": "医院",
+    "hanviet": "Y Viện",
+    "pinyin": "yīyuàn",
+    "meaning": "n. hospital / Danh từ. bệnh viện",
+    "example": "这是一个大〜。",
+    "example_meaning": "Đây là một bệnh viện lớn."
+  },
+  {
+    "stt": 135,
+    "vocab": "椅子",
+    "hanviet": "Y Tử",
+    "pinyin": "yǐzi",
+    "meaning": "n. chair / Danh từ. cái ghế",
+    "example": "小狗在〜下面呢。",
+    "example_meaning": "Chú chó con đang ở dưới ghế kìa."
+  },
+  {
+    "stt": 136,
+    "vocab": "有",
+    "hanviet": "Hữu",
+    "pinyin": "yǒu",
+    "meaning": "V. have; V. be; there be / Động từ. có; Động từ. có, tồn tại (có cái gì ở đâu)",
+    "example": "我〜一个女儿。 / 桌子上〜本书。",
+    "example_meaning": "Tôi có một đứa con gái. / Trên bàn có một quyển sách."
+  },
+  {
+    "stt": 137,
+    "vocab": "月",
+    "hanviet": "Nguyệt",
+    "pinyin": "yuè",
+    "meaning": "n. month / Danh từ. tháng",
+    "example": "一年有 1 2 个〜。",
+    "example_meaning": "Một năm có 12 tháng."
+  },
+  {
+    "stt": 138,
+    "vocab": "再见",
+    "hanviet": "Tái Kiến",
+    "pinyin": "zàijiàn",
+    "meaning": "goodbye / Tạm biệt; Hẹn gặp lại.",
+    "example": "妈妈，我去学校了，〜。",
+    "example_meaning": "Mẹ ơi, con đi học đây, tạm biệt mẹ!"
+  },
+  {
+    "stt": 139,
+    "vocab": "在",
+    "hanviet": "Tại",
+    "pinyin": "zài",
+    "meaning": "V. exist; lie; be at; be on; adv. in the process of doing sth; just; be + verb + ing / Động từ. tồn tại; ở; ở tại; ở trên; Phó từ. đang (ở trong quá trình làm việc gì đó)",
+    "example": "书〜桌子上。 / 我〜吃饭呢。",
+    "example_meaning": "Sách ở trên bàn. / Tôi đang ăn cơm đấy."
+  },
+  {
+    "stt": 140,
+    "vocab": "怎么",
+    "hanviet": "Chẩm Ma",
+    "pinyin": "zěnme",
+    "meaning": "pron. inquiring for property, condition, way, and cause, etc. / Đại từ. thế nào, sao, làm sao (dùng để hỏi về tính chất, tình trạng, phương thức, nguyên nhân...)",
+    "example": "你〜去北京？",
+    "example_meaning": "Bạn đi Bắc Kinh bằng cách nào? / Sao bạn lại đi Bắc Kinh?"
+  },
+  {
+    "stt": 141,
+    "vocab": "怎么样",
+    "hanviet": "Chẩm Ma Dạng",
+    "pinyin": "zěnmeyàng",
+    "meaning": "How about it? What do you think? (inquiring for comments and suggestions as an independent sentence) / Thế nào? Thấy thế nào? Như thế nào? (dùng để hỏi ý kiến hoặc gợi ý trong một câu độc lập)",
+    "example": "我们去看电影，〜？",
+    "example_meaning": "Chúng ta đi xem phim nhé, thấy thế nào?"
+  },
+  {
+    "stt": 142,
+    "vocab": "这（这儿）",
+    "hanviet": "Giá (Giá Nhi)",
+    "pinyin": "zhè (zhèr)",
+    "meaning": "pron. this; here / Đại từ. này, đây; Đại từ. chỗ này, ở đây",
+    "example": "〜个人是我的同学。 / 我能坐在〜儿吗？",
+    "example_meaning": "Người này là bạn học của tôi. / Tôi có thể ngồi ở đây được không?"
+  },
+  {
+    "stt": 143,
+    "vocab": "中国",
+    "hanviet": "Trung Quốc",
+    "pinyin": "Zhōngguó",
+    "meaning": "n. China / Danh từ. Trung Quốc",
+    "example": "我在〜学汉语。",
+    "example_meaning": "Tôi học tiếng Trung ở Trung Quốc."
+  },
+  {
+    "stt": 144,
+    "vocab": "中午",
+    "hanviet": "Trung Ngọ",
+    "pinyin": "zhōngwǔ",
+    "meaning": "n. noon; midday; noonday / Danh từ. buổi trưa (giữa ngày)",
+    "example": "我今天〜去火车站。",
+    "example_meaning": "Trưa hôm nay tôi đi ga tàu hỏa."
+  },
+  {
+    "stt": 145,
+    "vocab": "住",
+    "hanviet": "Trú / Trụ",
+    "pinyin": "zhù",
+    "meaning": "V. live; stay; dwell / Động từ. trú ngụ; sống; ở; cư trú",
+    "example": "他在北京〜了很多年。",
+    "example_meaning": "Anh ấy đã sống ở Bắc Kinh rất nhiều năm rồi."
+  },
+  {
+    "stt": 146,
+    "vocab": "桌子",
+    "hanviet": "Trác Tử",
+    "pinyin": "zhuōzi",
+    "meaning": "n. desk; table / Danh từ. cái bàn",
+    "example": "电脑在〜上。",
+    "example_meaning": "Máy tính ở trên bàn."
+  },
+  {
+    "stt": 147,
+    "vocab": "字",
+    "hanviet": "Tự",
+    "pinyin": "zì",
+    "meaning": "n. written Chinese character / Danh từ. chữ; chữ Hán viết",
+    "example": "这个〜 তুমি 认识吗？ (这个〜你认识吗？)",
+    "example_meaning": "Chữ này bạn có biết không?"
+  },
+  {
+    "stt": 148,
+    "vocab": "昨天",
+    "hanviet": "Tạc Thiên",
+    "pinyin": "zuótiān",
+    "meaning": "n. yesterday / Danh từ. hôm qua",
+    "example": "他〜没去学校。",
+    "example_meaning": "Hôm qua anh ấy không đến trường."
+  },
+  {
+    "stt": 149,
+    "vocab": "坐",
+    "hanviet": "Tọa",
+    "pinyin": "zuò",
+    "meaning": "V. sit; V. travel by (a vehicle) / Động từ. ngồi; Động từ. đi bằng (xe, tàu, máy bay...)",
+    "example": "他 một cái chiều đều〜在电视前。 (他一个下午都〜在电视前。 / 我〜飞机去中国。)",
+    "example_meaning": "Anh ấy ngồi trước tivi suốt cả buổi chiều. / Tôi đi máy bay đến Trung Quốc."
+  },
+  {
+    "stt": 150,
+    "vocab": "做",
+    "hanviet": "Tố",
+    "pinyin": "zuò",
+    "meaning": "V. make; produce; V. be; become, to do; V. do / Động từ. chế tạo; làm ra; Động từ. làm (bản thân đóng vai trò gì đó); Động từ. làm",
+    "example": "今天妈妈〜了很多菜。 / 你是〜什么工作的？ / 我每天〜作业。",
+    "example_meaning": "Hôm nay mẹ đã làm rất nhiều món ăn. / Bạn làm công việc gì thế? / Tôi làm bài tập về nhà mỗi ngày."
+  },
+  {
+    "stt": 151,
+    "vocab": "吧",
+    "hanviet": "Ba",
+    "pinyin": "ba",
+    "meaning": "mp. used at the end of a sentence to express speculative interrogation; mp. used at the end of an imperative sentence / Trợ từ ngữ khí. dùng ở cuối câu biểu thị sự dò hỏi mang tính chất suy đoán (nhé, nhỉ, phải không); Trợ từ ngữ khí. dùng ở cuối câu cầu khiến (đi, thôi, nhé)",
+    "example": "你是个学生〜？ / 请你走〜！",
+    "example_meaning": "Bạn là học sinh phải không? / Bạn đi đi nhé! / Xin mời đi đi!"
+  },
+  {
+    "stt": 152,
+    "vocab": "白",
+    "hanviet": "Bạch",
+    "pinyin": "bái",
+    "meaning": "adj. white / Tính từ. trắng; màu trắng",
+    "example": "我很爱穿那件〜衣服。",
+    "example_meaning": "Tôi rất thích mặc chiếc áo màu trắng kia."
+  },
+  {
+    "stt": 153,
+    "vocab": "百",
+    "hanviet": "Bách",
+    "pinyin": "bǎi",
+    "meaning": "num. one hundred / Số từ. một trăm (100)",
+    "example": "这个自行车五〜多元。",
+    "example_meaning": "Chiếc xe đạp này giá hơn năm trăm tệ."
+  },
+  {
+    "stt": 154,
+    "vocab": "帮助",
+    "hanviet": "Bang Trợ",
+    "pinyin": "bāngzhù",
+    "meaning": "V. help; assist; aid; support / Động từ. giúp đỡ; hỗ trợ; viện trợ; ủng hộ",
+    "example": "请〜我找一家搬家公司，好吗？",
+    "example_meaning": "Xin vui lòng giúp tôi tìm một công ty chuyển nhà, được không?"
+  },
+  {
+    "stt": 155,
+    "vocab": "报纸",
+    "hanviet": "Báo Chỉ",
+    "pinyin": "bàozhǐ",
+    "meaning": "n. newspaper / Danh từ. tờ báo; báo chí",
+    "example": "我每天早上都要读〜。",
+    "example_meaning": "Mỗi buổi sáng tôi đều phải đọc báo."
+  },
+  {
+    "stt": 156,
+    "vocab": "比",
+    "hanviet": "Tỉ / Tỷ",
+    "pinyin": "bǐ",
+    "meaning": "prep. used to make comparison / Giới từ. so với, so sánh (dùng trong câu so sánh)",
+    "example": "我的孩子〜我高。",
+    "example_meaning": "Con của tôi cao hơn tôi."
+  },
+  {
+    "stt": 157,
+    "vocab": "别",
+    "hanviet": "Biệt",
+    "pinyin": "bié",
+    "meaning": "adv. don’t / Phó từ. đừng; chớ",
+    "example": "太晚了，〜看电视了。",
+    "example_meaning": "Muộn quá rồi, đừng xem tivi nữa."
+  },
+  {
+    "stt": 158,
+    "vocab": "长",
+    "hanviet": "Trường",
+    "pinyin": "cháng",
+    "meaning": "adj. long / Tính từ. dài",
+    "example": "姐姐的腿〜，跑得快。",
+    "example_meaning": "Chân của chị gái dài, chạy rất nhanh."
+  },
+  {
+    "stt": 159,
+    "vocab": "唱歌",
+    "hanviet": "Xướng Ca",
+    "pinyin": "chànggē",
+    "meaning": "V. sing / Động từ. hát; ca hát",
+    "example": "我最爱〜了，我给你们唱一个。",
+    "example_meaning": "Tôi thích ca hát nhất, tôi hát tặng mọi người một bài nhé."
+  },
+  {
+    "stt": 160,
+    "vocab": "出",
+    "hanviet": "Xuất",
+    "pinyin": "chū",
+    "meaning": "V. exit; go out / Động từ. ra; đi ra; xuất hiện; ra ngoài",
+    "example": "我已经走〜火车站了。",
+    "example_meaning": "Tôi đã đi ra khỏi ga tàu hỏa rồi."
+  },
+  {
+    "stt": 161,
+    "vocab": "穿",
+    "hanviet": "Xuyên",
+    "pinyin": "chuān",
+    "meaning": "V. wear; put on / Động từ. mặc (quần áo); đi, xỏ (giày, tất...)",
+    "example": "天冷了，多〜些衣服吧。",
+    "example_meaning": "Trời lạnh rồi, hãy mặc nhiều quần áo hơn đi."
+  },
+  {
+    "stt": 162,
+    "vocab": "次",
+    "hanviet": "Thứ",
+    "pinyin": "cì",
+    "meaning": "nm./vm. number of times / Danh lượng từ / Động lượng từ. lần; lượt",
+    "example": "我去過一〜北京。 (我去过一〜北京。)",
+    "example_meaning": "Tôi từng đi Bắc Kinh một lần."
+  },
+  {
+    "stt": 163,
+    "vocab": "从",
+    "hanviet": "Tòng",
+    "pinyin": "cóng",
+    "meaning": "prep. from; since / Giới từ. từ; từ khi; từ chỗ",
+    "example": "〜我家到公司，开车要 2 0 分钟。",
+    "example_meaning": "Từ nhà tôi đến công ty, đi xe ô tô mất 20 phút."
+  },
+  {
+    "stt": 164,
+    "vocab": "错",
+    "hanviet": "Thác",
+    "pinyin": "cuò",
+    "meaning": "adj. wrong; incorrect / Tính từ. sai; không đúng",
+    "example": "对不起，我〜了。",
+    "example_meaning": "Xin lỗi, tôi sai rồi."
+  },
+  {
+    "stt": 165,
+    "vocab": "打篮球",
+    "hanviet": "Đả Lãm Cầu",
+    "pinyin": "dǎ lánqiú",
+    "meaning": "play basketball / Chơi bóng rổ; Đánh bóng rổ",
+    "example": "我每天下午都去〜。",
+    "example_meaning": "Chiều nào tôi cũng đi chơi bóng rổ."
+  },
+  {
+    "stt": 166,
+    "vocab": "大家",
+    "hanviet": "Đại Gia",
+    "pinyin": "dàjiā",
+    "meaning": "pron. everyone; everybody / Đại từ. mọi người; tất cả mọi người",
+    "example": "请〜不要等我了。",
+    "example_meaning": "Xin mọi người đừng đợi tôi nữa."
+  },
+  {
+    "stt": 167,
+    "vocab": "到",
+    "hanviet": "Đáo",
+    "pinyin": "dào",
+    "meaning": "V. arrive; reach / Động từ. đến; tới; đạt tới",
+    "example": "我早上 9 点〜公司。",
+    "example_meaning": "Tôi đến công ty lúc 9 giờ sáng."
+  },
+  {
+    "stt": 168,
+    "vocab": "得",
+    "hanviet": "Đắc",
+    "pinyin": "de",
+    "meaning": "sa. marker of complement / Trợ từ cấu trúc (dùng sau động từ hoặc tính từ biểu thị mức độ, kết quả hoặc khả năng)",
+    "example": "你走〜太快了。",
+    "example_meaning": "Bạn đi nhanh quá."
+  },
+  {
+    "stt": 169,
+    "vocab": "等",
+    "hanviet": "Đẳng",
+    "pinyin": "děng",
+    "meaning": "V. wait / Động từ. đợi; chờ đợi",
+    "example": "你还要再〜我 1 0 分钟。",
+    "example_meaning": "Bạn còn phải đợi tôi thêm 10 phút nữa."
+  },
+  {
+    "stt": 170,
+    "vocab": "弟弟",
+    "hanviet": "Đệ Đệ",
+    "pinyin": "dìdi",
+    "meaning": "n. younger brother / Danh từ. em trai",
+    "example": "在我们家，我最大，我下面还有两个〜。",
+    "example_meaning": "Trong gia đình chúng tôi, tôi là lớn nhất, dưới tôi còn có hai em trai nữa."
+  },
+  {
+    "stt": 171,
+    "vocab": "第一",
+    "hanviet": "Đệ Nhất",
+    "pinyin": "dì-yī",
+    "meaning": "num. first / Số thứ tự. thứ nhất; đầu tiên",
+    "example": "这是我〜次见到เขา (这也是我〜次见到他。)",
+    "example_meaning": "Đây là lần đầu tiên tôi nhìn thấy cậu ấy. / Đây là lần đầu tiên tôi gặp anh ấy."
+  },
+  {
+    "stt": 172,
+    "vocab": "懂",
+    "hanviet": "Đồng",
+    "pinyin": "dǒng",
+    "meaning": "V. understand / Động từ. hiểu; hiểu rõ",
+    "example": "你的意思我〜了。",
+    "example_meaning": "Ý của bạn tôi hiểu rồi."
+  },
+  {
+    "stt": 173,
+    "vocab": "对",
+    "hanviet": "Đối",
+    "pinyin": "duì",
+    "meaning": "adj. right; correct / Tính từ. đúng; chính xác",
+    "example": "你是〜的，我错了。",
+    "example_meaning": "Bạn đúng rồi, tôi sai rồi."
+  },
+  {
+    "stt": 174,
+    "vocab": "对",
+    "hanviet": "Đối",
+    "pinyin": "duì",
+    "meaning": "prep. to; towards / Giới từ. đối với; hướng về; nói với (ai)",
+    "example": "孩子〜妈妈说：“妈妈，我爱你。”",
+    "example_meaning": "Đứa trẻ nói với mẹ: \"Mẹ ơi, con yêu mẹ.\""
+  },
+  {
+    "stt": 175,
+    "vocab": "房间",
+    "hanviet": "Phòng Gian",
+    "pinyin": "fángjiān",
+    "meaning": "n. room / Danh từ. phòng; căn phòng",
+    "example": "我们两个人住一个〜。",
+    "example_meaning": "Hai người chúng tôi sống chung một phòng."
+  },
+  {
+    "stt": 176,
+    "vocab": "非常",
+    "hanviet": "Phi Thường",
+    "pinyin": "fēicháng",
+    "meaning": "adv. very / Phó từ. rất; cực kỳ; vô cùng",
+    "example": "奶奶〜喜欢 chúng tôi 送 đích 礼物。 (奶奶〜喜欢我们送的礼物。)",
+    "example_meaning": "Bà nội cực kỳ thích món quà chúng tôi tặng."
+  },
+  {
+    "stt": 177,
+    "vocab": "服务员",
+    "hanviet": "Phục Vụ Viên",
+    "pinyin": "fúwùyuán",
+    "meaning": "n. attendant; waiter; waitress / Danh từ. người phục vụ; nhân viên phục vụ; bồi bàn",
+    "example": "我在饭馆做〜。",
+    "example_meaning": "Tôi làm nhân viên phục vụ ở nhà hàng."
+  },
+  {
+    "stt": 178,
+    "vocab": "高",
+    "hanviet": "Cao",
+    "pinyin": "gāo",
+    "meaning": "adj. tall; high / Tính từ. cao",
+    "example": "我比爸爸还〜。",
+    "example_meaning": "Tôi còn cao hơn cả bố."
+  },
+  {
+    "stt": 179,
+    "vocab": "告诉",
+    "hanviet": "Cáo Tố",
+    "pinyin": "gàosu",
+    "meaning": "V. tell / Động từ. nói cho biết; bảo; báo",
+    "example": "你能〜我 school 怎么走吗？ (你能〜我学校怎么走吗？)",
+    "example_meaning": "Bạn có thể nói cho tôi biết đến trường đi thế nào không?"
+  },
+  {
+    "stt": 180,
+    "vocab": "哥哥",
+    "hanviet": "Ca Ca",
+    "pinyin": "gēge",
+    "meaning": "n. elder brother / Danh từ. anh trai",
+    "example": "我〜比我大三岁。",
+    "example_meaning": "Anh trai lớn hơn tôi 3 tuổi."
+  },
+  {
+    "stt": 181,
+    "vocab": "给",
+    "hanviet": "Cấp",
+    "pinyin": "gěi",
+    "meaning": "V. hand over; prep. for / Động từ. cho, đưa cho; Giới từ. cho (ai đó)",
+    "example": "请把这本书〜他。 / 这是〜你买的。",
+    "example_meaning": "Xin hãy đưa quyển sách này cho anh ấy. / Đây là mua cho bạn đấy."
+  },
+  {
+    "stt": 182,
+    "vocab": "公共汽车",
+    "hanviet": "Công Cộng Khí Xa",
+    "pinyin": "gōnggòngqìchē",
+    "meaning": "n. bus / Danh từ. xe buýt",
+    "example": "坐〜去，要 20 分钟。",
+    "example_meaning": "Đi xe buýt đi mất 20 phút."
+  },
+  {
+    "stt": 183,
+    "vocab": "公司",
+    "hanviet": "Công Ty",
+    "pinyin": "gōngsī",
+    "meaning": "n. company; firm / Danh từ. công ty",
+    "example": "我在一个〜上班。",
+    "example_meaning": "Tôi làm việc ở một công ty."
+  },
+  {
+    "stt": 184,
+    "vocab": "狗",
+    "hanviet": "Cẩu",
+    "pinyin": "gǒu",
+    "meaning": "n. dog / Danh từ. con chó",
+    "example": "女儿很喜欢小〜。",
+    "example_meaning": "Con gái rất thích chó con."
+  },
+  {
+    "stt": 185,
+    "vocab": "贵",
+    "hanviet": "Quý",
+    "pinyin": "guì",
+    "meaning": "adj. expensive; costly / Tính từ. đắt; quý giá",
+    "example": "这块手表 hon〜。 (这块手表很〜。)",
+    "example_meaning": "Chiếc đồng hồ đeo tay này rất đắt."
+  },
+  {
+    "stt": 186,
+    "vocab": "过",
+    "hanviet": "Quá",
+    "pinyin": "guò",
+    "meaning": "sa. used after a verb, referring to sth. that happened previously / Trợ từ động thái. dùng sau động từ biểu thị hành động đã từng xảy ra trong quá khứ",
+    "example": "我没看过这本书。",
+    "example_meaning": "Tôi chưa từng đọc quyển sách này."
+  },
+  {
+    "stt": 187,
+    "vocab": "还",
+    "hanviet": "Hoàn / Hải",
+    "pinyin": "hái",
+    "meaning": "adv. still; yet; adv. in addition / Phó từ. vẫn, còn; Phó từ. ngoài ra, còn thêm",
+    "example": "他〜没来呢。 / 除了不吃肉，我〜不吃鸡蛋。",
+    "example_meaning": "Anh ấy vẫn chưa đến đâu. / Ngoài việc không ăn thịt, tôi còn không ăn trứng gà."
+  },
+  {
+    "stt": 188,
+    "vocab": "孩子",
+    "hanviet": "Hài Tử",
+    "pinyin": "háizi",
+    "meaning": "n. son or daughter; n. child / Danh từ. con (con trai hoặc con gái); Danh từ. đứa trẻ; trẻ em",
+    "example": "我有三个〜。 / 我们这里女〜比男〜多。",
+    "example_meaning": "Tôi có ba đứa con. / Ở chỗ chúng tôi con gái đông hơn con trai."
+  },
+  {
+    "stt": 189,
+    "vocab": "好吃",
+    "hanviet": "Hảo Ngật",
+    "pinyin": "hǎochī",
+    "meaning": "delicious / Ngon; ngon miệng",
+    "example": "您做的米饭真〜。",
+    "example_meaning": "Cơm bạn nấu thật ngon."
+  },
+  {
+    "stt": 190,
+    "vocab": "黑",
+    "hanviet": "Hắc",
+    "pinyin": "hēi",
+    "meaning": "adj. black; dark / Tính từ. đen, màu đen; tối, tối tăm",
+    "example": "我不喜欢〜颜色的衣服。",
+    "example_meaning": "Tôi không thích quần áo màu đen."
+  },
+  {
+    "stt": 191,
+    "vocab": "红",
+    "hanviet": "Hồng",
+    "pinyin": "hóng",
+    "meaning": "adj. red / Tính từ. đỏ, màu đỏ",
+    "example": "我的自行车es红色的。 (我的自行车是〜色的。)",
+    "example_meaning": "Xe đạp của tôi là màu đỏ."
+  },
+  {
+    "stt": 192,
+    "vocab": "欢迎",
+    "hanviet": "Hoan Nghênh",
+    "pinyin": "huānyíng",
+    "meaning": "V. welcome / Động từ. hoan nghênh; chào đón",
+    "example": "〜你们来我们家。",
+    "example_meaning": "Chào mừng các bạn đến nhà chúng tôi."
+  },
+  {
+    "stt": 193,
+    "vocab": "回答",
+    "hanviet": "Hồi Đáp",
+    "pinyin": "huídá",
+    "meaning": "V. answer; reply; respond / Động từ. trả lời; đáp lại",
+    "example": "我能〜这个问题。",
+    "example_meaning": "Tôi có thể trả lời câu hỏi này."
+  },
+  {
+    "stt": 194,
+    "vocab": "火车站",
+    "hanviet": "Hỏa Xa Trạm",
+    "pinyin": "huǒchēzhàn",
+    "meaning": "n. railway station / Danh từ. ga tàu hỏa",
+    "example": "我下午 3 点去〜。",
+    "example_meaning": "Tôi đi ga tàu hỏa lúc 3 giờ chiều."
+  },
+  {
+    "stt": 195,
+    "vocab": "机场",
+    "hanviet": "Cơ Trường",
+    "pinyin": "jīchǎng",
+    "meaning": "n. airport / Danh từ. sân bay; phi trường",
+    "example": "我在〜工作了三年了。",
+    "example_meaning": "Tôi đã làm việc ở sân bay được ba năm rồi."
+  },
+  {
+    "stt": 196,
+    "vocab": "鸡蛋",
+    "hanviet": "Kê Đản",
+    "pinyin": "jīdàn",
+    "meaning": "n. egg / Danh từ. trứng gà",
+    "example": "我每天早上都要吃个〜。",
+    "example_meaning": "Sáng nào tôi cũng phải ăn một quả trứng gà."
+  },
+  {
+    "stt": 197,
+    "vocab": "件",
+    "hanviet": "Kiện",
+    "pinyin": "jiàn",
+    "meaning": "nm. used for clothes and things / Lượng từ. chiếc, cái, kiện (dùng cho quần áo, sự việc...)",
+    "example": "这〜衣服颜色非常好看。",
+    "example_meaning": "Màu sắc của chiếc áo này cực kỳ đẹp mắt."
+  },
+  {
+    "stt": 198,
+    "vocab": "教室",
+    "hanviet": "Giáo Thất",
+    "pinyin": "jiàoshì",
+    "meaning": "n. classroom / Danh từ. phòng học; lớp học",
+    "example": "请大家都到〜去上课。",
+    "example_meaning": "Xin mời tất cả mọi người đến phòng học để lên lớp."
+  },
+  {
+    "stt": 199,
+    "vocab": "姐姐",
+    "hanviet": "Tỷ Tỷ",
+    "pinyin": "jiějie",
+    "meaning": "n. elder sister / Danh từ. chị gái",
+    "example": "我有两个〜。",
+    "example_meaning": "Tôi có hai chị gái."
+  },
+  {
+    "stt": 200,
+    "vocab": "介绍",
+    "hanviet": "Giới Thiệu",
+    "pinyin": "jièshào",
+    "meaning": "V. introduce sb. or sth.; n. an introduction / Động từ. giới thiệu; Danh từ. sự giới thiệu, lời giới thiệu",
+    "example": "我来〜一下我的朋友。 / 我在报纸上看到了这个电影的〜。",
+    "example_meaning": "Tôi xin giới thiệu một chút về người bạn của tôi. / Tôi đã đọc được lời giới thiệu về bộ phim này trên báo."
+  },
+  {
+    "stt": 201,
+    "vocab": "进",
+    "hanviet": "Tiến",
+    "pinyin": "jìn",
+    "meaning": "V. enter / Động từ. vào; đi vào",
+    "example": "我马上要〜机场了。",
+    "example_meaning": "Tôi sắp đi vào sân bay rồi."
+  },
+  {
+    "stt": 202,
+    "vocab": "近",
+    "hanviet": "Cận",
+    "pinyin": "jìn",
+    "meaning": "adj. close; near / Tính từ. gần",
+    "example": "我们家离公司很〜。",
+    "example_meaning": "Nhà chúng tôi cách công ty rất gần."
+  },
+  {
+    "stt": 203,
+    "vocab": "就",
+    "hanviet": "Tựu",
+    "pinyin": "jiù",
+    "meaning": "adv. indicating certainty; right on; adv. immediately; right now; right away / Phó từ. ngay; thì ngay; chính (biểu thị sự khẳng định chắc chắn hoặc hành động xảy ra nhanh chóng, ngay lập tức)",
+    "example": "我〜知道 he 会来的。 (我〜知道他会来的。) / 我一 to t nhà〜给他打电话。 (我一到家〜给他打电话。)",
+    "example_meaning": "Tôi biết ngay là anh ấy sẽ đến mà. / Tôi vừa về đến nhà là gọi điện thoại cho anh ấy ngay."
+  },
+  {
+    "stt": 204,
+    "vocab": "觉得",
+    "hanviet": "Giác Đắc",
+    "pinyin": "juéde",
+    "meaning": "V. feel; think / Động từ. cảm thấy; thấy rằng; cho rằng",
+    "example": "你〜这本书怎么样？",
+    "example_meaning": "Bạn cảm thấy cuốn sách này như thế nào?"
+  },
+  {
+    "stt": 205,
+    "vocab": "咖啡",
+    "hanviet": "Cà Phê",
+    "pinyin": "kāfēi",
+    "meaning": "n. coffee / Danh từ. cà phê",
+    "example": "您想喝〜，还是茶？",
+    "example_meaning": "Bác muốn uống cà phê hay là trà?"
+  },
+  {
+    "stt": 206,
+    "vocab": "开始",
+    "hanviet": "Khai Thủy",
+    "pinyin": "kāishǐ",
+    "meaning": "V. start; begin; n. beginning / Động từ. bắt đầu; Danh từ. lúc đầu, sự bắt đầu",
+    "example": "我们从第十课〜学习。 / （学汉字）〜可能会觉得有点难。",
+    "example_meaning": "Chúng ta bắt đầu học từ bài thứ mười. / (Học chữ Hán) lúc đầu có lẽ sẽ cảm thấy hơi khó."
+  },
+  {
+    "stt": 207,
+    "vocab": "考试",
+    "hanviet": "Khảo Thí",
+    "pinyin": "kǎoshì",
+    "meaning": "n. examination / take a test / Danh từ. kỳ thi, bài kiểm tra; Động từ. thi, kiểm tra",
+    "example": "为了准备〜，他每天都学习到很晚。",
+    "example_meaning": "Để chuẩn bị cho kỳ thi, ngày nào anh ấy cũng học đến rất muộn."
+  },
+  {
+    "stt": 208,
+    "vocab": "可能",
+    "hanviet": "Khả Năng",
+    "pinyin": "kěnéng",
+    "meaning": "aux. may; can / Động từ năng nguyện. có thể; có lẽ",
+    "example": "我〜不能去上班了。",
+    "example_meaning": "Tôi có lẽ không đi làm được rồi."
+  },
+  {
+    "stt": 209,
+    "vocab": "可以",
+    "hanviet": "Khả Dĩ",
+    "pinyin": "kěyǐ",
+    "meaning": "aux. can; may; adj. not bad; passable; pretty good / Động từ năng nguyện. có thể; Tính từ. cũng được, tạm ổn, khá tốt",
+    "example": "你〜开我的车去上班。 / 这个菜做得还〜。",
+    "example_meaning": "Bạn có thể lái xe của tôi đi làm. / Món ăn này làm cũng khá ngon."
+  },
+  {
+    "stt": 210,
+    "vocab": "课",
+    "hanviet": "Khóa",
+    "pinyin": "kè",
+    "meaning": "n. lesson; n. class / Danh từ. bài học; tiết học; giờ học",
+    "example": "今天 chúng tôi 学习第一〜。 / 现在， we 上〜。 (今天我们学习第一〜。 / 现在，我们上〜。)",
+    "example_meaning": "Hôm nay chúng ta học bài thứ nhất. / Bây giờ, chúng ta vào học nhé."
+  },
+  {
+    "stt": 211,
+    "vocab": "快",
+    "hanviet": "Khoái",
+    "pinyin": "kuài",
+    "meaning": "adj. fast; adv. be going to; will; shall / Tính từ. nhanh; Phó từ. sắp, sẽ",
+    "example": "他跑得真〜。 / 7 点 50 了，〜上课了。",
+    "example_meaning": "Anh ấy chạy thật là nhanh. / 7 giờ 50 phút rồi, sắp vào học rồi."
+  },
+  {
+    "stt": 212,
+    "vocab": "快乐",
+    "hanviet": "Khoái Lạc",
+    "pinyin": "kuàilè",
+    "meaning": "adj. happy; joyful; cheerful; glad / Tính từ. vui vẻ; hạnh phúc; vui sướng",
+    "example": "祝你生日〜！",
+    "example_meaning": "Chúc bạn sinh nhật vui vẻ!"
+  },
+  {
+    "stt": 213,
+    "vocab": "累",
+    "hanviet": "Lụy",
+    "pinyin": "lèi",
+    "meaning": "adj. tired; fatigued / Tính từ. mệt; mệt mỏi",
+    "example": "我〜了，想休息。",
+    "example_meaning": "Tôi mệt rồi, muốn nghỉ ngơi."
+  },
+  {
+    "stt": 214,
+    "vocab": "离",
+    "hanviet": "Ly",
+    "pinyin": "lí",
+    "meaning": "prep. away from / Giới từ. cách, cách xa",
+    "example": "我家〜学校很近。",
+    "example_meaning": "Nhà tôi cách trường học rất gần."
+  },
+  {
+    "stt": 215,
+    "vocab": "两",
+    "hanviet": "Lưỡng",
+    "pinyin": "liǎng",
+    "meaning": "num. two / Số từ. hai (dùng trước lượng từ)",
+    "example": "苹果〜块钱一斤。",
+    "example_meaning": "Táo có giá hai tệ một cân."
+  },
+  {
+    "stt": 216,
+    "vocab": "路",
+    "hanviet": "Lộ",
+    "pinyin": "lù",
+    "meaning": "n. road; nm. used to indicate a bus route / Danh từ. đường; đường đi; Lượng từ. tuyến (xe buýt, xe điện...)",
+    "example": "我每天走〜去上学。 / 我们可以坐 10〜 公共汽车去。",
+    "example_meaning": "Mỗi ngày tôi đều đi bộ đi học. / Chúng ta có thể đi xe buýt tuyến số 10 đến đó."
+  },
+  {
+    "stt": 217,
+    "vocab": "旅游",
+    "hanviet": "Lữ Du",
+    "pinyin": "lǚyóu",
+    "meaning": "V. travel / Động từ. du lịch; đi du lịch",
+    "example": "我们开车去〜。",
+    "example_meaning": "Chúng tôi lái xe đi du lịch."
+  },
+  {
+    "stt": 218,
+    "vocab": "卖",
+    "hanviet": "Mại",
+    "pinyin": "mài",
+    "meaning": "V. sell / Động từ. bán",
+    "example": "这个商店〜的东西比较便宜。",
+    "example_meaning": "Đồ bán ở cửa hàng này tương đối rẻ."
+  },
+  {
+    "stt": 219,
+    "vocab": "慢",
+    "hanviet": "Mạn",
+    "pinyin": "màn",
+    "meaning": "adj. slow / Tính từ. chậm; thong thả",
+    "example": "我们走得很〜。",
+    "example_meaning": "Chúng tôi đi rất chậm."
+  },
+  {
+    "stt": 220,
+    "vocab": "忙",
+    "hanviet": "Mang",
+    "pinyin": "máng",
+    "meaning": "adj. busy; V. be busy doing sth. / Tính từ. bận; bận rộn; Động từ. bận rộn làm việc gì đó",
+    "example": "这个星期，我很〜。 / 你在〜什么呢？",
+    "example_meaning": "Tuần này tôi rất bận. / Bạn đang bận làm việc gì thế?"
+  },
+  {
+    "stt": 221,
+    "vocab": "猫",
+    "hanviet": "Miêu",
+    "pinyin": "māo",
+    "meaning": "n. cat / Danh từ. con mèo",
+    "example": "你的小〜去哪儿了？",
+    "example_meaning": "Chú mèo con của bạn đi đâu rồi?"
+  },
+  {
+    "stt": 222,
+    "vocab": "每",
+    "hanviet": "Mỗi",
+    "pinyin": "měi",
+    "meaning": "pron. every; each / Đại từ. mỗi; mọi",
+    "example": "你〜天都看报纸吗？",
+    "example_meaning": "Ngày nào bạn cũng đọc báo à?"
+  },
+  {
+    "stt": 223,
+    "vocab": "妹妹",
+    "hanviet": "Muội Muội",
+    "pinyin": "mèimei",
+    "meaning": "n. younger sister / Danh từ. em gái",
+    "example": "我有两个〜。",
+    "example_meaning": "Tôi có hai em gái."
+  },
+  {
+    "stt": 224,
+    "vocab": "门",
+    "hanviet": "Môn",
+    "pinyin": "mén",
+    "meaning": "n. exits and entrances; doorways; nm. used for curriculum in school / Danh từ. cửa; lối ra vào; Lượng từ. môn (dùng cho môn học)",
+    "example": "我在〜外等你。 / 今年我有五〜课。",
+    "example_meaning": "Tôi đợi bạn ở ngoài cửa. / Năm nay tôi có năm môn học."
+  },
+  {
+    "stt": 225,
+    "vocab": "男",
+    "hanviet": "Nam",
+    "pinyin": "nán",
+    "meaning": "n. man; male / Danh từ/Tính từ. nam; nam giới; đàn ông",
+    "example": "我不认识那个〜人。",
+    "example_meaning": "Tôi không quen người đàn ông kia."
+  },
+  {
+    "stt": 226,
+    "vocab": "您",
+    "hanviet": "Nâm",
+    "pinyin": "nín",
+    "meaning": "pron. you or your (used to address someone with respect) / Đại từ. ngài; ông; bà; bác; cô; thầy (ngôi thứ hai số ít, dùng để xưng hô kính trọng)",
+    "example": "老师，〜好！",
+    "example_meaning": "Em chào thầy/cô ạ!"
+  },
+  {
+    "stt": 227,
+    "vocab": "牛奶",
+    "hanviet": "Ngưu Nại",
+    "pinyin": "niúnǎi",
+    "meaning": "n. milk / Danh từ. sữa bò",
+    "example": "睡觉前喝杯〜吧。",
+    "example_meaning": "Trước khi ngủ hãy uống một ly sữa nhé."
+  },
+  {
+    "stt": 228,
+    "vocab": "女",
+    "hanviet": "Nữ",
+    "pinyin": "nǚ",
+    "meaning": "n. woman; female / Danh từ/Tính từ. nữ; nữ giới; phụ nữ",
+    "example": "那个〜人你认识吗？",
+    "example_meaning": "Người phụ nữ kia bạn có quen không?"
+  },
+  {
+    "stt": 229,
+    "vocab": "旁边",
+    "hanviet": "Bàng Biên",
+    "pinyin": "pángbiān",
+    "meaning": "n. side; by the side of; nearby / Danh từ chỉ phương vị. bên cạnh; kế bên; sát bên",
+    "example": "爸爸在我〜。",
+    "example_meaning": "Bố ở bên cạnh tôi."
+  },
+  {
+    "stt": 230,
+    "vocab": "跑步",
+    "hanviet": "Bào Bộ",
+    "pinyin": "pǎobù",
+    "meaning": "V. run; jog / Động từ. chạy bộ; chạy",
+    "example": "我每天早上都〜。",
+    "example_meaning": "Sáng nào tôi cũng chạy bộ."
+  },
+  {
+    "stt": 231,
+    "vocab": "便宜",
+    "hanviet": "Tiện Nghi",
+    "pinyin": "piányi",
+    "meaning": "adj. cheap; inexpensive / Tính từ. rẻ; rẻ tiền; tiện nghi",
+    "example": "苹果很〜，我们买点儿吧。",
+    "example_meaning": "Táo rất rẻ, chúng ta mua một ít đi."
+  },
+  {
+    "stt": 232,
+    "vocab": "票",
+    "hanviet": "Phiếu",
+    "pinyin": "piào",
+    "meaning": "n. ticket / Danh từ. vé; phiếu",
+    "example": "我要去火车站买车〜。",
+    "example_meaning": "Tôi phải đi ga tàu hỏa để mua vé tàu."
+  },
+  {
+    "stt": 233,
+    "vocab": "妻子",
+    "hanviet": "Thê Tử",
+    "pinyin": "qīzi",
+    "meaning": "n. wife / Danh từ. vợ",
+    "example": "我〜上班去了。",
+    "example_meaning": "Vợ tôi đi làm rồi."
+  },
+  {
+    "stt": 234,
+    "vocab": "起床",
+    "hanviet": "Khởi Sàng",
+    "pinyin": "qǐchuáng",
+    "meaning": "V. rise (from bed); get up / Động từ. thức dậy; ngủ dậy",
+    "example": "我早上七点〜。",
+    "example_meaning": "Tôi thức dậy lúc 7 giờ sáng."
+  },
+  {
+    "stt": 235,
+    "vocab": "千",
+    "hanviet": "Thiên",
+    "pinyin": "qiān",
+    "meaning": "num. thousand / Số từ. nghìn; ngàn (1000)",
+    "example": "这个手机一〜元。",
+    "example_meaning": "Chiếc điện thoại di động này có giá một ngàn tệ."
+  },
+  {
+    "stt": 236,
+    "vocab": "铅笔",
+    "hanviet": "Duyên Bút",
+    "pinyin": "qiānbǐ",
+    "meaning": "n. pencil / Danh từ. bút chì",
+    "example": "Ni〜 (你) 看见我的〜了吗？ (你看见我的〜了吗？)",
+    "example_meaning": "Bạn có nhìn thấy bút chì của tôi ở đâu không?"
+  },
+  {
+    "stt": 237,
+    "vocab": "晴",
+    "hanviet": "Tình",
+    "pinyin": "qíng",
+    "meaning": "adj. fine; clear / Tính từ. nắng; trời quang; trời đẹp",
+    "example": "今天是〜天。",
+    "example_meaning": "Hôm nay là một ngày nắng ráo."
+  },
+  {
+    "stt": 238,
+    "vocab": "去年",
+    "hanviet": "Khứ Niên",
+    "pinyin": "qùnián",
+    "meaning": "n. last year / Danh từ. năm ngoái; năm trước",
+    "example": "我是〜 8 月来北京 của 的。 (我是〜 8 月来北京的。)",
+    "example_meaning": "Tôi đến Bắc Kinh vào tháng 8 năm ngoái."
+  },
+  {
+    "stt": 239,
+    "vocab": "让",
+    "hanviet": "Nhượng",
+    "pinyin": "ràng",
+    "meaning": "V. let; allow; make; ask / Động từ. cho phép; để; bảo; bắt (ai làm gì)",
+    "example": "他爸爸不〜他来。",
+    "example_meaning": "Bố anh ấy không cho phép anh ấy đến."
+  },
+  {
+    "stt": 240,
+    "vocab": "日",
+    "hanviet": "Nhật",
+    "pinyin": "rì",
+    "meaning": "n. day or date / Danh từ. ngày; ngày tháng",
+    "example": "今天是2012年2月26〜。",
+    "example_meaning": "Hôm nay là ngày 26 tháng 2 năm 2012."
+  },
+  {
+    "stt": 241,
+    "vocab": "上班",
+    "hanviet": "Thượng Ban",
+    "pinyin": "shàngbān",
+    "meaning": "V. go to work; start work / Động từ. đi làm; bắt đầu làm việc",
+    "example": "我七点半去〜。",
+    "example_meaning": "Tôi đi làm lúc 7 giờ rưỡi."
+  },
+  {
+    "stt": 242,
+    "vocab": "身体",
+    "hanviet": "Thân Thể",
+    "pinyin": "shēntǐ",
+    "meaning": "n. body (of a human or animal) / Danh từ. thân thể; cơ thể; sức khỏe",
+    "example": "今天我的〜不太舒服。",
+    "example_meaning": "Hôm nay cơ thể của tôi không được khỏe lắm."
+  },
+  {
+    "stt": 243,
+    "vocab": "生病",
+    "hanviet": "Sinh Bệnh",
+    "pinyin": "shēngbìng",
+    "meaning": "V. fall sick; fall ill; get ill; be taken ill / Động từ. bị ốm; sinh bệnh; ngã bệnh",
+    "example": "我〜了，不能去上班了。",
+    "example_meaning": "Tôi bị ốm rồi, không đi làm được nữa."
+  },
+  {
+    "stt": 244,
+    "vocab": "生日",
+    "hanviet": "Sinh Nhật",
+    "pinyin": "shēngrì",
+    "meaning": "n. birthday / Danh từ. ngày sinh nhật",
+    "example": "祝 তুমি 生日快乐 (祝你〜快乐！)",
+    "example_meaning": "Chúc bạn sinh nhật vui vẻ!"
+  },
+  {
+    "stt": 245,
+    "vocab": "时间",
+    "hanviet": "Thời Gian",
+    "pinyin": "shíjiān",
+    "meaning": "n. time / Danh từ. thời gian",
+    "example": "我没〜去北京。",
+    "example_meaning": "Tôi không có thời gian đi Bắc Kinh."
+  },
+  {
+    "stt": 246,
+    "vocab": "事情",
+    "hanviet": "Sự Tình",
+    "pinyin": "shìqing",
+    "meaning": "n. matter; business; circumstance; event; affair; incident; occurrence / Danh từ. sự việc; việc; sự tình",
+    "example": "你下午有什么〜吗？",
+    "example_meaning": "Chiều nay bạn có việc gì không?"
+  },
+  {
+    "stt": 247,
+    "vocab": "手表",
+    "hanviet": "Thủ Biểu",
+    "pinyin": "shǒubiǎo",
+    "meaning": "n. wrist watch; watch / Danh từ. đồng hồ đeo tay",
+    "example": "这块〜非常漂亮。",
+    "example_meaning": "Chiếc đồng hồ này cực kỳ đẹp mắt."
+  },
+  {
+    "stt": 248,
+    "vocab": "手机",
+    "hanviet": "Thủ Cơ",
+    "pinyin": "shǒujī",
+    "meaning": "n. mobile phone / Danh từ. điện thoại di động",
+    "example": "你看，我新买了一个〜。",
+    "example_meaning": "Bạn nhìn xem, tôi mới mua một chiếc điện thoại di động này."
+  },
+  {
+    "stt": 249,
+    "vocab": "送",
+    "hanviet": "Tống",
+    "pinyin": "sòng",
+    "meaning": "V. give sb. sth. as a gift; V. see sb. off; escort or provide transportation for sb. / Động từ. tặng (quà); Động từ. tiễn đưa; đưa đón",
+    "example": "我〜你一本书。 / 我去〜一个朋友。",
+    "example_meaning": "Tôi tặng bạn một quyển sách. / Tôi đi tiễn một người bạn."
+  },
+  {
+    "stt": 250,
+    "vocab": "虽然……amp;…… (although) (虽然…… must be 虽然……但是……)",
+    "hanviet": "Tuy…… Đản Thị……",
+    "pinyin": "suīrán... dànshì...",
+    "meaning": "conj. though; but; however / Liên từ. tuy rằng... nhưng...; mặc dù... nhưng...",
+    "example": "〜下雨了，〜我们还是想去看电影。",
+    "example_meaning": "Mặc dù trời mưa rồi nhưng chúng tôi vẫn muốn đi xem phim."
+  },
+  {
+    "stt": 251,
+    "vocab": "它",
+    "hanviet": "Tha",
+    "pinyin": "tā",
+    "meaning": "pron. it; its / Đại từ. nó; cái đó (dùng cho động vật, đồ vật)",
+    "example": "我知道小猫在哪儿，〜在桌子下面。",
+    "example_meaning": "Tôi biết mèo con ở đâu rồi, nó ở dưới gầm bàn."
+  },
+  {
+    "stt": 252,
+    "vocab": "踢足球",
+    "hanviet": "Thích Túc Cầu",
+    "pinyin": "tī zúqiú",
+    "meaning": "play soccer / Chơi đá bóng; đá bóng",
+    "example": "我和同学们在〜。",
+    "example_meaning": "Tôi và các bạn học đang đá bóng."
+  },
+  {
+    "stt": 253,
+    "vocab": "题",
+    "hanviet": "Đề",
+    "pinyin": "tí",
+    "meaning": "n. questions, problems (in a test or a quiz) / Danh từ. đề bài; câu hỏi; bài tập",
+    "example": "这个〜我不会做。",
+    "example_meaning": "Câu hỏi này tôi không biết làm."
+  },
+  {
+    "stt": 254,
+    "vocab": "跳舞",
+    "hanviet": "Khiêu Vũ",
+    "pinyin": "tiàowǔ",
+    "meaning": "sv. dance / Động từ ly hợp. khiêu vũ; nhảy múa",
+    "example": "妹妹会唱歌，也会〜。",
+    "example_meaning": "Em gái biết hát, cũng biết khiêu vũ nữa."
+  },
+  {
+    "stt": 255,
+    "vocab": "外",
+    "hanviet": "Ngoại",
+    "pinyin": "wài",
+    "meaning": "n. outer; outside / Danh từ chỉ phương vị. ngoài; bên ngoài",
+    "example": "〜面下雨了。",
+    "example_meaning": "Bên ngoài trời mưa rồi."
+  },
+  {
+    "stt": 256,
+    "vocab": "完",
+    "hanviet": "Hoàn",
+    "pinyin": "wán",
+    "meaning": "V. indicating finished; be used up; run out / Động từ bổ ngữ kết quả. xong; hết; hoàn thành",
+    "example": "这本书我看〜了。",
+    "example_meaning": "Quyển sách này tôi đọc xong rồi."
+  },
+  {
+    "stt": 257,
+    "vocab": "玩",
+    "hanviet": "Ngoạn",
+    "pinyin": "wán",
+    "meaning": "V. play / Động từ. chơi; chơi đùa; giải trí",
+    "example": "他在〜，没有 learning。 (他在〜，没有学习。)",
+    "example_meaning": "Cậu ấy đang chơi, không học bài."
+  },
+  {
+    "stt": 258,
+    "vocab": "晚上",
+    "hanviet": "Vãn Thượng",
+    "pinyin": "wǎnshang",
+    "meaning": "n. evening / Danh từ. buổi tối",
+    "example": "今天〜不能看电视了。",
+    "example_meaning": "Tối nay không được xem tivi nữa rồi."
+  },
+  {
+    "stt": 259,
+    "vocab": "为什么",
+    "hanviet": "Vi Thập Ma",
+    "pinyin": "wèi shénme",
+    "meaning": "why / Tại sao; vì sao",
+    "example": "你〜不喝点儿水呢？",
+    "example_meaning": "Tại sao bạn không uống chút nước đi?"
+  },
+  {
+    "stt": 260,
+    "vocab": "问",
+    "hanviet": "Vấn",
+    "pinyin": "wèn",
+    "meaning": "V. ask; inquire after / Động từ. hỏi; chất vấn; hỏi thăm",
+    "example": "老师，我可以〜你 một cái 问题吗 (老师，我可以〜你一个问题吗？)",
+    "example_meaning": "Thưa thầy/cô, em có thể hỏi thầy/cô một câu hỏi được không ạ?"
+  },
+  {
+    "stt": 261,
+    "vocab": "问题",
+    "hanviet": "Vấn Đề",
+    "pinyin": "wèntí",
+    "meaning": "n. question; problem / Danh từ. câu hỏi; vấn đề; khó khăn",
+    "example": "这个〜太难了！",
+    "example_meaning": "Câu hỏi này khó quá!"
+  },
+  {
+    "stt": 262,
+    "vocab": "西瓜",
+    "hanviet": "Tây Qua",
+    "pinyin": "xīguā",
+    "meaning": "n. watermelon / Danh từ. dưa hấu",
+    "example": "请吃块儿〜。",
+    "example_meaning": "Xin mời ăn một miếng dưa hấu."
+  },
+  {
+    "stt": 263,
+    "vocab": "希望",
+    "hanviet": "Hy Vọng",
+    "pinyin": "xīwàng",
+    "meaning": "V. hope; wish; want; be desirous of / Động từ/Danh từ. hy vọng; mong muốn",
+    "example": "我〜你别走了。",
+    "example_meaning": "Tôi hy vọng bạn đừng đi nữa."
+  },
+  {
+    "stt": 264,
+    "vocab": "洗",
+    "hanviet": "Tẩy",
+    "pinyin": "xǐ",
+    "meaning": "V. wash; V. develop and print (a picture) / Động từ. rửa; giặt; rửa (ảnh), tráng (phim)",
+    "example": "今天我要〜很多衣服。 / 照片要三天才〜出来。",
+    "example_meaning": "Hôm nay tôi phải giặt rất nhiều quần áo. / Ảnh phải mất ba ngày mới tráng xong."
+  },
+  {
+    "stt": 265,
+    "vocab": "小时",
+    "hanviet": "Tiểu Thời",
+    "pinyin": "xiǎoshí",
+    "meaning": "n. hour / Danh từ. tiếng đồng hồ; giờ",
+    "example": "我看了一〜的书。",
+    "example_meaning": "Tôi đã đọc sách một tiếng đồng hồ."
+  },
+  {
+    "stt": 266,
+    "vocab": "笑",
+    "hanviet": "Tiếu",
+    "pinyin": "xiào",
+    "meaning": "V. laugh; smile / Động từ. cười; mỉm cười",
+    "example": "听到 he 这么说，我们都〜了。 (听到他这么说，我们都〜了。)",
+    "example_meaning": "Nghe anh ấy nói như vậy, tất cả chúng tôi đều cười lớn."
+  },
+  {
+    "stt": 267,
+    "vocab": "新",
+    "hanviet": "Tân",
+    "pinyin": "xīn",
+    "meaning": "adj. new; up-to-date / Tính từ. mới; tân tiến",
+    "example": "这是我mài的〜衣服。 (这是我买的〜衣服。)",
+    "example_meaning": "Đây là bộ quần áo mới tôi mua."
+  },
+  {
+    "stt": 268,
+    "vocab": "姓",
+    "hanviet": "Tính",
+    "pinyin": "xìng",
+    "meaning": "n. surname; V. take as surname / Danh từ. họ; Động từ. mang họ",
+    "example": "中国人的〜在名字的前面。 / 我〜张。",
+    "example_meaning": "Họ của người Trung Quốc đứng trước tên. / Tôi họ Trương."
+  },
+  {
+    "stt": 269,
+    "vocab": "休息",
+    "hanviet": "Hưu Tức",
+    "pinyin": "xiūxi",
+    "meaning": "V. relax; have a rest; take a break / Động từ. nghỉ ngơi; thư giãn",
+    "example": "太累了，让我〜一下。",
+    "example_meaning": "Mệt quá rồi, để tôi nghỉ ngơi một chút nhé."
+  },
+  {
+    "stt": 270,
+    "vocab": "雪",
+    "hanviet": "Tuyết",
+    "pinyin": "xuě",
+    "meaning": "n. snow / Danh từ. tuyết",
+    "example": "今年冬天下〜了几次大〜。 (今年冬天下了几次大〜。)",
+    "example_meaning": "Mùa đông năm nay đã tuyết rơi vài trận tuyết lớn rồi."
+  },
+  {
+    "stt": 271,
+    "vocab": "颜色",
+    "hanviet": "Nhan Sắc",
+    "pinyin": "yánsè",
+    "meaning": "n. color / Danh từ. màu sắc; màu",
+    "example": "你喜欢哪种〜？",
+    "example_meaning": "Bạn thích loại màu sắc nào?"
+  },
+  {
+    "stt": 272,
+    "vocab": "眼睛",
+    "hanviet": "Nhãn Tình",
+    "pinyin": "yǎnjing",
+    "meaning": "n. eye / Danh từ. mắt; đôi mắt",
+    "example": "我的〜是黑色的。",
+    "example_meaning": "Đôi mắt của tôi có màu đen."
+  },
+  {
+    "stt": 273,
+    "vocab": "羊肉",
+    "hanviet": "Dương Nhục",
+    "pinyin": "yángròu",
+    "meaning": "n. mutton / Danh từ. thịt dê",
+    "example": "有些人不爱吃〜。",
+    "example_meaning": "Có một số người không thích ăn thịt dê."
+  },
+  {
+    "stt": 274,
+    "vocab": "药",
+    "hanviet": "Dược",
+    "pinyin": "yào",
+    "meaning": "n. medicine / Danh từ. thuốc (chữa bệnh)",
+    "example": "这个〜一天吃三次。",
+    "example_meaning": "Thuốc này mỗi ngày uống ba lần."
+  },
+  {
+    "stt": 275,
+    "vocab": "要",
+    "hanviet": "Yếu",
+    "pinyin": "yào",
+    "meaning": "aux. hope; want; wish; V. request; ask sb. to do sth.; aux. ought to; might; must; should; aux. be going to; shall; will; V. cost; take / Động từ năng nguyện. muốn, hy vọng, ước; Động từ. yêu cầu, nhờ (ai đó làm gì); Động từ năng nguyện. phải, nên, cần; Động từ năng nguyện. sắp, sẽ; Động từ. cần, mất (bao nhiêu thời gian, tiền bạc)",
+    "example": "我〜去北京。 / 妈妈〜我去買菜。 (妈妈〜我去买菜。) / 你〜认真地做这件事。 / 〜下雨了。 / 一斤菜〜两块钱。",
+    "example_meaning": "Tôi muốn đi Bắc Kinh. / Mẹ muốn tôi đi mua rau. / Bạn phải làm việc này một cách nghiêm túc. / Trời sắp mưa rồi. / Một cân rau giá hai tệ."
+  },
+  {
+    "stt": 276,
+    "vocab": "也",
+    "hanviet": "Dã",
+    "pinyin": "yě",
+    "meaning": "adv. also; too; as well; either / Phó từ. cũng",
+    "example": "你去，我〜去。",
+    "example_meaning": "Bạn đi thì tôi cũng đi."
+  },
+  {
+    "stt": 277,
+    "vocab": "一下",
+    "hanviet": "Nhất Hạ",
+    "pinyin": "yíxià",
+    "meaning": "vm. once; in a short while / Động lượng từ bổ ngữ. một lát; một chút; một cái (biểu thị thời gian ngắn hoặc thử một lần)",
+    "example": "请等我〜。",
+    "example_meaning": "Xin vui lòng đợi tôi một lát."
+  },
+  {
+    "stt": 278,
+    "vocab": "一起",
+    "hanviet": "Nhất Khởi",
+    "pinyin": "yìqǐ",
+    "meaning": "adv. together / Phó từ. cùng nhau; cùng một chỗ",
+    "example": "我和你〜去北京。",
+    "example_meaning": "Tôi và bạn cùng nhau đi Bắc Kinh nhé."
+  },
+  {
+    "stt": 279,
+    "vocab": "已经",
+    "hanviet": "Dĩ Kinh",
+    "pinyin": "yǐjing",
+    "meaning": "adv. already; yet / Phó từ. đã; rồi",
+    "example": "我们〜吃完饭了。",
+    "example_meaning": "Chúng tôi đã ăn cơm xong rồi."
+  },
+  {
+    "stt": 280,
+    "vocab": "意思",
+    "hanviet": "Ý Tứ",
+    "pinyin": "yìsi",
+    "meaning": "n. meaning; content; indication; hint; n. opinion; idea; concept; n. fun; interest; enjoyment / Danh từ. ý nghĩa; nội dung; ý kiến; ý nghĩ; điều thú vị; sự thích thú",
+    "example": "这个词是什么〜？ / 把你的〜告诉我吧。 / 这个电影真有〜。",
+    "example_meaning": "Từ này có ý nghĩa gì? / Hãy nói cho tôi biết ý kiến (ý nghĩ) của bạn đi. / Bộ phim này thật sự rất thú vị."
+  },
+  {
+    "stt": 281,
+    "vocab": "因为……origin…… (因为…… must be 因为……所以……)",
+    "hanviet": "Nhân Vị…… Sở Dĩ……",
+    "pinyin": "yīnwèi... suǒyǐ...",
+    "meaning": "conj. on account of; because of / Liên từ. bởi vì... cho nên...; vì... nên...",
+    "example": "〜下雨了， 〜我没去跑步。 (〜下雨了，〜我没去跑步。)",
+    "example_meaning": "Bởi vì trời mưa rồi nên tôi không đi chạy bộ."
+  },
+  {
+    "stt": 282,
+    "vocab": "阴",
+    "hanviet": "Âm",
+    "pinyin": "yīn",
+    "meaning": "adj. cloudy; overcast / Tính từ. râm; nhiều mây; u ám",
+    "example": "今天是〜天。",
+    "example_meaning": "Hôm nay là một ngày nhiều mây (trời râm)."
+  },
+  {
+    "stt": 283,
+    "vocab": "游泳",
+    "hanviet": "Du Vịnh",
+    "pinyin": "yóuyǒng",
+    "meaning": "V. swim / Động từ. bơi; bơi lội",
+    "example": "我会〜了。",
+    "example_meaning": "Tôi biết bơi rồi."
+  },
+  {
+    "stt": 284,
+    "vocab": "右边",
+    "hanviet": "Hữu Biên",
+    "pinyin": "yòubian",
+    "meaning": "n. right; right side / Danh từ chỉ phương vị. bên phải; phía bên phải",
+    "example": "王医生〜 advisory 那个人是谁？ (王医生〜那个人是谁？)",
+    "example_meaning": "Người ở bên phải bác sĩ Vương là ai vậy?"
+  },
+  {
+    "stt": 285,
+    "vocab": "鱼",
+    "hanviet": "Ngư",
+    "pinyin": "yú",
+    "meaning": "n. fish / Danh từ. cá",
+    "example": "水里 yard 有很多〜。 (水里 yard 有很多〜。)",
+    "example_meaning": "Trong nước có rất nhiều cá."
+  },
+  {
+    "stt": 286,
+    "vocab": "远",
+    "hanviet": "Viễn",
+    "pinyin": "yuǎn",
+    "meaning": "adj. far / Tính từ. xa; cách xa",
+    "example": "我家离公司很〜。",
+    "example_meaning": "Nhà tôi cách công ty rất xa."
+  },
+  {
+    "stt": 287,
+    "vocab": "运动",
+    "hanviet": "Vận Động",
+    "pinyin": "yùndòng",
+    "meaning": "V. take exercise / Động từ. vận động; thể dục thể thao",
+    "example": "我们 đều 很喜欢〜。 (我们都很喜欢〜。)",
+    "example_meaning": "Chúng tôi đều rất thích vận động."
+  },
+  {
+    "stt": 288,
+    "vocab": "再",
+    "hanviet": "Tái",
+    "pinyin": "zài",
+    "meaning": "adv. again; adv. more; further / Phó từ. lại; nữa; thêm nữa",
+    "example": "我吃完饭〜去商店。 / 〜高点儿，现在太低了。",
+    "example_meaning": "Tôi ăn cơm xong rồi mới đi cửa hàng. / Cao thêm chút nữa, bây giờ thấp quá."
+  },
+  {
+    "stt": 289,
+    "vocab": "早上",
+    "hanviet": "Tảo Thượng",
+    "pinyin": "zǎoshang",
+    "meaning": "n. morning / Danh từ. buổi sáng; sáng sớm",
+    "example": "我〜看见过他。",
+    "example_meaning": "Sáng sớm tôi từng nhìn thấy anh ấy."
+  },
+  {
+    "stt": 290,
+    "vocab": "丈夫",
+    "hanviet": "Trượng Phu",
+    "pinyin": "zhàngfu",
+    "meaning": "n. husband / Danh từ. chồng",
+    "example": "我〜在医院工作。",
+    "example_meaning": "Chồng tôi làm việc ở bệnh viện."
+  },
+  {
+    "stt": 291,
+    "vocab": "找",
+    "hanviet": "Thảo",
+    "pinyin": "zhǎo",
+    "meaning": "V. seek; look for / Động từ. tìm; tìm kiếm",
+    "example": "他想〜一个工作。",
+    "example_meaning": "Anh ấy muốn tìm một công việc."
+  },
+  {
+    "stt": 292,
+    "vocab": "着",
+    "hanviet": "Trước",
+    "pinyin": "zhe",
+    "meaning": "sa. used after a verb, indicating that the action starts and continues / Trợ từ động thái. dùng sau động từ biểu thị trạng thái tiếp diễn của hành động",
+    "example": "他笑〜说：“你不认识我，但是我认识你。”",
+    "example_meaning": "Anh ấy cười nói: \"Bạn không quen tôi, nhưng tôi quen bạn.\""
+  },
+  {
+    "stt": 293,
+    "vocab": "真",
+    "hanviet": "Chân",
+    "pinyin": "zhēn",
+    "meaning": "adv. indeed; really / Phó từ. thật; thật là; thực sự",
+    "example": "这个人〜高。",
+    "example_meaning": "Người này thật là cao."
+  },
+  {
+    "stt": 294,
+    "vocab": "正在",
+    "hanviet": "Chính Tại",
+    "pinyin": "zhèngzài",
+    "meaning": "adv. be + verb + ing; in the process of; in the course of; in the middle of; in the act of / Phó từ. đang (ở trong quá trình tiến hành một hành động nào đó)",
+    "example": "弟弟〜打篮球。",
+    "example_meaning": "Em trai đang chơi bóng rổ."
+  },
+  {
+    "stt": 295,
+    "vocab": "知道",
+    "hanviet": "Tri Đạo",
+    "pinyin": "zhīdào",
+    "meaning": "V. know; be aware of / Động từ. biết; hiểu rõ",
+    "example": "我不〜他现在在哪里。",
+    "example_meaning": "Tôi không biết bây giờ anh ấy đang ở đâu."
+  },
+  {
+    "stt": 296,
+    "vocab": "准备",
+    "hanviet": "Chuẩn Bị",
+    "pinyin": "zhǔnbèi",
+    "meaning": "V. be going to; intend; plan; prepare; n. preparation; arrangement / Động từ. dự định; chuẩn bị; Danh từ. sự chuẩn bị; sự sắp xếp",
+    "example": "我〜星期日去北京。 / 我在为考试做〜。",
+    "example_meaning": "Tôi dự định đi Bắc Kinh vào Chủ nhật. / Tôi đang chuẩn bị cho kỳ thi."
+  },
+  {
+    "stt": 297,
+    "vocab": "自行车",
+    "hanviet": "Tự Hành Xa",
+    "pinyin": "zìxíngchē",
+    "meaning": "n. bicycle / Danh từ. xe đạp",
+    "example": "这是我新买的〜。",
+    "example_meaning": "Đây là chiếc xe đạp tôi mới mua."
+  },
+  {
+    "stt": 298,
+    "vocab": "走",
+    "hanviet": "Tẩu",
+    "pinyin": "zǒu",
+    "meaning": "V. walk; go on foot; V. leave; go away; depart / Động từ. đi; đi bộ; Động từ. đi, rời đi, ra đi",
+    "example": "我女儿 9 个月就会〜了。 / 我〜了，再见！",
+    "example_meaning": "Con gái tôi 9 tháng tuổi đã biết đi rồi. / Tôi đi đây, tạm biệt!"
+  },
+  {
+    "stt": 299,
+    "vocab": "最",
+    "hanviet": "Tối",
+    "pinyin": "zuì",
+    "meaning": "adv. the most / Phó từ. nhất (biểu thị mức độ cao nhất)",
+    "example": "她是我〜好的朋友。",
+    "example_meaning": "Cô ấy là người bạn tốt nhất của tôi."
+  },
+  {
+    "stt": 300,
+    "vocab": "左边",
+    "hanviet": "Tả Biên",
+    "pinyin": "zuǒbian",
+    "meaning": "n. left; left side / Danh từ chỉ phương vị. bên trái; phía bên trái",
+    "example": "〜的那个杯子是你的，右边的是我的。",
+    "example_meaning": "Cái cốc phía bên trái kia là của bạn, cái bên phải là của tôi."
+  },
+  {
+    "stt": 301,
+    "vocab": "阿姨",
+    "hanviet": "A Di",
+    "pinyin": "āyí",
+    "meaning": "n. aunt / Danh từ. dì; cô; dì ghẻ (cũng dùng để gọi xưng hô lịch sự với người phụ nữ lớn tuổi hơn)",
+    "example": "〜，附近有地铁站吗？",
+    "example_meaning": "Dì ơi, gần đây có trạm tàu điện ngầm nào không ạ?"
+  },
+  {
+    "stt": 302,
+    "vocab": "啊",
+    "hanviet": "A",
+    "pinyin": "a",
+    "meaning": "int. used to express surprise, exclamation or promise / Thán từ/Trợ từ ngữ khí. dùng để biểu thị sự ngạc nhiên, cảm thán hoặc sự đồng ý, hứa hẹn",
+    "example": "〜，这儿的环境多么好啊！ / 你们家住在哪儿〜？ / 〜，好的，我现在就去。",
+    "example_meaning": "Ôi, môi trường ở đây thật là tốt quá! / Nhà các bạn sống ở đâu thế? / Ồ, được rồi, tôi đi ngay đây."
+  },
+  {
+    "stt": 303,
+    "vocab": "矮",
+    "hanviet": "Ải",
+    "pinyin": "ǎi",
+    "meaning": "adj. short, low / Tính từ. thấp (chiều cao)",
+    "example": "弟弟的个子比我〜。",
+    "example_meaning": "Chiều cao của em trai thấp hơn tôi. (Em trai thấp hơn tôi.)"
+  },
+  {
+    "stt": 304,
+    "vocab": "爱好",
+    "hanviet": "Ái Hảo",
+    "pinyin": "àihào",
+    "meaning": "n. hobby; an interest; fancy; V. be fond of or keen on; have a taste for / Danh từ. sở thích; hứng thú; Động từ. yêu thích; đam mê",
+    "example": "我最大的〜就是打篮球。 / 我从小就〜音乐。",
+    "example_meaning": "Sở thích lớn nhất của tôi chính là chơi bóng rổ. / Từ nhỏ tôi đã yêu thích âm nhạc rồi."
+  },
+  {
+    "stt": 305,
+    "vocab": "安静",
+    "hanviet": "An Tĩnh",
+    "pinyin": "ānjìng",
+    "meaning": "adj. noiseless; quiet; calm; V. quiet down; keep silent / Tính từ. yên tĩnh; thanh tĩnh; Động từ. yên lặng; giữ im lặng",
+    "example": "因为教室里没什么人，so 以很〜。 (Because there's nobody in the classroom, so it's quiet.) / 孩子们都睡着了，家里〜了下来。",
+    "example_meaning": "Bởi vì trong phòng học không có mấy người nên rất yên tĩnh. / Lũ trẻ đều ngủ say rồi, trong nhà đã yên tĩnh trở lại."
+  },
+  {
+    "stt": 306,
+    "vocab": "把",
+    "hanviet": "Bả",
+    "pinyin": "bǎ",
+    "meaning": "prep. dealing with, used before an object, followed by a transitive verb; nm. used for things with a handle / Giới từ giới thiệu tân ngữ chịu tác động (dùng trong câu chữ 把); Lượng từ. cái, chiếc (dùng cho những vật có tay cầm như ô, ghế, dao...)",
+    "example": "请〜桌子上的铅笔给我。 / 房间里有四〜椅子。",
+    "example_meaning": "Xin vui lòng đưa cho tôi chiếc bút chì ở trên bàn. / Trong phòng có bốn chiếc ghế."
+  },
+  {
+    "stt": 307,
+    "vocab": "班",
+    "hanviet": "Ban",
+    "pinyin": "bān",
+    "meaning": "n. class / Danh từ. lớp; lớp học",
+    "example": "我在三年级二〜。",
+    "example_meaning": "Tôi học ở lớp 2 năm thứ ba. (Lớp 3B / Lớp 3/2)"
+  },
+  {
+    "stt": 308,
+    "vocab": "搬",
+    "hanviet": "Bàn",
+    "pinyin": "bān",
+    "meaning": "V. carry; move / Động từ. di chuyển; bê; khiêng; dời đi (nhà cửa, đồ đạc lớn)",
+    "example": "请帮我把这张桌子〜到楼下好吗？",
+    "example_meaning": "Xin vui lòng giúp tôi bê chiếc bàn này xuống dưới lầu được không?"
+  },
+  {
+    "stt": 309,
+    "vocab": "办法",
+    "hanviet": "Biện Pháp",
+    "pinyin": "bànfǎ",
+    "meaning": "n. way; means; measure; step to take; method; resource / Danh từ. biện pháp; cách; phương pháp; cách giải quyết",
+    "example": "你别急，我们再想想〜。",
+    "example_meaning": "Bạn đừng vội, chúng ta hãy cùng nghĩ cách xem sao."
+  },
+  {
+    "stt": 310,
+    "vocab": "办公室",
+    "hanviet": "Biện Công Thất",
+    "pinyin": "bàngōngshì",
+    "meaning": "n. office / Danh từ. văn phòng; phòng làm việc",
+    "example": "请问，校长〜怎么走？",
+    "example_meaning": "Xin hỏi văn phòng Hiệu trưởng đi thế nào?"
+  },
+  {
+    "stt": 311,
+    "vocab": "半",
+    "hanviet": "Bán",
+    "pinyin": "bàn",
+    "meaning": "num. half / Số từ. một nửa; bán (nửa)",
+    "example": "现在是二点〜。",
+    "example_meaning": "Bây giờ là hai giờ rưỡi."
+  },
+  {
+    "stt": 312,
+    "vocab": "帮忙",
+    "hanviet": "Bang Mang",
+    "pinyin": "bāngmáng",
+    "meaning": "V. help; give a helping hand; do a favor; lend a hand / Động từ. giúp đỡ; giúp một tay",
+    "example": "因为有你〜，这件事情处理得很好。",
+    "example_meaning": "Nhờ có sự giúp đỡ của bạn, sự việc này đã được giải quyết rất tốt."
+  },
+  {
+    "stt": 313,
+    "vocab": "包",
+    "hanviet": "Bao",
+    "pinyin": "bāo",
+    "meaning": "n. bag / Danh từ. túi; túi xách; bao; bọc",
+    "example": "我的〜忘在房间里了。",
+    "example_meaning": "Túi xách của tôi để quên trong phòng rồi."
+  },
+  {
+    "stt": 314,
+    "vocab": "饱",
+    "hanviet": "Bão",
+    "pinyin": "bǎo",
+    "meaning": "adj. not hungry, full / Tính từ. no; đầy; no bụng",
+    "example": "我已经吃〜了。",
+    "example_meaning": "Tôi đã ăn no rồi."
+  },
+  {
+    "stt": 315,
+    "vocab": "北方",
+    "hanviet": "Bắc Phương",
+    "pinyin": "běifāng",
+    "meaning": "n. north / Danh từ. miền Bắc; phía Bắc",
+    "example": "冬天，〜比南方冷多了。",
+    "example_meaning": "Vào mùa đông, miền Bắc lạnh hơn miền Nam nhiều."
+  },
+  {
+    "stt": 316,
+    "vocab": "被",
+    "hanviet": "Bị",
+    "pinyin": "bèi",
+    "meaning": "prep. be made or forced, indicating passive voice / Giới từ. bị; được (biểu thị câu bị động)",
+    "example": "词典〜王老师拿走了。",
+    "example_meaning": "Cuốn từ điển đã bị thầy Vương lấy đi rồi."
+  },
+  {
+    "stt": 317,
+    "vocab": "鼻子",
+    "hanviet": "Tị Tử",
+    "pinyin": "bízi",
+    "meaning": "n. nose / Danh từ. mũi; cái mũi",
+    "example": "姐姐的〜很高，很漂亮。",
+    "example_meaning": "Mũi của chị gái rất cao, rất đẹp."
+  },
+  {
+    "stt": 318,
+    "vocab": "比较",
+    "hanviet": "Tỉ Giảo",
+    "pinyin": "bǐjiào",
+    "meaning": "adv. fairly; quite / Phó từ. tương đối; khá",
+    "example": "今天天气〜冷。",
+    "example_meaning": "Hôm nay thời tiết tương đối lạnh."
+  },
+  {
+    "stt": 319,
+    "vocab": "比赛",
+    "hanviet": "Tỉ Tái / Tỷ Tái",
+    "pinyin": "bǐsài",
+    "meaning": "n. competition; V. compete / Danh từ. trận đấu; cuộc thi; Động từ. thi đấu; cạnh tranh",
+    "example": "今天晚上有足球〜。 / 我们〜跑步吧。",
+    "example_meaning": "Tối nay có trận thi đấu bóng đá. / Chúng ta thi chạy bộ đi."
+  },
+  {
+    "stt": 320,
+    "vocab": "笔记本",
+    "hanviet": "Bút Ký Bản",
+    "pinyin": "bǐjìběn",
+    "meaning": "n. notebook; n. laptop / Danh từ. vở ghi chép; sổ tay; máy tính xách tay",
+    "example": "老师讲的内容，我都写在〜上了。 / 你看，这是我新买的〜。",
+    "example_meaning": "Những nội dung thầy cô giảng, tôi đều viết vào vở ghi chép rồi. / Bạn xem, đây là chiếc máy tính xách tay tôi mới mua."
+  },
+  {
+    "stt": 321,
+    "vocab": "必须",
+    "hanviet": "Tất Tu",
+    "pinyin": "bìxū",
+    "meaning": "adv. must; have to / Phó từ. phải; nhất định phải",
+    "example": "我今天〜去上班。",
+    "example_meaning": "Hôm nay tôi phải đi làm."
+  },
+  {
+    "stt": 322,
+    "vocab": "变化",
+    "hanviet": "Biến Hóa",
+    "pinyin": "biànhuà",
+    "meaning": "n. change; variation; V. change; vary / Danh từ. sự thay đổi; sự biến đổi; Động từ. thay đổi; biến hóa",
+    "example": "十年不见，他好像没什么〜。 / 城市〜得太快了。",
+    "example_meaning": "Mười năm không gặp, anh ấy dường như không có thay đổi gì mấy. / Thành phố thay đổi nhanh quá."
+  },
+  {
+    "stt": 323,
+    "vocab": "别人",
+    "hanviet": "Biệt Nhân",
+    "pinyin": "biéren",
+    "meaning": "pron. other people; another person / Đại từ. người khác; người ngoài",
+    "example": "〜都走了，为什么 you 还在这里？ (〜都走了，为什么你还在这里？)",
+    "example_meaning": "Mọi người đều đi rồi, tại sao bạn vẫn còn ở đây?"
+  },
+  {
+    "stt": 324,
+    "vocab": "宾馆",
+    "hanviet": "Tân Quán",
+    "pinyin": "bīnguǎn",
+    "meaning": "n. hotel / Danh từ. nhà khách; khách sạn",
+    "example": "这是我们这儿 l 最大的〜，可以住 300 个 guest。 (这是我们这儿最大的〜，可以住 300 个客人。)",
+    "example_meaning": "Đây là khách sạn lớn nhất ở chỗ chúng tôi, có thể chứa được 300 khách."
+  },
+  {
+    "stt": 325,
+    "vocab": "冰箱",
+    "hanviet": "Băng Sương",
+    "pinyin": "bīngxiāng",
+    "meaning": "n. refrigerator / Danh từ. tủ lạnh",
+    "example": "妈妈把刚 buy 的鱼放进了〜。 (妈妈把刚买 of 鱼放进了〜。 / 妈妈把刚买的鱼放进了〜。)",
+    "example_meaning": "Mẹ đã bỏ con cá mới mua vào trong tủ lạnh."
+  },
+  {
+    "stt": 326,
+    "vocab": "不dan......而且......",
+    "hanviet": "Bất Đản…… Nhi Thả……",
+    "pinyin": "búdàn... érqiě...",
+    "meaning": "conj. moreover; not only... but also... / Liên từ. không những... mà còn...; hơn nữa",
+    "example": "妹妹〜喜欢唱歌，〜爱跳舞。",
+    "example_meaning": "Em gái không những thích ca hát, mà còn yêu khiêu vũ."
+  },
+  {
+    "stt": 327,
+    "vocab": "才",
+    "hanviet": "Tài",
+    "pinyin": "cái",
+    "meaning": "adv. late, indicating just happened; adv. just; only (indicating only one solution) / Phó từ. mới (biểu thị sự việc xảy ra muộn); chỉ (biểu thị giải pháp duy nhất)",
+    "example": "他 30 岁〜读完大学。 / 这件事，只有 he 〜能做好。 (他 30 岁〜读完大学。 / 这件事，只有他〜能做好。)",
+    "example_meaning": "Anh ấy 30 tuổi mới tốt nghiệp đại học. / Việc này, chỉ có anh ấy mới có thể làm tốt."
+  },
+  {
+    "stt": 328,
+    "vocab": "菜单",
+    "hanviet": "Thái Đơn",
+    "pinyin": "càidān",
+    "meaning": "n. menu / Danh từ. thực đơn; thực đơn món ăn",
+    "example": "服务员，请 bang 我拿一下〜。 (服务员，请帮我拿一下〜。)",
+    "example_meaning": "Phục vụ ơi, xin vui lòng lấy giúp tôi cái thực đơn một lát."
+  },
+  {
+    "stt": 329,
+    "vocab": "参加",
+    "hanviet": "Tham Gia",
+    "pinyin": "cānjiā",
+    "meaning": "V. join; take part in; attend / Động từ. tham gia; tham dự",
+    "example": "这次会议有两百多人〜。",
+    "example_meaning": "Cuộc họp lần này có hơn hai trăm người tham gia."
+  },
+  {
+    "stt": 330,
+    "vocab": "草",
+    "hanviet": "Thảo",
+    "pinyin": "cǎo",
+    "meaning": "n. grass; straw / Danh từ. cỏ; rơm rạ",
+    "example": "春天来了，小〜sạch l (春天来了，小〜绿了。)",
+    "example_meaning": "Mùa xuân đến rồi, ngọn cỏ nhỏ đã xanh tươi."
+  },
+  {
+    "stt": 331,
+    "vocab": "层",
+    "hanviet": "Tằng / Tầng",
+    "pinyin": "céng",
+    "meaning": "nm. layer, floor, etc. (used for things that have separate levels) / Lượng từ. tầng; lớp (dùng cho những vật có các mức/tầng lớp khác nhau)",
+    "example": "我住在三〜，306。",
+    "example_meaning": "Tôi sống ở tầng ba, phòng 306."
+  },
+  {
+    "stt": 332,
+    "vocab": "差",
+    "hanviet": "Sai / Sái",
+    "pinyin": "chà",
+    "meaning": "adj. bad; poor; V. fall short of; owe / Tính từ. kém; tồi tệ; Động từ. kém; thiếu; còn thiếu",
+    "example": "我这次考试考得很〜。 / 现在是〜 5 分 12 点。",
+    "example_meaning": "Kỳ thi lần này tôi thi rất kém. / Bây giờ là 12 giờ kém 5 phút."
+  },
+  {
+    "stt": 333,
+    "vocab": "长",
+    "hanviet": "Trường",
+    "pinyin": "cháng",
+    "meaning": "adj. long / Tính từ. dài",
+    "example": "姐姐的头发又 hắc 又〜。 (姐姐的头发又黑又〜。)",
+    "example_meaning": "Tóc của chị gái vừa đen vừa dài."
+  },
+  {
+    "stt": 334,
+    "vocab": "超市",
+    "hanviet": "Siêu Thị",
+    "pinyin": "chāoshì",
+    "meaning": "n. supermarket / Danh từ. siêu thị",
+    "example": "这家〜里的东西比较便宜。",
+    "example_meaning": "Đồ đạc ở siêu thị này tương đối rẻ."
+  },
+  {
+    "stt": 335,
+    "vocab": "衬衫",
+    "hanviet": "Sấn Sa",
+    "pinyin": "chènshān",
+    "meaning": "n. shirt / Danh từ. áo sơ mi",
+    "example": "今天我穿这件〜。",
+    "example_meaning": "Hôm nay tôi mặc chiếc áo sơ mi này."
+  },
+  {
+    "stt": 336,
+    "vocab": "成绩",
+    "hanviet": "Thành Tích",
+    "pinyin": "chéngjì",
+    "meaning": "n. score / Danh từ. thành tích; kết quả; điểm số",
+    "example": "我们 can 在网上查到考试〜。 (我们可以在网上查到考试〜。)",
+    "example_meaning": "Chúng ta có thể tra cứu kết quả thi trên mạng internet."
+  },
+  {
+    "stt": 337,
+    "vocab": "城市",
+    "hanviet": "Thành Thị",
+    "pinyin": "chéngshì",
+    "meaning": "n. city / Danh từ. thành thị; thành phố",
+    "example": "我已经喜欢上了这个〜。",
+    "example_meaning": "Tôi đã đem lòng yêu mến thành phố này rồi."
+  },
+  {
+    "stt": 338,
+    "vocab": "迟到",
+    "hanviet": "Trì Đáo",
+    "pinyin": "chídào",
+    "meaning": "V. be late / Động từ. đến muộn; đi trễ",
+    "example": "对不起，我今天又〜了。",
+    "example_meaning": "Xin lỗi, hôm nay tôi lại đi trễ rồi."
+  },
+  {
+    "stt": 339,
+    "vocab": "出现",
+    "hanviet": "Xuất Hiện",
+    "pinyin": "chūxiàn",
+    "meaning": "V. come out, happen; show up; appear / Động từ. xuất hiện; nảy sinh; lộ diện",
+    "example": "我们等了他一个小时，他也没有〜。 / 我们 work 中〜了不少问题。 (我们等了他一个小时，他也没有〜。 / 我们工作中〜了不少 vấn đề。)",
+    "example_meaning": "Chúng tôi đã đợi anh ấy một tiếng đồng hồ, anh ấy cũng không xuất hiện. / Trong công việc của chúng tôi đã xuất hiện không ít vấn đề."
+  },
+  {
+    "stt": 340,
+    "vocab": "除了",
+    "hanviet": "Trừ Liễu",
+    "pinyin": "chúle",
+    "meaning": "prep. except (for); besides; in addition to / Giới từ. ngoài ra; ngoại trừ; bên cạnh đó",
+    "example": "〜小王，其他人都来了。",
+    "example_meaning": "Ngoại trừ Tiểu Vương, những người khác đều đã đến đông đủ."
+  },
+  {
+    "stt": 341,
+    "vocab": "船",
+    "hanviet": "Thuyền",
+    "pinyin": "chuán",
+    "meaning": "n. boat; ship / Danh từ. thuyền; tàu thủy",
+    "example": "你可以坐〜去上海。",
+    "example_meaning": "Bạn có thể đi tàu thủy đến Thượng Hải."
+  },
+  {
+    "stt": 342,
+    "vocab": "春",
+    "hanviet": "Xuân",
+    "pinyin": "chūn",
+    "meaning": "n. spring (one of the four seasons) / Danh từ. mùa xuân (một trong bốn mùa)",
+    "example": "〜天是一年的开始。",
+    "example_meaning": "Mùa xuân là sự khởi đầu của một năm."
+  },
+  {
+    "stt": 343,
+    "vocab": "词典",
+    "hanviet": "Từ Điển",
+    "pinyin": "cídiǎn",
+    "meaning": "n. dictionary / Danh từ. từ điển",
+    "example": "这本〜对我的学习很有帮助。",
+    "example_meaning": "Cuốn từ điển này rất có ích cho việc học tập của tôi."
+  },
+  {
+    "stt": 344,
+    "vocab": "聪明",
+    "hanviet": "Thông Minh",
+    "pinyin": "cōngming",
+    "meaning": "adj. bright; clever; intelligent / Tính từ. thông minh; sáng dạ",
+    "example": "弟弟不但很〜，而且很爱学习。",
+    "example_meaning": "Em trai không những rất thông minh, mà còn rất ham học hỏi."
+  },
+  {
+    "stt": 345,
+    "vocab": "打扫",
+    "hanviet": "Đả Tảo",
+    "pinyin": "dǎsǎo",
+    "meaning": "V. clean; sweep / Động từ. quét dọn; dọn dẹp",
+    "example": "我准备周末把房间〜下。",
+    "example_meaning": "Tôi dự định cuối tuần sẽ dọn dẹp phòng một chút."
+  },
+  {
+    "stt": 346,
+    "vocab": "打算",
+    "hanviet": "Đả Toán",
+    "pinyin": "dǎsuàn",
+    "meaning": "V. be going to do sth.; plan to; n. plan / Động từ. dự định, lên kế hoạch làm việc gì đó; Danh từ. dự định, kế hoạch",
+    "example": "我〜下个星期去旅游。 / 我还没有结婚的〜。",
+    "example_meaning": "Tôi dự định tuần tới sẽ đi du lịch. / Tôi vẫn chưa có dự định kết hôn."
+  },
+  {
+    "stt": 347,
+    "vocab": "带",
+    "hanviet": "Đới",
+    "pinyin": "dài",
+    "meaning": "V. carry; take; bring; bear / Động từ. mang theo; đem theo; mang; dẫn theo",
+    "example": "我今天忘记〜钱包了。",
+    "example_meaning": "Hôm nay tôi quên mang theo ví tiền rồi."
+  },
+  {
+    "stt": 348,
+    "vocab": "担心",
+    "hanviet": "Đam Tâm",
+    "pinyin": "dānxīn",
+    "meaning": "V. worry; be anxious; feel concerned / Động từ. lo lắng; băn khoăn; quan tâm",
+    "example": "爷爷住院了，我很〜。",
+    "example_meaning": "Ông nội phải nằm viện rồi, tôi rất lo lắng."
+  },
+  {
+    "stt": 349,
+    "vocab": "蛋糕",
+    "hanviet": "Đản Cao",
+    "pinyin": "dàngāo",
+    "meaning": "n. cake / Danh từ. bánh ngọt; bánh gato; bánh kem",
+    "example": "你饿了吗？先吃块〜吧。",
+    "example_meaning": "Bạn đói chưa? Ăn một miếng bánh ngọt trước đi nhé."
+  },
+  {
+    "stt": 350,
+    "vocab": "当然",
+    "hanviet": "Đương Nhiên",
+    "pinyin": "dāngrán",
+    "meaning": "adv. of course; naturally; certainly / Phó từ. đương nhiên; dĩ nhiên; tất nhiên",
+    "example": "你生病了，我〜要来看看你。",
+    "example_meaning": "Bạn bị ốm rồi, dĩ nhiên là tôi phải đến thăm bạn rồi."
+  },
+  {
+    "stt": 351,
+    "vocab": "灯",
+    "hanviet": "Đăng",
+    "pinyin": "dēng",
+    "meaning": "n. lamp / Danh từ. đèn; cái đèn",
+    "example": "房间里的〜怎么不亮了？",
+    "example_meaning": "Cái đèn trong phòng sao lại không sáng thế này?"
+  },
+  {
+    "stt": 352,
+    "vocab": "地",
+    "hanviet": "Địa",
+    "pinyin": "de",
+    "meaning": "sa. marker of adverbial / Trợ từ cấu trúc biểu thị trạng ngữ (đứng trước động từ)",
+    "example": "天慢慢〜黑了。",
+    "example_meaning": "Trời đang từ từ tối dần rồi."
+  },
+  {
+    "stt": 353,
+    "vocab": "地方",
+    "hanviet": "Địa Phương",
+    "pinyin": "dìfang",
+    "meaning": "n. place / Danh từ. nơi chốn; chỗ; địa phương",
+    "example": "这个〜。",
+    "example_meaning": "Nơi này... / Chỗ này..."
+  },
+  {
+    "stt": 354,
+    "vocab": "地铁",
+    "hanviet": "Địa Thiết",
+    "pinyin": "dìtiě",
+    "meaning": "n. subway / Danh từ. tàu điện ngầm",
+    "example": "我们坐〜。",
+    "example_meaning": "Chúng tôi đi tàu điện ngầm."
+  },
+  {
+    "stt": 355,
+    "vocab": "地图",
+    "hanviet": "Địa Đồ",
+    "pinyin": "dìtú",
+    "meaning": "n. map / Danh từ. bản đồ",
+    "example": "我的手机上有电子〜。",
+    "example_meaning": "Trên điện thoại của tôi có bản đồ điện tử."
+  },
+  {
+    "stt": 356,
+    "vocab": "电梯",
+    "hanviet": "Điện Thang",
+    "pinyin": "diàntī",
+    "meaning": "n. elevator / Danh từ. thang máy",
+    "example": "我们坐〜上去吧。",
+    "example_meaning": "Chúng ta đi thang máy lên trên đi."
+  },
+  {
+    "stt": 357,
+    "vocab": "电子邮件",
+    "hanviet": "Điện Tử Bưu Kiện",
+    "pinyin": "diànzǐyóujiàn",
+    "meaning": "n. email / Danh từ. thư điện tử; email",
+    "example": "我晚上再给你发个〜。",
+    "example_meaning": "Buổi tối tôi sẽ gửi cho bạn một cái email nhé."
+  },
+  {
+    "stt": 358,
+    "vocab": "东",
+    "hanviet": "Đông",
+    "pinyin": "dōng",
+    "meaning": "n. east / Danh từ chỉ phương hướng. phía Đông; đằng Đông",
+    "example": "火ce trạm (火车站在〜边。)",
+    "example_meaning": "Ga tàu hỏa ở phía Đông."
+  },
+  {
+    "stt": 359,
+    "vocab": "冬",
+    "hanviet": "Đông",
+    "pinyin": "dōng",
+    "meaning": "n. winter / Danh từ. mùa đông",
+    "example": "北方的〜天很冷。",
+    "example_meaning": "Mùa đông ở phương Bắc rất lạnh."
+  },
+  {
+    "stt": 360,
+    "vocab": "动物园",
+    "hanviet": "Động Vật Viên",
+    "pinyin": "dòngwùyuán",
+    "meaning": "n. zoo / Danh từ. vườn bách thú; sở thú",
+    "example": "〜里有一百多种动物。",
+    "example_meaning": "Trong sở thú có hơn một trăm loài động vật."
+  },
+  {
+    "stt": 361,
+    "vocab": "短",
+    "hanviet": "Đoản",
+    "pinyin": "duǎn",
+    "meaning": "adj. short / Tính từ. ngắn; ngắn ngủi",
+    "example": "这件事在〜时间内很难做完。",
+    "example_meaning": "Việc này trong thời gian ngắn rất khó hoàn thành xong."
+  },
+  {
+    "stt": 362,
+    "vocab": "段",
+    "hanviet": "Đoạn",
+    "pinyin": "duàn",
+    "meaning": "nm. passage, paragraph (of an article); period (of time); section (of a distance) / Lượng từ. đoạn; quãng; phần (dùng cho đoạn văn, khoảng thời gian, quãng đường...)",
+    "example": "这〜时间。",
+    "example_meaning": "Khoảng thời gian này..."
+  },
+  {
+    "stt": 363,
+    "vocab": "锻炼",
+    "hanviet": "Đoạn Luyện",
+    "pinyin": "duànliàn",
+    "meaning": "V. do physical training; to take exercise / Động từ. rèn luyện; tập luyện; tập thể dục thể thao",
+    "example": "我每天早上都去〜身体。",
+    "example_meaning": "Mỗi sáng tôi đều đi tập thể dục rèn luyện thân thể."
+  },
+  {
+    "stt": 364,
+    "vocab": "多么",
+    "hanviet": "Đa Ma",
+    "pinyin": "duōme",
+    "meaning": "adv. how (wonderful, etc.) / Phó từ. biết bao; biết nhường nào; thật là (biểu thị mức độ cao trong câu cảm thán)",
+    "example": "这里〜漂亮啊！",
+    "example_meaning": "Nơi này thật là đẹp đẽ biết bao!"
+  },
+  {
+    "stt": 365,
+    "vocab": "饿",
+    "hanviet": "Ngạ",
+    "pinyin": "è",
+    "meaning": "adj. hungry / Tính từ. đói; đói bụng",
+    "example": "我〜了，想吃点东西。",
+    "example_meaning": "Tôi đói rồi, muốn ăn chút gì đó."
+  },
+  {
+    "stt": 366,
+    "vocab": "耳朵",
+    "hanviet": "Nhĩ Đóa",
+    "pinyin": "ěrduo",
+    "meaning": "n. ear / Danh từ. tai; đôi tai",
+    "example": "我的〜有点疼，要去医院 bh 看看 (我的〜有点疼，要去医院看看。)",
+    "example_meaning": "Tai của tôi hơi đau, phải đi bệnh viện khám xem sao."
+  },
+  {
+    "stt": 367,
+    "vocab": "发",
+    "hanviet": "Phát",
+    "pinyin": "fā",
+    "meaning": "V. send / Động từ. gửi; phát đi",
+    "example": "你给我〜电子邮件了吗？",
+    "example_meaning": "Bạn đã gửi thư điện tử cho tôi chưa?"
+  },
+  {
+    "stt": 368,
+    "vocab": "发烧",
+    "hanviet": "Phát Thiêu",
+    "pinyin": "fāshāo",
+    "meaning": "V. have a fever / Động từ. phát sốt; sốt",
+    "example": "我身体不舒服，〜了。",
+    "example_meaning": "Cơ thể tôi không khỏe, tôi bị sốt rồi."
+  },
+  {
+    "stt": 369,
+    "vocab": "发现",
+    "hanviet": "Phát Hiện",
+    "pinyin": "fāxiàn",
+    "meaning": "V. find out; discover / Động từ. phát hiện; nhận ra",
+    "example": "我〜他痩了很多。",
+    "example_meaning": "Tôi phát hiện ra anh ấy đã gầy đi rất nhiều."
+  },
+  {
+    "stt": 370,
+    "vocab": "方便",
+    "hanviet": "Phương Tiện",
+    "pinyin": "fāngbiàn",
+    "meaning": "adj. convenient / Tính từ. thuận tiện; tiện lợi; dễ dàng",
+    "example": "我坐地铁去上班很〜。",
+    "example_meaning": "Tôi đi tàu điện ngầm đi làm rất thuận tiện."
+  },
+  {
+    "stt": 371,
+    "vocab": "放",
+    "hanviet": "Phóng",
+    "pinyin": "fàng",
+    "meaning": "V. put; place / Động từ. đặt; để; thả; buông",
+    "example": "把书〜在桌子上吧。",
+    "example_meaning": "Đặt quyển sách trên bàn đi nhé."
+  },
+  {
+    "stt": 372,
+    "vocab": "放心",
+    "hanviet": "Phóng Tâm",
+    "pinyin": "fàngxīn",
+    "meaning": "V. be assured / Động từ. yên tâm; yên lòng; an tâm",
+    "example": "请〜，我会把事情办好的。",
+    "example_meaning": "Xin hãy yên tâm, tôi sẽ giải quyết tốt mọi việc."
+  },
+  {
+    "stt": 373,
+    "vocab": "分",
+    "hanviet": "Phân",
+    "pinyin": "fēn",
+    "meaning": "num. minute; n. mark; grade; score; V. split; separate / Số từ. phút; Danh từ. điểm; điểm số; Động từ. chia; chia nhỏ; phân chia",
+    "example": "现在 8 点 30〜。 / 这次考试，我得了 85〜。 / 这个苹果被〜成了两块儿。",
+    "example_meaning": "Bây giờ là 8 giờ 30 phút. / Kỳ thi lần này tôi được 85 điểm. / Quả táo này đã bị chia làm hai nửa (hai miếng)."
+  },
+  {
+    "stt": 374,
+    "vocab": "附近",
+    "hanviet": "Phụ Cận",
+    "pinyin": "fùjìn",
+    "meaning": "n. nearby; neighbour; vicinity; proximity / Danh từ. vùng lân cận; vùng phụ cận; khu vực lân cận",
+    "example": "他家就住在公司〜。",
+    "example_meaning": "Nhà anh ấy sống ngay gần công ty."
+  },
+  {
+    "stt": 375,
+    "vocab": "复习",
+    "hanviet": "Phức Tập",
+    "pinyin": "fùxí",
+    "meaning": "V. review / Động từ. ôn tập; ôn lại bài",
+    "example": "考试前要好好地〜。",
+    "example_meaning": "Trước khi thi cần phải ôn tập thật tốt."
+  },
+  {
+    "stt": 376,
+    "vocab": "干净",
+    "hanviet": "Can Tịnh",
+    "pinyin": "gānjìng",
+    "meaning": "adj. clean / Tính từ. sạch sẽ",
+    "example": "我把衣服洗〜了。",
+    "example_meaning": "Tôi đã giặt sạch quần áo rồi."
+  },
+  {
+    "stt": 377,
+    "vocab": "感冒",
+    "hanviet": "Cảm Mạo",
+    "pinyin": "gǎnmào",
+    "meaning": "V. have/catch a cold / Động từ. cảm mạo; cảm lạnh; bị cảm",
+    "example": "我〜了，要吃点儿药。",
+    "example_meaning": "Tôi bị cảm rồi, cần uống một ít thuốc."
+  },
+  {
+    "stt": 378,
+    "vocab": "感感兴趣 (感兴趣 in Batch 06 raw was \"感兴趣\")",
+    "hanviet": "Cảm Hưng Thú",
+    "pinyin": "gǎn xìngqù",
+    "meaning": "interest; taste / Thú vị; hứng thú; có sở thích (với cái gì)",
+    "example": "小王对音乐很〜。",
+    "example_meaning": "Tiểu Vương rất có hứng thú với âm nhạc."
+  },
+  {
+    "stt": 379,
+    "vocab": "刚才",
+    "hanviet": "Cương Tài",
+    "pinyin": "gāngcái",
+    "meaning": "n. a moment ago; just now / Danh từ chỉ thời gian. vừa nãy; vừa mới",
+    "example": "〜是谁来的电话？",
+    "example_meaning": "Vừa nãy là ai gọi điện thoại đến thế?"
+  },
+  {
+    "stt": 380,
+    "vocab": "个子",
+    "hanviet": "Cá Tử",
+    "pinyin": "gèzi",
+    "meaning": "n. height / Danh từ. vóc dáng; dáng người; chiều cao",
+    "example": "哥哥比我〜高。",
+    "example_meaning": "Chiều cao của anh trai cao hơn tôi. (Anh trai cao hơn tôi.)"
+  },
+  {
+    "stt": 381,
+    "vocab": "根据",
+    "hanviet": "Căn Cứ",
+    "pinyin": "gēnjù",
+    "meaning": "prep. on the basis of; according to; n. basis; cause; foundation / Giới từ. căn cứ vào; dựa theo; Danh từ. căn cứ; cơ sở; nền tảng",
+    "example": "请〜这篇文章谈一谈自己的想法。 / 他这么说，是有〜的。",
+    "example_meaning": "Xin vui lòng căn cứ vào bài viết này để nói một chút về suy nghĩ của bản thân. / Anh ấy nói như vậy là có căn cứ đấy."
+  },
+  {
+    "stt": 382,
+    "vocab": "跟",
+    "hanviet": "Cân",
+    "pinyin": "gēn",
+    "meaning": "V. follow; prep. with / Động từ. đi theo; theo; Giới từ. với; cùng với",
+    "example": "散步的时候，小狗一直〜在我身后。 / 姐姐〜妈妈一起去公园了。",
+    "example_meaning": "Khi đi dạo, chú chó nhỏ cứ đi theo ngay phía sau tôi. / Chị gái cùng với mẹ đi công viên rồi."
+  },
+  {
+    "stt": 383,
+    "vocab": "更",
+    "hanviet": "Cánh / Canh",
+    "pinyin": "gèng",
+    "meaning": "adv. more / Phó từ. càng; hơn nữa",
+    "example": "他比我〜喜欢 swimming。 (他比我〜喜欢游泳。)",
+    "example_meaning": "Anh ấy còn thích bơi lội hơn tôi."
+  },
+  {
+    "stt": 384,
+    "vocab": "公斤",
+    "hanviet": "Công Cân",
+    "pinyin": "gōngjīn",
+    "meaning": "nm. kilogram / Lượng từ. ki-lô-gam; cân",
+    "example": "我买了一〜鸡蛋。",
+    "example_meaning": "Tôi đã mua một cân (một ki-lô-gam) trứng gà."
+  },
+  {
+    "stt": 385,
+    "vocab": "公园",
+    "hanviet": "Công Viên",
+    "pinyin": "gōngyuán",
+    "meaning": "n. park / Danh từ. công viên",
+    "example": "我家附近有个〜，我常去那里散步。",
+    "example_meaning": "Gần nhà tôi có một công viên, tôi thường xuyên đến đó đi dạo."
+  },
+  {
+    "stt": 386,
+    "vocab": "故事",
+    "hanviet": "Cổ Sự",
+    "pinyin": "gùshi",
+    "meaning": "n. story / Danh từ. câu chuyện; truyện",
+    "example": "睡觉前，我都给女儿讲〜。",
+    "example_meaning": "Trước khi đi ngủ, tôi đều kể chuyện cho con gái nghe."
+  },
+  {
+    "stt": 387,
+    "vocab": "刮风",
+    "hanviet": "Quát Phong",
+    "pinyin": "guāfēng",
+    "meaning": "blow (of wind) / Gió thổi; nổi gió",
+    "example": "今天〜了，别骑自行车了。",
+    "example_meaning": "Hôm nay trời nổi gió rồi, đừng đi xe đạp nữa."
+  },
+  {
+    "stt": 388,
+    "vocab": "关",
+    "hanviet": "Quan",
+    "pinyin": "guān",
+    "meaning": "V. close; turn off / Động từ. đóng (cửa); tắt (tivi, điện...)",
+    "example": "他〜上了门。 / 我把电视〜了。",
+    "example_meaning": "Anh ấy đã đóng cửa lại rồi. / Tôi đã tắt tivi rồi."
+  },
+  {
+    "stt": 389,
+    "vocab": "关系",
+    "hanviet": "Quan Hệ",
+    "pinyin": "guānxi",
+    "meaning": "n. relation; relationship / Danh từ. quan hệ; mối quan hệ",
+    "example": "这件事和她没有〜。",
+    "example_meaning": "Việc này không liên quan đến cô ấy."
+  },
+  {
+    "stt": 390,
+    "vocab": "关心",
+    "hanviet": "Quan Tâm",
+    "pinyin": "guānxīn",
+    "meaning": "V. care for; be concerned for; n. concern; consideration / Động từ. quan tâm; Danh từ. sự quan tâm",
+    "example": "爸爸很〜我的学习。 / 谢谢你的〜，我的身体好多了。",
+    "example_meaning": "Bố rất quan tâm đến việc học của tôi. / Cảm ơn sự quan tâm của bạn, sức khỏe của tôi tốt hơn nhiều rồi."
+  },
+  {
+    "stt": 391,
+    "vocab": "关于",
+    "hanviet": "Quan Ư",
+    "pinyin": "guānyú",
+    "meaning": "prep. with regard to / Giới từ. về; liên quan đến",
+    "example": "〜这个问题，我们还要再想一想。",
+    "example_meaning": "Về vấn đề này, chúng ta cần phải suy nghĩ thêm một chút nữa."
+  },
+  {
+    "stt": 392,
+    "vocab": "国家",
+    "hanviet": "Quốc Gia",
+    "pinyin": "guójiā",
+    "meaning": "n. country / Danh từ. quốc gia; đất nước",
+    "example": "我爱旅游，去过几十个〜。",
+    "example_meaning": "Tôi thích đi du lịch, đã từng đi qua hàng chục quốc gia."
+  },
+  {
+    "stt": 393,
+    "vocab": "过",
+    "hanviet": "Quá",
+    "pinyin": "guò",
+    "meaning": "V. live; pass; V. spend the time; pass the time / Động từ. qua; đón (lễ, tết); trải qua (thời gian)",
+    "example": "今天我〜生日，朋友们都来了。 / 时间〜得真快，要过春节了。",
+    "example_meaning": "Hôm nay tôi đón sinh nhật, các bạn đều đã đến rồi. / Thời gian trôi qua thật nhanh, sắp đón Tết Nguyên Đán rồi."
+  },
+  {
+    "stt": 394,
+    "vocab": "过去",
+    "hanviet": "Quá Khứ",
+    "pinyin": "guòqù",
+    "meaning": "n. in the past / Danh từ. quá khứ; trước đây",
+    "example": "奶奶经常给我讲〜的事情。",
+    "example_meaning": "Bà nội thường kể cho tôi nghe những chuyện ngày xưa (chuyện trong quá khứ)."
+  },
+  {
+    "stt": 395,
+    "vocab": "还是",
+    "hanviet": "Hoàn Thị",
+    "pinyin": "háishì",
+    "meaning": "adv. still; all the same; adv. had better; adv. or / Phó từ. vẫn; tốt nhất là; Liên từ. hay là (dùng trong câu hỏi lựa chọn)",
+    "example": "我〜在北京，没去其他地方。 / 你〜吃点儿水果吧，别喝啤酒了。 / 你是开车去〜坐公共汽车去？",
+    "example_meaning": "Tôi vẫn ở Bắc Kinh, chưa đi nơi khác. / Bạn tốt nhất nên ăn chút trái cây đi, đừng uống bia nữa. / Bạn đi bằng xe ô tô hay là đi bằng xe buýt?"
+  },
+  {
+    "stt": 396,
+    "vocab": "害怕",
+    "hanviet": "Hải Phạ",
+    "pinyin": "hàipà",
+    "meaning": "V. be afraid; be frightened / Động từ. sợ; sợ hãi",
+    "example": "我〜一个人晚上出门。",
+    "example_meaning": "Tôi sợ một mình đi ra ngoài vào buổi tối."
+  },
+  {
+    "stt": 397,
+    "vocab": "航班",
+    "hanviet": "Hàng Ban",
+    "pinyin": "hángbān",
+    "meaning": "n. flight; scheduled flight / Danh từ. chuyến bay; chuyến bay theo lịch trình",
+    "example": "各位顾客，欢迎您乘坐我们的〜。",
+    "example_meaning": "Kính chào quý khách, chào mừng quý khách đi trên chuyến bay của chúng tôi."
+  },
+  {
+    "stt": 398,
+    "vocab": "黑板",
+    "hanviet": "Hắc Bản",
+    "pinyin": "hēibǎn",
+    "meaning": "n. blackboard / Danh từ. bảng đen",
+    "example": "请大家看〜。",
+    "example_meaning": "Xin mời mọi người nhìn lên bảng đen."
+  },
+  {
+    "stt": 399,
+    "vocab": "后来",
+    "hanviet": "Hậu Lai",
+    "pinyin": "hòulái",
+    "meaning": "adv. later; afterwards / Phó từ. sau đó; về sau; sau này",
+    "example": "〜我再也没见过他。",
+    "example_meaning": "Sau đó tôi không bao giờ gặp lại anh ấy nữa."
+  },
+  {
+    "stt": 400,
+    "vocab": "护照",
+    "hanviet": "Hộ Chiếu",
+    "pinyin": "hùzhào",
+    "meaning": "n. passport / Danh từ. hộ chiếu",
+    "example": "你的〜办好了吗？",
+    "example_meaning": "Hộ chiếu của bạn đã làm xong chưa?"
+  },
+  {
+    "stt": 401,
+    "vocab": "花",
+    "hanviet": "Hoa",
+    "pinyin": "huā",
+    "meaning": "V. spend / Động từ. tiêu (tiền); tốn (thời gian)",
+    "example": "今天我〜了不少钱。",
+    "example_meaning": "Hôm nay tôi đã tiêu không ít tiền."
+  },
+  {
+    "stt": 402,
+    "vocab": "花",
+    "hanviet": "Hoa",
+    "pinyin": "huā",
+    "meaning": "n. flower / Danh từ. hoa; bông hoa",
+    "example": "今天是妈妈的生日，我们送一些〜给她吧。",
+    "example_meaning": "Hôm nay là sinh nhật mẹ, chúng ta tặng một ít hoa cho mẹ nhé."
+  },
+  {
+    "stt": 403,
+    "vocab": "画",
+    "hanviet": "Họa",
+    "pinyin": "huà",
+    "meaning": "V. draw; paint; n. picture; drawing; painting / Động từ. vẽ; Danh từ. bức tranh; bức vẽ",
+    "example": "我从小就喜欢〜画儿。 / 他的〜儿很受大家欢迎。",
+    "example_meaning": "Tôi từ nhỏ đã thích vẽ tranh rồi. / Tranh của anh ấy được mọi người rất đón nhận (yêu thích)."
+  },
+  {
+    "stt": 404,
+    "vocab": "坏",
+    "hanviet": "Hoại",
+    "pinyin": "huài",
+    "meaning": "adj. bad; evil / Tính từ. hỏng; hư; xấu; tồi",
+    "example": "面包很新鲜，没有〜。",
+    "example_meaning": "Bánh mì rất tươi ngon, không bị hỏng."
+  },
+  {
+    "stt": 405,
+    "vocab": "还",
+    "hanviet": "Hoàn",
+    "pinyin": "huán",
+    "meaning": "V. return sth to the owner / Động từ. trả lại (vật cho chủ sở hữu)",
+    "example": "我把书〜给图书馆了。",
+    "example_meaning": "Tôi đã trả sách lại cho thư viện rồi."
+  },
+  {
+    "stt": 406,
+    "vocab": "环境",
+    "hanviet": "Hoàn Cảnh",
+    "pinyin": "huánjìng",
+    "meaning": "n. environment; condition; circumstance / Danh từ. môi trường; hoàn cảnh; điều kiện",
+    "example": "这里的环境很不错，在这里住很舒服。 (这里的〜很不错，在这里住很舒服。)",
+    "example_meaning": "Môi trường ở đây rất tốt, sống ở đây cực kỳ thoải mái."
+  },
+  {
+    "stt": 407,
+    "vocab": "换",
+    "hanviet": "Hoán",
+    "pinyin": "huàn",
+    "meaning": "V. change; V. exchange money / Động từ. thay; đổi; đổi tiền",
+    "example": "你等我一下，我去〜件衣服。 / 我去银行〜点儿钱。",
+    "example_meaning": "Bạn đợi tôi một lát, tôi đi thay bộ quần áo. / Tôi đi ngân hàng đổi ít tiền."
+  },
+  {
+    "stt": 408,
+    "vocab": "黄河",
+    "hanviet": "Hoàng Hà",
+    "pinyin": "Huánghé",
+    "meaning": "n. the Yellow River / Danh từ. sông Hoàng Hà",
+    "example": "〜是中国的第二大河。",
+    "example_meaning": "Sông Hoàng Hà là con sông lớn thứ hai của Trung Quốc."
+  },
+  {
+    "stt": 409,
+    "vocab": "会议",
+    "hanviet": "Hội Nghị",
+    "pinyin": "huìyì",
+    "meaning": "n. meeting / Danh từ. hội nghị; cuộc họp",
+    "example": "我们下午有个〜。",
+    "example_meaning": "Chiều nay chúng tôi có một cuộc họp."
+  },
+  {
+    "stt": 410,
+    "vocab": "或者",
+    "hanviet": "Hoặc Giả",
+    "pinyin": "huòzhě",
+    "meaning": "conj. or / Liên từ. hoặc; hoặc là (dùng trong câu trần thuật)",
+    "example": "你去，〜我去，都可以。",
+    "example_meaning": "Bạn đi, hoặc tôi đi, đều được cả."
+  },
+  {
+    "stt": 411,
+    "vocab": "几乎",
+    "hanviet": "Cơ Hồ",
+    "pinyin": "jīhū",
+    "meaning": "adv. nearly; almost / Phó từ. hầu như; gần như",
+    "example": "我感动得〜要流泪了。",
+    "example_meaning": "Tôi cảm động đến mức suýt chút nữa là rơi lệ."
+  },
+  {
+    "stt": 412,
+    "vocab": "机会",
+    "hanviet": "Cơ Hội",
+    "pinyin": "jīhuì",
+    "meaning": "n. chance; opportunity / Danh từ. cơ hội; thời cơ",
+    "example": "我希望有〜参加比赛。",
+    "example_meaning": "Tôi hy vọng có cơ hội tham gia cuộc thi đấu."
+  },
+  {
+    "stt": 413,
+    "vocab": "极",
+    "hanviet": "Cực",
+    "pinyin": "jí",
+    "meaning": "adv. extremely; exceedingly / Phó từ. cực kỳ; vô cùng",
+    "example": "他对音乐〜感兴趣。 / 今天的节目好看〜了。",
+    "example_meaning": "Anh ấy cực kỳ có hứng thú với âm nhạc. / Chương trình hôm nay hay cực kỳ luôn!"
+  },
+  {
+    "stt": 414,
+    "vocab": "记得",
+    "hanviet": "Ký Đắc",
+    "pinyin": "jìde",
+    "meaning": "V. remember; learn by heart / Động từ. nhớ; ghi nhớ",
+    "example": "我不〜他住在哪里了。",
+    "example_meaning": "Tôi không nhớ anh ấy sống ở đâu nữa rồi."
+  },
+  {
+    "stt": 415,
+    "vocab": "季节",
+    "hanviet": "Quý Tiết",
+    "pinyin": "jìjié",
+    "meaning": "n. season / Danh từ. mùa; quyết tiết",
+    "example": "一年有四个〜。",
+    "example_meaning": "Một năm có bốn mùa."
+  },
+  {
+    "stt": 416,
+    "vocab": "检查",
+    "hanviet": "Kiểm Tra",
+    "pinyin": "jiǎnchá",
+    "meaning": "V. inspect; check; examine / Động từ. kiểm tra; xem xét",
+    "example": "你去 hospital 〜一下身体吧。 (你去医院〜一下身体吧。)",
+    "example_meaning": "Bạn đến bệnh viện kiểm tra sức khỏe một chút đi."
+  },
+  {
+    "stt": 417,
+    "vocab": "简单",
+    "hanviet": "Giản Đơn",
+    "pinyin": "jiǎndān",
+    "meaning": "adj. easy; simple / Tính từ. đơn giản; dễ dàng",
+    "example": "这些题对他来说很〜。",
+    "example_meaning": "Những câu hỏi này đối với anh ấy mà nói rất đơn giản."
+  },
+  {
+    "stt": 418,
+    "vocab": "见面",
+    "hanviet": "Kiến Diện",
+    "pinyin": "jiànmiàn",
+    "meaning": "V. meet / Động từ. gặp mặt; gặp nhau",
+    "example": "上次和他〜， 已经是去年了。",
+    "example_meaning": "Lần trước gặp mặt anh ấy đã là năm ngoái rồi."
+  },
+  {
+    "stt": 419,
+    "vocab": "健康",
+    "hanviet": "Kiện Khang",
+    "pinyin": "jiànkāng",
+    "meaning": "adj. healthy / Tính từ. khỏe mạnh; lành mạnh",
+    "example": "爸爸的身体特别〜。",
+    "example_meaning": "Sức khỏe của bố cực kỳ khỏe mạnh."
+  },
+  {
+    "stt": 420,
+    "vocab": "讲",
+    "hanviet": "Giảng",
+    "pinyin": "jiǎng",
+    "meaning": "V. speak; tell / Động từ. nói; giảng giải; kể chuyện",
+    "example": "李老师的课〜得很有趣。",
+    "example_meaning": "Bài giảng của thầy/cô Lý giảng rất thú vị."
+  },
+  {
+    "stt": 421,
+    "vocab": "降落",
+    "hanviet": "Giáng Lạc",
+    "pinyin": "jiàngluò",
+    "meaning": "V. descend; land / Động từ. hạ cánh; hạ xuống; rơi xuống",
+    "example": "飞机马上就要〜了。",
+    "example_meaning": "Máy bay sắp sửa hạ cánh rồi."
+  },
+  {
+    "stt": 422,
+    "vocab": "角",
+    "hanviet": "Giác",
+    "pinyin": "jiǎo",
+    "meaning": "nm. tenth of one Yuan (money) / Lượng từ. hào (bằng 1/10 tệ)",
+    "example": "桌子上有五〜钱。",
+    "example_meaning": "Trên bàn có năm hào."
+  },
+  {
+    "stt": 423,
+    "vocab": "脚",
+    "hanviet": "Cước",
+    "pinyin": "jiǎo",
+    "meaning": "n. foot / Danh từ. chân; bàn chân",
+    "example": "妹妹〜上穿着漂亮的红皮鞋。",
+    "example_meaning": "Trên chân em gái đang đi đôi giày da màu đỏ rất đẹp."
+  },
+  {
+    "stt": 424,
+    "vocab": "教",
+    "hanviet": "Giáo",
+    "pinyin": "jiāo",
+    "meaning": "V. teach / Động từ. dạy; dạy học",
+    "example": "李老师〜我们数学。",
+    "example_meaning": "Thầy/cô Lý dạy chúng tôi môn Toán."
+  },
+  {
+    "stt": 425,
+    "vocab": "接",
+    "hanviet": "Tiếp",
+    "pinyin": "jiē",
+    "meaning": "V. accept; receive; V. go on / Động từ. nhận; tiếp nhận; đón (ai); tiếp tục",
+    "example": "下午我去机场〜你。 / 他看了看表，躺下〜着睡觉。",
+    "example_meaning": "Chiều nay tôi ra sân bay đón bạn. / Anh ấy nhìn đồng hồ một lát, rồi nằm xuống tiếp tục ngủ."
+  },
+  {
+    "stt": 426,
+    "vocab": "街道",
+    "hanviet": "Nhai Đạo",
+    "pinyin": "jiēdào",
+    "meaning": "n. street / Danh từ. đường phố; phố",
+    "example": "这条〜很长，有四千多米。",
+    "example_meaning": "Con đường này rất dài, có hơn bốn nghìn mét."
+  },
+  {
+    "stt": 427,
+    "vocab": "节目",
+    "hanviet": "Tiết Mục",
+    "pinyin": "jiémù",
+    "meaning": "n. show; performance; program / Danh từ. chương trình; tiết mục",
+    "example": "今天我们一共演出 12 个〜。",
+    "example_meaning": "Hôm nay chúng tôi biểu diễn tổng cộng 12 tiết mục."
+  },
+  {
+    "stt": 428,
+    "vocab": "节日",
+    "hanviet": "Tiết Nhật",
+    "pinyin": "jiérì",
+    "meaning": "n. holiday; festival / Danh từ. ngày lễ; ngày hội; tết",
+    "example": "祝大家〜快乐！",
+    "example_meaning": "Chúc mọi người ngày lễ vui vẻ!"
+  },
+  {
+    "stt": 429,
+    "vocab": "结婚",
+    "hanviet": "Kết Hôn",
+    "pinyin": "jiéhūn",
+    "meaning": "V. get married / Động từ. kết hôn; lập gia đình",
+    "example": "我们〜 10 年了。",
+    "example_meaning": "Chúng tôi kết hôn được 10 năm rồi."
+  },
+  {
+    "stt": 430,
+    "vocab": "结束",
+    "hanviet": "Kết Thúc",
+    "pinyin": "jiéshù",
+    "meaning": "V. stop; finish; end; terminate / Động từ. kết thúc; chấm dứt",
+    "example": "会议马上就要〜了。",
+    "example_meaning": "Cuộc họp sắp sửa kết thúc rồi."
+  },
+  {
+    "stt": 431,
+    "vocab": "解决",
+    "hanviet": "Giải Quyết",
+    "pinyin": "jiějué",
+    "meaning": "V. solve or resolve a problem or an issue / Động từ. giải quyết (một vấn đề hoặc một sự việc)",
+    "example": "这个问题你打算怎么〜？",
+    "example_meaning": "Vấn đề này bạn định giải quyết thế nào?"
+  },
+  {
+    "stt": 432,
+    "vocab": "借",
+    "hanviet": "Tá",
+    "pinyin": "jiè",
+    "meaning": "V. borrow; lend / Động từ. mượn; vay; cho mượn; cho vay",
+    "example": "我从图书馆〜了三本书。",
+    "example_meaning": "Tôi đã mượn ba quyển sách từ thư viện."
+  },
+  {
+    "stt": 433,
+    "vocab": "经常",
+    "hanviet": "Kinh Thường",
+    "pinyin": "jīngcháng",
+    "meaning": "adv. often / Phó từ. thường xuyên; thường",
+    "example": "我〜在学校遇到 he。 (我〜在学校遇到 his / 我〜在学校遇到他。)",
+    "example_meaning": "Tôi thường gặp cậu ấy ở trường."
+  },
+  {
+    "stt": 434,
+    "vocab": "经过",
+    "hanviet": "Kinh Quá",
+    "pinyin": "jīngguò",
+    "meaning": "V. pass through / by; prep. through; under / Động từ. đi qua; đi ngang qua; Giới từ. trải qua; qua; nhờ có",
+    "example": "上下班的时候，我都要〜这条街道。 / 〜你这么一说，我终于明白了。",
+    "example_meaning": "Mỗi khi đi làm hay tan làm, tôi đều phải đi qua con đường này. / Nhờ bạn nói như vậy, cuối cùng tôi đã hiểu ra rồi."
+  },
+  {
+    "stt": 435,
+    "vocab": "经理",
+    "hanviet": "Kinh Lý",
+    "pinyin": "jīnglǐ",
+    "meaning": "n. manager / Danh từ. giám đốc; quản lý",
+    "example": "他是我们公司的〜。",
+    "example_meaning": "Anh ấy là giám đốc của công ty chúng tôi."
+  },
+  {
+    "stt": 436,
+    "vocab": "久",
+    "hanviet": "Cửu",
+    "pinyin": "jiǔ",
+    "meaning": "adj. old; for a long time / Tính từ. lâu; thời gian dài",
+    "example": "这个问题我想了很〜才明白。",
+    "example_meaning": "Câu hỏi này tôi suy nghĩ rất lâu mới hiểu ra."
+  },
+  {
+    "stt": 437,
+    "vocab": "旧",
+    "hanviet": "Cựu",
+    "pinyin": "jiù",
+    "meaning": "adj. old; worn / Tính từ. cũ; cũ kỹ; sờn rách",
+    "example": "这件衣服穿了两年，已经〜了。",
+    "example_meaning": "Chiếc áo này mặc hai năm rồi, đã cũ rồi."
+  },
+  {
+    "stt": 438,
+    "vocab": "句子",
+    "hanviet": "Cú Tử",
+    "pinyin": "jùzi",
+    "meaning": "n. sentence / Danh từ. câu; câu văn",
+    "example": "请用these词语说几个〜。",
+    "example_meaning": "Xin hãy dùng những từ ngữ này nói vài câu."
+  },
+  {
+    "stt": 439,
+    "vocab": "决定",
+    "hanviet": "Quyết Định",
+    "pinyin": "juédìng",
+    "meaning": "V. decide; determine; n. decision; determination; resolution / Động từ. quyết định; Danh từ. quyết định; nghị quyết",
+    "example": "这件事是经理〜的。 / 他已经做出了〜。",
+    "example_meaning": "Việc này là do giám đốc quyết định. / Anh ấy đã đưa ra quyết định rồi."
+  },
+  {
+    "stt": 440,
+    "vocab": "可爱",
+    "hanviet": "Khả Ái",
+    "pinyin": "kě'ài",
+    "meaning": "adj. cute; lovable; likeable / Tính từ. đáng yêu; dễ thương",
+    "example": "你的儿子真〜。",
+    "example_meaning": "Con trai của bạn thật đáng yêu."
+  },
+  {
+    "stt": 441,
+    "vocab": "渴",
+    "hanviet": "Khát",
+    "pinyin": "kě",
+    "meaning": "adj. thirsty / Tính từ. khát; khát nước",
+    "example": "我〜了，想喝点儿水。",
+    "example_meaning": "Tôi khát rồi, muốn uống chút nước."
+  },
+  {
+    "stt": 442,
+    "vocab": "刻",
+    "hanviet": "Khắc",
+    "pinyin": "kè",
+    "meaning": "n. quarter of an hour; 15 minutes / Danh từ. khắc (15 phút)",
+    "example": "现在是二点一〜。",
+    "example_meaning": "Bây giờ là hai giờ một khắc (hai giờ mười lăm phút)."
+  },
+  {
+    "stt": 443,
+    "vocab": "客人",
+    "hanviet": "Khách Nhân",
+    "pinyin": "kèrén",
+    "meaning": "n. guest / Danh từ. khách; khách khứa",
+    "example": "春节的时候，家里会来很多〜。",
+    "example_meaning": "Vào dịp Tết Nguyên Đán, trong nhà sẽ có rất nhiều khách đến chơi."
+  },
+  {
+    "stt": 444,
+    "vocab": "空调",
+    "hanviet": "Không Điều",
+    "pinyin": "kōngtiáo",
+    "meaning": "n. air conditioner / Danh từ. điều hòa nhiệt độ; máy lạnh",
+    "example": "太热了，请把〜打开。",
+    "example_meaning": "Nóng quá, xin vui lòng bật điều hòa lên."
+  },
+  {
+    "stt": 445,
+    "vocab": "口",
+    "hanviet": "Khẩu",
+    "pinyin": "kǒu",
+    "meaning": "nm. used for people and some animals / Lượng từ. miệng; đầu người (dùng cho nhân khẩu gia đình hoặc một số động vật)",
+    "example": "我们家一共三〜人。",
+    "example_meaning": "Nhà chúng tôi có tổng cộng ba người."
+  },
+  {
+    "stt": 446,
+    "vocab": "哭",
+    "hanviet": "Khốc",
+    "pinyin": "kū",
+    "meaning": "V. cry; weep / Động từ. khóc",
+    "example": "孩子又〜了起来。",
+    "example_meaning": "Đứa trẻ lại khóc lên rồi."
+  },
+  {
+    "stt": 447,
+    "vocab": "裤子",
+    "hanviet": "Khố Tử",
+    "pinyin": "kùzi",
+    "meaning": "n. trousers; pants / Danh từ. quần",
+    "example": "这条〜有点儿短。",
+    "example_meaning": "Chiếc quần này hơi ngắn một chút."
+  },
+  {
+    "stt": 448,
+    "vocab": "筷子",
+    "hanviet": "Khoái Tử",
+    "pinyin": "kuàizi",
+    "meaning": "n. chopsticks / Danh từ. đũa; đôi đũa",
+    "example": "我来中国 1 个月了，已经会用〜了。",
+    "example_meaning": "Tôi đến Trung Quốc được một tháng rồi, đã biết dùng đũa rồi."
+  },
+  {
+    "stt": 449,
+    "vocab": "蓝",
+    "hanviet": "Lam",
+    "pinyin": "lán",
+    "meaning": "adj. blue / Tính từ. màu xanh lam; xanh da trời",
+    "example": "这条〜裙子你喜欢吗？",
+    "example_meaning": "Bạn có thích chiếc váy màu xanh lam này không?"
+  },
+  {
+    "stt": 450,
+    "vocab": "老",
+    "hanviet": "Lão",
+    "pinyin": "lǎo",
+    "meaning": "adj. aged; old / Tính từ. già; lớn tuổi; lão",
+    "example": "爷爷六十岁了，但是看起来一点儿 भी 不〜。 (爷爷六防... / 爷爷六十岁了，但是看起来一点儿 spear... / 爷爷六十岁了，但是看起来一点儿 cũng không... / 爷爷六十岁了，但是看起来一点儿也不〜。)",
+    "example_meaning": "Ông nội sáu mươi tuổi rồi, nhưng trông chẳng già chút nào."
+  },
+  {
+    "stt": 451,
+    "vocab": "离开",
+    "hanviet": "Ly Khai",
+    "pinyin": "líkāi",
+    "meaning": "V. leave; to be away from; part from; separate from / Động từ. rời khỏi; rời đi; chia tay; tách rời",
+    "example": "下个月我要〜一段时间，你好好照顾自己。",
+    "example_meaning": "Tháng sau tôi phải rời đi một thời gian, bạn hãy chăm sóc tốt cho bản thân nhé."
+  },
+  {
+    "stt": 452,
+    "vocab": "礼物",
+    "hanviet": "Lễ Vật",
+    "pinyin": "lǐwù",
+    "meaning": "n. present; gift / Danh từ. quà; quà tặng; lễ vật",
+    "example": "过生日的时候，我收到了很多〜。",
+    "example_meaning": "Vào ngày sinh nhật, tôi đã nhận được rất nhiều quà tặng."
+  },
+  {
+    "stt": 453,
+    "vocab": "历史",
+    "hanviet": "Lịch Sử",
+    "pinyin": "lìshǐ",
+    "meaning": "n. history / Danh từ. lịch sử",
+    "example": "这个房子差不多有 300 年的〜了。",
+    "example_meaning": "Ngôi nhà này có lịch sử gần 300 năm rồi."
+  },
+  {
+    "stt": 454,
+    "vocab": "脸",
+    "hanviet": "Liễm",
+    "pinyin": "liǎn",
+    "meaning": "n. face / Danh từ. khuôn mặt; mặt",
+    "example": "女儿的〜圆圆的，很~。",
+    "example_meaning": "Khuôn mặt của con gái tròn xoe, rất đáng yêu."
+  },
+  {
+    "stt": 455,
+    "vocab": "练习",
+    "hanviet": "Luyện Tập",
+    "pinyin": "liànxí",
+    "meaning": "V. practice; n. exercise / Động từ. luyện tập; thực hành; Danh từ. bài tập luyện tập",
+    "example": "学过的东西，要多〜才能记住。 / 同学们，下面我们开始做〜。",
+    "example_meaning": "Những gì đã học cần phải luyện tập nhiều mới ghi nhớ được. / Các em học sinh, sau đây chúng ta bắt đầu làm bài tập nhé."
+  },
+  {
+    "stt": 456,
+    "vocab": "辆",
+    "hanviet": "Lượng",
+    "pinyin": "liàng",
+    "meaning": "nm. used for automobiles / Lượng từ. chiếc; cái (dùng cho xe cộ: ô tô, xe máy, xe đạp)",
+    "example": "这〜车，是我新买的。",
+    "example_meaning": "Chiếc xe này là chiếc xe tôi mới mua."
+  },
+  {
+    "stt": 457,
+    "vocab": "聊天",
+    "hanviet": "Liêu Thiên",
+    "pinyin": "liáotiān",
+    "meaning": "sv. chat / Động từ ly hợp. trò chuyện; tán gẫu; tán chuyện",
+    "example": "我们经常 en 网上〜。 (我们经常在网上〜。)",
+    "example_meaning": "Chúng tôi thường xuyên trò chuyện trên mạng."
+  },
+  {
+    "stt": 458,
+    "vocab": "了解",
+    "hanviet": "Liễu Giải",
+    "pinyin": "liǎojiě",
+    "meaning": "V. know; understand; comprehend / Động từ. tìm hiểu; hiểu rõ; thấu hiểu",
+    "example": "我对她〜得不多。",
+    "example_meaning": "Tôi thấu hiểu về cô ấy không nhiều lắm. / Tôi không biết nhiều về cô ấy."
+  },
+  {
+    "stt": 459,
+    "vocab": "邻居",
+    "hanviet": "Lân Cư",
+    "pinyin": "línjū",
+    "meaning": "n. neighbor / Danh từ. hàng xóm; láng giềng",
+    "example": "我跟〜们的关系非常好。",
+    "example_meaning": "Quan hệ của tôi với những người hàng xóm cực kỳ tốt."
+  },
+  {
+    "stt": 460,
+    "vocab": "留学",
+    "hanviet": "Lưu Học",
+    "pinyin": "liúxué",
+    "meaning": "V. study in a foreign country / Động từ. du học; đi du học",
+    "example": "我哥哥在中国〜。",
+    "example_meaning": "Anh trai tôi đi du học ở Trung Quốc."
+  },
+  {
+    "stt": 461,
+    "vocab": "楼",
+    "hanviet": "Lâu",
+    "pinyin": "lóu",
+    "meaning": "n. building / Danh từ. lầu; tầng; tòa nhà",
+    "example": "我在你家〜下等你。",
+    "example_meaning": "Tôi đợi bạn ở dưới lầu nhà bạn."
+  },
+  {
+    "stt": 462,
+    "vocab": "绿",
+    "hanviet": "Lục",
+    "pinyin": "lǜ",
+    "meaning": "adj. green / Tính từ. xanh lá cây; xanh lục",
+    "example": "春tian (春天) 来了，树 và thảo do ~ l (春tian (春天) 来了，树和草 đều 〜了。 / 春tian (春天) 来了，树和草都〜了。)",
+    "example_meaning": "Mùa xuân đến rồi, cây cối và ngọn cỏ đều xanh tươi rồi."
+  },
+  {
+    "stt": 463,
+    "vocab": "马",
+    "hanviet": "Mã",
+    "pinyin": "mǎ",
+    "meaning": "n. horse / Danh từ. con ngựa",
+    "example": "我们学会骑〜了。",
+    "example_meaning": "Chúng tôi đã học được cách cưỡi ngựa rồi."
+  },
+  {
+    "stt": 464,
+    "vocab": "马上",
+    "hanviet": "Mã Thượng",
+    "pinyin": "mǎshàng",
+    "meaning": "adv. immediately; at once / Phó từ. ngay lập tức; ngay; tức khắc",
+    "example": "我〜就到 school，你再等我几 minutes。 (我〜就到学校，你再等我几分钟。)",
+    "example_meaning": "Tôi sắp đến trường ngay đây, bạn đợi tôi thêm vài phút nhé."
+  },
+  {
+    "stt": 465,
+    "vocab": "满意",
+    "hanviet": "Mãn Ý",
+    "pinyin": "mǎnyì",
+    "meaning": "V. be satisfied / Động từ. hài lòng; ưng ý; thỏa mãn",
+    "example": "经理对他很〜。",
+    "example_meaning": "Giám đốc cực kỳ hài lòng về anh ấy."
+  },
+  {
+    "stt": 466,
+    "vocab": "帽子",
+    "hanviet": "Mạo Tử",
+    "pinyin": "màozi",
+    "meaning": "n. hat; cap / Danh từ. mũ; nón",
+    "example": "这个〜太小了，有大一点儿的吗？",
+    "example_meaning": "Chiếc mũ này nhỏ quá, có chiếc nào to hơn một chút không?"
+  },
+  {
+    "stt": 467,
+    "vocab": "米",
+    "hanviet": "Mễ",
+    "pinyin": "mǐ",
+    "meaning": "nm. meter / Lượng từ. mét",
+    "example": "这张桌子有 do (两) 〜长 (这张桌子有两〜长。)",
+    "example_meaning": "Chiếc bàn này dài hai mét."
+  },
+  {
+    "stt": 468,
+    "vocab": "面包",
+    "hanviet": "Miện Bao",
+    "pinyin": "miànbāo",
+    "meaning": "n. bread / Danh từ. bánh mì",
+    "example": "〜已经卖完了。",
+    "example_meaning": "Bánh mì đã bán hết sạch rồi."
+  },
+  {
+    "stt": 469,
+    "vocab": "面条",
+    "hanviet": "Diện Điều",
+    "pinyin": "miàntiáo",
+    "meaning": "n. noodle / Danh từ. mì; sợi mì",
+    "example": "服务员，我 ya o一碗〜。",
+    "example_meaning": "Phục vụ ơi, tôi muốn một bát mì."
+  },
+  {
+    "stt": 470,
+    "vocab": "明白",
+    "hanviet": "Minh Bạch",
+    "pinyin": "míngbai",
+    "meaning": "V. know; understand; adj. plain; explicit; clear / Động từ. hiểu; hiểu rõ; Tính từ. rõ ràng; minh bạch",
+    "example": "我〜你的意思了。 / 他说得很〜，我懂了。",
+    "example_meaning": "Tôi hiểu ý của bạn rồi. / Anh ấy nói rất rõ ràng, tôi đã hiểu rồi."
+  },
+  {
+    "stt": 471,
+    "vocab": "拿",
+    "hanviet": "Nã",
+    "pinyin": "ná",
+    "meaning": "V. hold; take / Động từ. cầm; nắm; lấy; xách; mang",
+    "example": "你手里〜的是什么？",
+    "example_meaning": "Trong tay bạn đang cầm cái gì thế?"
+  },
+  {
+    "stt": 472,
+    "vocab": "奶奶",
+    "hanviet": "Nãi Nãi",
+    "pinyin": "nǎinai",
+    "meaning": "n. grandmother / Danh từ. bà nội",
+    "example": "我〜住在北京。",
+    "example_meaning": "Bà nội tôi sống ở Bắc Kinh."
+  },
+  {
+    "stt": 473,
+    "vocab": "南",
+    "hanviet": "Nam",
+    "pinyin": "nán",
+    "meaning": "n. south / Danh từ. phía nam; phương nam",
+    "example": "我家在火车站 the 南边 (我家在火车站的〜边。)",
+    "example_meaning": "Nhà tôi ở phía nam ga tàu hỏa."
+  },
+  {
+    "stt": 474,
+    "vocab": "难",
+    "hanviet": "Nan",
+    "pinyin": "nán",
+    "meaning": "adj. difficult; hard / Tính từ. khó; gian nan",
+    "example": "这个题很〜。",
+    "example_meaning": "Câu hỏi này rất khó."
+  },
+  {
+    "stt": 475,
+    "vocab": "难过",
+    "hanviet": "Nan Quá",
+    "pinyin": "nánguò",
+    "meaning": "V. have a hard time / Động từ/Tính từ. buồn; đau lòng; khó chịu; khó khăn",
+    "example": "他要离开了，我很〜。",
+    "example_meaning": "Anh ấy sắp đi rồi, tôi rất buồn."
+  },
+  {
+    "stt": 476,
+    "vocab": "年级",
+    "hanviet": "Niên Cấp",
+    "pinyin": "niánjí",
+    "meaning": "n. grade (in the primary or middle school); year (in college or university) / Danh từ. lớp (ở tiểu học hoặc trung học); năm học, niên khóa (ở đại học)",
+    "example": "我儿子现在上三〜。",
+    "example_meaning": "Con trai tôi hiện đang học lớp ba."
+  },
+  {
+    "stt": 477,
+    "vocab": "年轻",
+    "hanviet": "Niên Khinh",
+    "pinyin": "niánqīng",
+    "meaning": "adj. young / Tính từ. trẻ; trẻ tuổi; trẻ trung",
+    "example": "妈妈 50 岁了，看起来还很〜。",
+    "example_meaning": "Mẹ 50 tuổi rồi, trông vẫn còn rất trẻ."
+  },
+  {
+    "stt": 478,
+    "vocab": "鸟",
+    "hanviet": "Điểu",
+    "pinyin": "niǎo",
+    "meaning": "n. bird / Danh từ. con chim",
+    "example": "树上有很多〜在唱歌。",
+    "example_meaning": "Trên cây có rất nhiều chim đang hót."
+  },
+  {
+    "stt": 479,
+    "vocab": "努力",
+    "hanviet": "Nỗ Lực",
+    "pinyin": "nǔlì",
+    "meaning": "adj. hard-working; diligent / Tính từ/Động từ. nỗ lực; chăm chỉ; cần cù",
+    "example": "学生们学习很〜。",
+    "example_meaning": "Các bạn học sinh học tập rất chăm chỉ."
+  },
+  {
+    "stt": 480,
+    "vocab": "爬山",
+    "hanviet": "Ba Sơn",
+    "pinyin": "páshān",
+    "meaning": "V. climb mountains / Động từ. leo núi",
+    "example": "我们\\\\决定明天去〜。",
+    "example_meaning": "Chúng tôi quyết định ngày mai đi leo núi."
+  },
+  {
+    "stt": 481,
+    "vocab": "盘子",
+    "hanviet": "Bàn Tử",
+    "pinyin": "pánzi",
+    "meaning": "n. tray; plate; dish / Danh từ. cái đĩa; cái khay",
+    "example": "〜里有鱼，请吃吧。",
+    "example_meaning": "Trong đĩa có cá, xin mời ăn."
+  },
+  {
+    "stt": 482,
+    "vocab": "胖",
+    "hanviet": "Bàn",
+    "pinyin": "pàng",
+    "meaning": "adj. fat; V. get fat / Tính từ. béo; mập; Động từ. tăng cân, béo lên",
+    "example": "熊猫很〜，很可爱。 / 这个 month (月) 我〜了五斤 do (熊猫很〜，很可爱。 / 这个 month 我〜了五斤多。)",
+    "example_meaning": "Gấu trúc rất béo, rất dễ thương. / Tháng này tôi đã mập lên hơn năm cân."
+  },
+  {
+    "stt": 483,
+    "vocab": "皮鞋",
+    "hanviet": "Bì Hài",
+    "pinyin": "píxié",
+    "meaning": "n. leather shoes / Danh từ. giày da",
+    "example": "他穿着一双 khố mầu hắc (他穿着一双 black 鞋的〜。 / 他穿着一双黑色的〜。)",
+    "example_meaning": "Anh ấy đang đi một đôi giày da màu đen."
+  },
+  {
+    "stt": 484,
+    "vocab": "啤酒",
+    "hanviet": "Tì Tửu",
+    "pinyin": "píjiǔ",
+    "meaning": "n. beer / Danh từ. bia",
+    "example": "爸爸爱喝〜。",
+    "example_meaning": "Bố thích uống bia."
+  },
+  {
+    "stt": 485,
+    "vocab": "普通话",
+    "hanviet": "Phổ Thông Thoại",
+    "pinyin": "pǔtōnghuà",
+    "meaning": "n. Mandarin Chinese / Danh từ. tiếng phổ thông Trung Quốc",
+    "example": "你的〜说得很好。",
+    "example_meaning": "Tiếng phổ thông của bạn nói rất tốt."
+  },
+  {
+    "stt": 486,
+    "vocab": "其实",
+    "hanviet": "Kỳ Thật",
+    "pinyin": "qíshí",
+    "meaning": "adv. actually; in fact; as a matter of fact / Phó từ. thực ra; thực chất; kỳ thực",
+    "example": "我〜不太 l (我〜不太了解他。)",
+    "example_meaning": "Thực ra tôi không hiểu rõ về anh ấy lắm."
+  },
+  {
+    "stt": 487,
+    "vocab": "其他",
+    "hanviet": "Kỳ Tha",
+    "pinyin": "qítā",
+    "meaning": "pron. other; else / Đại từ. cái khác; người khác; khác",
+    "example": "只有小明在教室里，〜人都 help nhà l (只有小明在教室里，〜人都回家了。)",
+    "example_meaning": "Chỉ có Tiểu Minh ở trong phòng học, những người khác đều về nhà rồi."
+  },
+  {
+    "stt": 488,
+    "vocab": "奇怪",
+    "hanviet": "Kỳ Quái",
+    "pinyin": "qíguài",
+    "meaning": "adj. odd; queer; strange; unusual; peculiar / Tính từ. kỳ lạ; quái lạ; kỳ quặc",
+    "example": "我觉得这个问题很〜。",
+    "example_meaning": "Tôi cảm thấy câu hỏi này rất kỳ lạ."
+  },
+  {
+    "stt": 489,
+    "vocab": "骑",
+    "hanviet": "Kị / Kỵ",
+    "pinyin": "qí",
+    "meaning": "V. ride (an animal or bicycle); sit on the back of / Động từ. cưỡi (ngựa, động vật); đi (xe đạp, xe máy)",
+    "example": "今天我〜 bicycle 去学校。 (今天我〜自行车去学校。)",
+    "example_meaning": "Hôm nay tôi đi xe đạp đến trường."
+  },
+  {
+    "stt": 490,
+    "vocab": "起飞",
+    "hanviet": "Khởi Phi",
+    "pinyin": "qǐfēi",
+    "meaning": "V. (of aircraft) take off; lift off; launch / Động từ. cất cánh",
+    "example": "各位乘客，飞机马上就要〜了。",
+    "example_meaning": "Kính thưa quý hành khách, máy bay sắp sửa cất cánh rồi."
+  },
+  {
+    "stt": 491,
+    "vocab": "清楚",
+    "hanviet": "Thanh Sở",
+    "pinyin": "qīngchu",
+    "meaning": "adj. clear; distinct; V. be clear about; understand / Tính từ. rõ ràng; minh bạch; Động từ. hiểu rõ; làm rõ",
+    "example": "他把这件事儿说得很〜了。 / 你〜这句话的意思吗？",
+    "example_meaning": "Anh ấy đã nói rất rõ ràng việc này rồi. / Bạn có hiểu rõ ý nghĩa của câu nói này không?"
+  },
+  {
+    "stt": 492,
+    "vocab": "秋",
+    "hanviet": "Thu",
+    "pinyin": "qiū",
+    "meaning": "n. fall; autumn / Danh từ. mùa thu",
+    "example": "〜天最舒服，不冷也不热。",
+    "example_meaning": "Mùa thu là dễ chịu nhất, không lạnh cũng không nóng."
+  },
+  {
+    "stt": 493,
+    "vocab": "裙子",
+    "hanviet": "Quần Tử",
+    "pinyin": "qúnzi",
+    "meaning": "n. skirt / Danh từ. váy",
+    "example": "姐姐穿着漂亮的〜。",
+    "example_meaning": "Chị gái mặc một chiếc váy rất đẹp."
+  },
+  {
+    "stt": 494,
+    "vocab": "然后",
+    "hanviet": "Nhiên Hậu",
+    "pinyin": "ránhòu",
+    "meaning": "conj. then; after that; afterwards / Liên từ. sau đó; sau đó mới",
+    "example": "我要先 write wan (写完) 作业，〜再看电视。 (我要先写完作业，〜再看电视。)",
+    "example_meaning": "Tôi phải viết xong bài tập trước, sau đó mới xem tivi."
+  },
+  {
+    "stt": 495,
+    "vocab": "热情",
+    "hanviet": "Nhiệt Tình",
+    "pinyin": "rèqíng",
+    "meaning": "adj. fervent; warm / Tính từ/Danh từ. nhiệt tình; hiếu khách; lòng nhiệt huyết",
+    "example": "我们〜地欢迎 g (我们〜地欢迎客人。)",
+    "example_meaning": "Chúng tôi nhiệt tình chào đón khách đến chơi."
+  },
+  {
+    "stt": 496,
+    "vocab": "认为",
+    "hanviet": "Nhận Vi / Nhận Vị",
+    "pinyin": "rènwéi",
+    "meaning": "V. think; consider / Động từ. cho rằng; nghĩ rằng",
+    "example": "你〜他会来吗？",
+    "example_meaning": "Bạn có nghĩ rằng anh ấy sẽ đến không?"
+  },
+  {
+    "stt": 497,
+    "vocab": "认真",
+    "hanviet": "Nhận Chân",
+    "pinyin": "rènzhēn",
+    "meaning": "adj. conscientious; earnest; serious / Tính từ. nghiêm túc; chăm chỉ; cẩn thận",
+    "example": "这个同学学习很〜，很努力。",
+    "example_meaning": "Người bạn học này học tập rất nghiêm túc, rất nỗ lực."
+  },
+  {
+    "stt": 498,
+    "vocab": "容易",
+    "hanviet": "Dung Dịch",
+    "pinyin": "róngyì",
+    "meaning": "adj. easy; ready / Tính từ. dễ dàng; dễ",
+    "example": "这个问题很〜回答。",
+    "example_meaning": "Câu hỏi này rất dễ trả lời."
+  },
+  {
+    "stt": 499,
+    "vocab": "如果",
+    "hanviet": "Như Quả",
+    "pinyin": "rúguǒ",
+    "meaning": "conj. if; in case; in the event of; supposing that / Liên từ. nếu; nếu như",
+    "example": "〜你去，我就和你一起去。",
+    "example_meaning": "Nếu bạn đi thì tôi sẽ đi cùng bạn."
+  },
+  {
+    "stt": 500,
+    "vocab": "伞",
+    "hanviet": "Tản",
+    "pinyin": "sǎn",
+    "meaning": "n. umbrella / Danh từ. cái ô; cái dù",
+    "example": "下雨了，别忘了带〜。",
+    "example_meaning": "Trời mưa rồi, đừng quên mang ô nhé."
+  },
+  {
+    "stt": 501,
+    "vocab": "上网",
+    "hanviet": "Thượng Võng",
+    "pinyin": "shàngwǎng",
+    "meaning": "V. get online / Động từ. lên mạng; truy cập internet",
+    "example": "我〜去看新闻。",
+    "example_meaning": "Tôi lên mạng để đọc tin tức."
+  },
+  {
+    "stt": 502,
+    "vocab": "生气",
+    "hanviet": "Sinh Khí",
+    "pinyin": "shēngqì",
+    "meaning": "V. take offence; be/get angry; be offended / Động từ. tức giận; giận dỗi; sinh khí",
+    "example": "请别〜，是我错了，对不起。",
+    "example_meaning": "Xin đừng giận, là tôi sai rồi, xin lỗi."
+  },
+  {
+    "stt": 503,
+    "vocab": "声音",
+    "hanviet": "Thanh Âm",
+    "pinyin": "shēngyīn",
+    "meaning": "n. sound; voice / Danh từ. âm thanh; tiếng; giọng nói",
+    "example": "你听，这是什么〜？",
+    "example_meaning": "Bạn nghe xem, đây là tiếng gì thế?"
+  },
+  {
+    "stt": 504,
+    "vocab": "世界",
+    "hanviet": "Thế Giới",
+    "pinyin": "shìjiè",
+    "meaning": "n. the world; the earth; the globe; the universe / Danh từ. thế giới; quả địa cầu; vũ trụ",
+    "example": "〜上有很多国家。",
+    "example_meaning": "Trên thế giới có rất nhiều quốc gia."
+  },
+  {
+    "stt": 505,
+    "vocab": "试",
+    "hanviet": "Thí",
+    "pinyin": "shì",
+    "meaning": "V. try / Động từ. thử; thử nghiệm",
+    "example": "我想〜一下那件红色的。",
+    "example_meaning": "Tôi muốn thử một chút chiếc áo màu đỏ kia."
+  },
+  {
+    "stt": 506,
+    "vocab": "瘦",
+    "hanviet": "Sấu",
+    "pinyin": "shòu",
+    "meaning": "adj. thin; emaciated; lean; V. become thin / Tính từ. gầy; Động từ. gầy đi, giảm cân",
+    "example": "姐姐现在很〜，只有 45 公斤。 / 这个 month (月) 我〜了三斤。 (姐姐现在hắc〜，只有 45 公斤。 / 这个 month 我〜了三斤。)",
+    "example_meaning": "Chân chị gái hiện nay rất gầy, chỉ có 45 kg. / Tháng này tôi đã gầy đi ba cân."
+  },
+  {
+    "stt": 507,
+    "vocab": "叔叔",
+    "hanviet": "Thúc Thúc",
+    "pinyin": "shūshu",
+    "meaning": "n. uncle (referring to a man younger than one’s father) / Danh từ. chú (người đàn ông trẻ tuổi hơn bố)",
+    "example": "〜，你喜欢这本书吗？",
+    "example_meaning": "Chút nữa, chú có thích quyển sách này không? / Chú ơi, chú có thích quyển sách này không?"
+  },
+  {
+    "stt": 508,
+    "vocab": "舒服",
+    "hanviet": "Thư Phục",
+    "pinyin": "shūfu",
+    "meaning": "adj. pleased; comfortable / Tính từ. thoải mái; dễ chịu",
+    "example": "坐在这里，真〜。",
+    "example_meaning": "Ngồi ở đây thật thoải mái."
+  },
+  {
+    "stt": 509,
+    "vocab": "树",
+    "hanviet": "Thụ",
+    "pinyin": "shù",
+    "meaning": "n. tree / Danh từ. cây",
+    "example": "我们 school (学校) 里有很多〜。 (我们 school 里有很多〜。)",
+    "example_meaning": "Trong trường học của chúng tôi có rất nhiều cây."
+  },
+  {
+    "stt": 510,
+    "vocab": "数学",
+    "hanviet": "Số Học",
+    "pinyin": "shùxué",
+    "meaning": "n. mathematics / Danh từ. môn toán; toán học",
+    "example": "我的〜成绩很好。",
+    "example_meaning": "Thành tích môn Toán của tôi rất tốt."
+  },
+  {
+    "stt": 511,
+    "vocab": "刷牙",
+    "hanviet": "Xoát Nha",
+    "pinyin": "shuāyá",
+    "meaning": "V. clean one’s teeth; brush one’s teeth / Động từ. đánh răng; chải răng",
+    "example": "睡觉前要〜。",
+    "example_meaning": "Cần phải đánh răng trước khi đi ngủ."
+  },
+  {
+    "stt": 512,
+    "vocab": "双",
+    "hanviet": "Song",
+    "pinyin": "shuāng",
+    "meaning": "nm. pair; couple / Lượng từ. đôi; cặp",
+    "example": "我 hôm nay (今天) 想去 buy〜鞋。 (我 hôm nay 想去买〜鞋。)",
+    "example_meaning": "Hôm nay tôi muốn đi mua một đôi giày."
+  },
+  {
+    "stt": 513,
+    "vocab": "水平",
+    "hanviet": "Thủy Bình",
+    "pinyin": "shuǐpíng",
+    "meaning": "n. standard; level (of skill, ability and knowledge, etc.) / Danh từ. trình độ; mức độ (kỹ năng, năng lực, kiến thức...)",
+    "example": "他的汉语〜很高。",
+    "example_meaning": "Trình độ tiếng Trung của anh ấy rất cao."
+  },
+  {
+    "stt": 514,
+    "vocab": "司机",
+    "hanviet": "Ty Cơ",
+    "pinyin": "sījī",
+    "meaning": "n. driver / Danh từ. tài xế; người lái xe",
+    "example": "这位〜开出租车 5 年多了。",
+    "example_meaning": "Người tài xế này đã lái xe taxi được hơn 5 năm rồi."
+  },
+  {
+    "stt": 515,
+    "vocab": "太阳",
+    "hanviet": "Thái Dương",
+    "pinyin": "tàiyáng",
+    "meaning": "n. the Sun / Danh từ. mặt trời",
+    "example": "你看，〜出来了。",
+    "example_meaning": "Bạn xem, mặt trời lên rồi kìa."
+  },
+  {
+    "stt": 516,
+    "vocab": "特别",
+    "hanviet": "Đặc Biệt",
+    "pinyin": "tèbié",
+    "meaning": "adv. very; exceptionally; particularly; specially / Phó từ/Tính từ. đặc biệt; vô cùng; cực kỳ",
+    "example": "我〜想跟你一起去。",
+    "example_meaning": "Tôi đặc biệt muốn đi cùng bạn."
+  },
+  {
+    "stt": 517,
+    "vocab": "疼",
+    "hanviet": "Đông",
+    "pinyin": "téng",
+    "meaning": "adj. ache; hurt / Tính từ. đau; đau đớn",
+    "example": "我的腿有点儿〜。",
+    "example_meaning": "Chân của tôi hơi đau."
+  },
+  {
+    "stt": 518,
+    "vocab": "提高",
+    "hanviet": "Đề Cao",
+    "pinyin": "tígāo",
+    "meaning": "V. lift; raise; heighten; enhance; increase; improve; advance; n. development; increase / Động từ. nâng cao; cải thiện; tăng cường; Danh từ. sự cải thiện; nâng cao",
+    "example": "你数学成绩〜了不少。 / 人们的生活水平有了很大的〜。",
+    "example_meaning": "Thành tích môn Toán của bạn đã nâng cao không ít. / Mức sống của người dân đã có sự nâng cao rất lớn."
+  },
+  {
+    "stt": 519,
+    "vocab": "体育",
+    "hanviet": "Thể Dục",
+    "pinyin": "tǐyù",
+    "meaning": "n. sports; sports activities / Danh từ. thể dục; thể thao",
+    "example": "我很喜欢〜运动。",
+    "example_meaning": "Tôi rất thích hoạt động thể dục thể thao."
+  },
+  {
+    "stt": 520,
+    "vocab": "甜",
+    "hanviet": "Điềm",
+    "pinyin": "tián",
+    "meaning": "adj. sweet / Tính từ. ngọt; ngọt ngào",
+    "example": "这个西瓜真〜啊！",
+    "example_meaning": "Quả dưa hấu này thật ngọt quá!"
+  },
+  {
+    "stt": 521,
+    "vocab": "条",
+    "hanviet": "Điều",
+    "pinyin": "tiáo",
+    "meaning": "nm. used for long and slender things / Lượng từ. con, chiếc, sợi (dùng cho các vật dài và mảnh như quần, sông, đường, cá...)",
+    "example": "这〜裤子有点儿长。",
+    "example_meaning": "Chiếc quần này hơi dài một chút."
+  },
+  {
+    "stt": 522,
+    "vocab": "同事",
+    "hanviet": "Đồng Sự",
+    "pinyin": "tóngshì",
+    "meaning": "n. colleague / Danh từ. đồng nghiệp",
+    "example": "这是我们的新〜，李华。",
+    "example_meaning": "Đây là đồng nghiệp mới của chúng tôi, Lý Hoa."
+  },
+  {
+    "stt": 523,
+    "vocab": "同意",
+    "hanviet": "Đồng Ý",
+    "pinyin": "tóngyì",
+    "meaning": "V. agree; approve; assent to; consent to; accede to / Động từ. đồng ý; tán thành; chấp thuận",
+    "example": "我不太〜 his idea。 (我不太〜 他的想法。)",
+    "example_meaning": "Tôi không tán thành suy nghĩ của anh ấy lắm."
+  },
+  {
+    "stt": 524,
+    "vocab": "头发",
+    "hanviet": "Đầu Phát",
+    "pinyin": "tóufa",
+    "meaning": "n. hair / Danh từ. tóc",
+    "example": "妈妈的〜又黑又亮。",
+    "example_meaning": "Tóc của mẹ vừa đen vừa bóng mượt."
+  },
+  {
+    "stt": 525,
+    "vocab": "突然",
+    "hanviet": "Đột Nhiên",
+    "pinyin": "tūrán",
+    "meaning": "adj. sudden; abrupt; unexpected; adv. suddenly; abruptly; unexpectedly / Tính từ. đột nhiên; đường đột; Phó từ. bỗng nhiên; thình lình",
+    "example": "他〜站了起来。 / 小狗〜跑了出来。",
+    "example_meaning": "Anh ấy đột nhiên đứng bật dậy. / Chú chó nhỏ bỗng nhiên chạy vọt ra."
+  },
+  {
+    "stt": 526,
+    "vocab": "图书馆",
+    "hanviet": "Đồ Thư Quán",
+    "pinyin": "túshūguǎn",
+    "meaning": "n. library / Danh từ. thư viện",
+    "example": "我从〜借来了两本书。",
+    "example_meaning": "Tôi đã mượn hai quyển sách từ thư viện."
+  },
+  {
+    "stt": 527,
+    "vocab": "腿",
+    "hanviet": "Thối",
+    "pinyin": "tuǐ",
+    "meaning": "n. leg / Danh từ. chân; bắp chân; đùi",
+    "example": "你的〜还疼吗？",
+    "example_meaning": "Chân của bạn còn đau không?"
+  },
+  {
+    "stt": 528,
+    "vocab": "完成",
+    "hanviet": "Hoàn Thành",
+    "pinyin": "wánchéng",
+    "meaning": "V. accomplish; complete; finish; achieve; fulfill / Động từ. hoàn thành; hoàn tất",
+    "example": "这件事，在周末前必须〜。",
+    "example_meaning": "Việc này phải hoàn thành trước cuối tuần."
+  },
+  {
+    "stt": 529,
+    "vocab": "碗",
+    "hanviet": "Oản",
+    "pinyin": "wǎn",
+    "meaning": "n. bowl; nm. a bowl of / Danh từ. cái bát; cái chén; Lượng từ. bát, chén (đầy)",
+    "example": "把米饭放在这个〜里吧。 / 我吃一〜就可以了。",
+    "example_meaning": "Hãy để cơm vào chiếc bát này nhé. / Tôi ăn một bát là được rồi."
+  },
+  {
+    "stt": 530,
+    "vocab": "万",
+    "hanviet": "Vạn",
+    "pinyin": "wàn",
+    "meaning": "num. ten thousand / Số từ. mười nghìn; vạn (10.000)",
+    "example": "我们学校有一〜名学生。",
+    "example_meaning": "Trường học của chúng tôi có mười nghìn học sinh."
+  },
+  {
+    "stt": 531,
+    "vocab": "忘记",
+    "hanviet": "Vong Ký",
+    "pinyin": "wàngjì",
+    "meaning": "V. forget; erase; drop (or fade, slip) from memory; go out of one's mind / Động từ. quên; quên mất",
+    "example": "我〜今天是他的生日了。",
+    "example_meaning": "Tôi quên mất hôm nay là sinh nhật của anh ấy."
+  },
+  {
+    "stt": 532,
+    "vocab": "为",
+    "hanviet": "Vi / Vị",
+    "pinyin": "wèi",
+    "meaning": "prep. for / Giới từ. vì; cho (ai đó)",
+    "example": "这些菜 đều 是 (都市/都是) 〜你准备的。 (这些菜 đều 是 (都是) 〜你准备的。 / 这些菜都是〜你准备 của。)",
+    "example_meaning": "Những món ăn này đều là chuẩn bị vì bạn."
+  },
+  {
+    "stt": 533,
+    "vocab": "为了",
+    "hanviet": "Vì Liễu / Vị Liễu",
+    "pinyin": "wèile",
+    "meaning": "prep. for / Giới từ. để; vì; để cho",
+    "example": "〜身体健康，我每天都去运动。",
+    "example_meaning": "Vì sức khỏe, mỗi ngày tôi đều đi vận động."
+  },
+  {
+    "stt": 534,
+    "vocab": "位",
+    "hanviet": "Vị",
+    "pinyin": "wèi",
+    "meaning": "nm. used for people / Lượng từ. vị, người (dùng cho người một cách lịch sự)",
+    "example": "他真是一〜好老师。",
+    "example_meaning": "Thầy ấy thực sự là một người thầy tốt."
+  },
+  {
+    "stt": 535,
+    "vocab": "文化",
+    "hanviet": "Văn Hóa",
+    "pinyin": "wénhuà",
+    "meaning": "n. culture; civilization / Danh từ. văn hóa; nền văn minh",
+    "example": "我对中国〜很感兴趣。",
+    "example_meaning": "Tôi rất có hứng thú với văn hóa Trung Quốc."
+  },
+  {
+    "stt": 536,
+    "vocab": "西",
+    "hanviet": "Tây",
+    "pinyin": "xī",
+    "meaning": "n. west / Danh từ chỉ phương hướng. phía tây; đằng tây",
+    "example": "火车站在〜边，你走错了。",
+    "example_meaning": "Ga tàu hỏa ở phía tây, bạn đi sai hướng rồi."
+  },
+  {
+    "stt": 537,
+    "vocab": "习惯",
+    "hanviet": "Tập Quán",
+    "pinyin": "xíguàn",
+    "meaning": "V. be accustomed to; be/get used to; n. habit; custom; usual practice / Động từ. quen với; Danh từ. thói quen; tập quán",
+    "example": "他已经〜 l một mình sinh sống。 / 饭前洗手是好〜。",
+    "example_meaning": "Anh ấy đã quen với cuộc sống một mình rồi. / Rửa tay trước khi ăn là thói quen tốt."
+  },
+  {
+    "stt": 538,
+    "vocab": "洗手间",
+    "hanviet": "Tẩy Thủ Gian",
+    "pinyin": "xǐshǒujiān",
+    "meaning": "n. toilet; washroom; bathroom / Danh từ. nhà vệ sinh; phòng vệ sinh; phòng tắm",
+    "example": "我去一下〜。",
+    "example_meaning": "Tôi đi nhà vệ sinh một lát."
+  },
+  {
+    "stt": 539,
+    "vocab": "洗澡",
+    "hanviet": "Tẩy Táo",
+    "pinyin": "xǐzǎo",
+    "meaning": "V. take a bath; bathe; take a shower / Động từ. tắm; tắm rửa",
+    "example": "太热了，我先去〜。",
+    "example_meaning": "Nóng quá, tôi đi tắm trước đây."
+  },
+  {
+    "stt": 540,
+    "vocab": "夏",
+    "hanviet": "Hạ",
+    "pinyin": "xià",
+    "meaning": "n. summer / Danh từ. mùa hè",
+    "example": "今年〜天太热了。",
+    "example_meaning": "Mùa hè năm nay nóng quá."
+  },
+  {
+    "stt": 541,
+    "vocab": "先",
+    "hanviet": "Tiên",
+    "pinyin": "xiān",
+    "meaning": "adv. first / Phó từ. trước; đầu tiên",
+    "example": "你〜去，我 một cái 小时后再去。 (nǐ ~ qù, wǒ yīgè xiǎoshí hòu zài qù.) (你〜去，我 một cái (一个) 小时后再去。 / 你〜去，我一个小时后再去。)",
+    "example_meaning": "Bạn đi trước đi, một tiếng sau tôi mới đi."
+  },
+  {
+    "stt": 542,
+    "vocab": "相信",
+    "hanviet": "Tương Tín",
+    "pinyin": "xiāngxìn",
+    "meaning": "V. believe in; be convinced of; have faith in; place reliance on; put one's trust in / Động từ. tin tưởng; tin; hoàn toàn tin tưởng",
+    "example": "我完全〜 comfort... 我完全〜你说的话。",
+    "example_meaning": "Tôi hoàn toàn tin tưởng những lời bạn nói."
+  },
+  {
+    "stt": 543,
+    "vocab": "香蕉",
+    "hanviet": "Hương Tiêu",
+    "pinyin": "xiāngjiāo",
+    "meaning": "n. banana / Danh từ. quả chuối",
+    "example": "你想吃〜吗？",
+    "example_meaning": "Bạn có muốn ăn chuối không?"
+  },
+  {
+    "stt": 544,
+    "vocab": "向",
+    "hanviet": "Hướng",
+    "pinyin": "xiàng",
+    "meaning": "prep. to; towards / Giới từ. hướng về; về phía; hướng",
+    "example": "〜东走，就可以看到那个学校了。",
+    "example_meaning": "Đi về phía đông là có thể nhìn thấy ngôi trường đó rồi."
+  },
+  {
+    "stt": 545,
+    "vocab": "像",
+    "hanviet": "Tượng",
+    "pinyin": "xiàng",
+    "meaning": "V. look alike; prep. for example / Động từ. giống; Giới từ. như; ví dụ như",
+    "example": "他长得〜他爸爸。 / 〜校长这样的人，到哪里 đều (都) 很受欢迎。 (他长得〜他爸爸。 / 〜校长这样的人，到哪里都很受欢迎。)",
+    "example_meaning": "Cậu ấy trông rất giống bố. / Những người như Hiệu trưởng, đi đến đâu cũng đều rất được chào đón."
+  },
+  {
+    "stt": 546,
+    "vocab": "小心",
+    "hanviet": "Tiểu Tâm",
+    "pinyin": "xiǎoxīn",
+    "meaning": "V. take care; look out; adj. careful / Động từ. cẩn thận; coi chừng; Tính từ. cẩn thận; thận trọng",
+    "example": "请〜，路上有很多水。 / 我很〜地抱起了小猫。",
+    "example_meaning": "Xin vui lòng cẩn thận, trên đường có rất nhiều nước. / Tôi đã bế chú mèo con lên một cách rất cẩn thận."
+  },
+  {
+    "stt": 547,
+    "vocab": "校长",
+    "hanviet": "Hiệu Trưởng",
+    "pinyin": "xiǎozhǎng",
+    "meaning": "n. (of a secondary or elementary school) principal; headmaster; (of a university or college) president; chancellor / Danh từ. hiệu trưởng",
+    "example": "〜已经同意了我们的计划。",
+    "example_meaning": "Hiệu trưởng đã đồng ý với kế hoạch của chúng tôi rồi."
+  },
+  {
+    "stt": 548,
+    "vocab": "新闻",
+    "hanviet": "Tân Văn",
+    "pinyin": "xīnwén",
+    "meaning": "n. news / Danh từ. tin tức; thời sự",
+    "example": "我每天晚上七点都看〜。",
+    "example_meaning": "Mỗi tối lúc bảy giờ tôi đều xem thời sự (tin tức)."
+  },
+  {
+    "stt": 549,
+    "vocab": "新鲜",
+    "hanviet": "Tân Tiên",
+    "pinyin": "xīnxiān",
+    "meaning": "adj. fresh / Tính từ. tươi; tươi ngon; trong lành; tươi mới",
+    "example": "这些都是〜水果。",
+    "example_meaning": "Đây đều là trái cây tươi ngon."
+  },
+  {
+    "stt": 550,
+    "vocab": "信用卡",
+    "hanviet": "Tín Dụng Tạp",
+    "pinyin": "xìnyòngkǎ",
+    "meaning": "n. credit card / Danh từ. thẻ tín dụng",
+    "example": "我想去银行办一张〜。",
+    "example_meaning": "Tôi muốn đến ngân hàng để làm một chiếc thẻ tín dụng."
+  },
+  {
+    "stt": 551,
+    "vocab": "行理箱",
+    "hanviet": "Hành Lý Sương",
+    "pinyin": "xínglixiāng",
+    "meaning": "n. trunk; baggage / Danh từ. vali; hòm hành lý; vali hành lý",
+    "example": "请把〜打开。",
+    "example_meaning": "Xin hãy mở vali ra."
+  },
+  {
+    "stt": 552,
+    "vocab": "熊猫",
+    "hanviet": "Hùng Miêu",
+    "pinyin": "xióngmāo",
+    "meaning": "n. panda / Danh từ. gấu trúc",
+    "example": "我特别喜欢到动物园去看大〜。",
+    "example_meaning": "Tôi đặc biệt thích đến sở thú để ngắm gấu trúc lớn."
+  },
+  {
+    "stt": 553,
+    "vocab": "需要",
+    "hanviet": "Nhu Yếu",
+    "pinyin": "xūyào",
+    "meaning": "V. need; claim; demand; want / Động từ/Danh từ. cần; nhu cầu; đòi hỏi",
+    "example": "我们〜一些帮助。",
+    "example_meaning": "Chúng tôi cần một số sự giúp đỡ."
+  },
+  {
+    "stt": 554,
+    "vocab": "选择",
+    "hanviet": "Tuyển Trạch",
+    "pinyin": "xuǎnzé",
+    "meaning": "V. choose; select; pick; n. a choice; selection; option / Động từ. lựa chọn; chọn; Danh từ. sự lựa chọn; phương án chọn",
+    "example": "今年夏天你〜去哪儿旅游？ / Chúng tôi do (需要) 自己 do (做出) 〜。 (今年夏天你〜去哪儿旅游？ / 我们需要自己做出〜。)",
+    "example_meaning": "Mùa hè năm nay bạn lựa chọn đi du lịch ở đâu? / Chúng ta cần tự mình đưa ra sự lựa chọn."
+  },
+  {
+    "stt": 555,
+    "vocab": "要求",
+    "hanviet": "Yêu Cầu",
+    "pinyin": "yāoqiú",
+    "meaning": "V. ask; request; demand; n. request; demand; need / Động từ. yêu cầu; đòi hỏi; Danh từ. yêu cầu; đòi hỏi; nhu cầu",
+    "example": "老师〜我们把these (这些) 题 làm xong (老师〜我们把these题做完。 / 这是爸爸对我的〜。)",
+    "example_meaning": "Thầy/cô giáo yêu cầu chúng tôi hoàn thành những bài tập này. / Đây là yêu cầu của bố đối với tôi."
+  },
+  {
+    "stt": 556,
+    "vocab": "爷爷",
+    "hanviet": "Gia Gia",
+    "pinyin": "yéye",
+    "meaning": "n. grandfather, also used as a title of respect for an old man / Danh từ. ông nội; (từ dùng để xưng hô lịch sự, kính trọng đối với cụ già)",
+    "example": "〜，请您坐这儿吧。",
+    "example_meaning": "Ông ơi, xin mời ông ngồi ở đây ạ."
+  },
+  {
+    "stt": 557,
+    "vocab": "一定",
+    "hanviet": "Nhất Định",
+    "pinyin": "yídìng",
+    "meaning": "adv. surely; certainly; necessarily / Phó từ. nhất định; chắc chắn; tất yếu",
+    "example": "明天的会议，请大家〜要参加。",
+    "example_meaning": "Cuộc họp ngày mai, xin mọi người nhất định phải tham gia."
+  },
+  {
+    "stt": 558,
+    "vocab": "一共",
+    "hanviet": "Nhất Cộng",
+    "pinyin": "yígòng",
+    "meaning": "adv. altogether; in all; all told / Phó từ. tổng cộng; tất cả; thảy",
+    "example": "我们班〜有 20 名 student。 (我们班〜有 20 名学生。)",
+    "example_meaning": "Lớp chúng tôi có tổng cộng 20 học sinh."
+  },
+  {
+    "stt": 559,
+    "vocab": "一会儿",
+    "hanviet": "Nhất Hội Nhi",
+    "pinyin": "yíhuìr",
+    "meaning": "a moment / Một lát; một chốc; một lát nữa",
+    "example": "我看〜电视就睡觉。",
+    "example_meaning": "Tôi xem tivi một lát rồi đi ngủ."
+  },
+  {
+    "stt": 560,
+    "vocab": "一样",
+    "hanviet": "Nhất Dạng",
+    "pinyin": "yíyàng",
+    "meaning": "adj. the same / Tính từ. giống nhau; như nhau; giống như",
+    "example": "他跟爸爸长得〜。",
+    "example_meaning": "Anh ấy trông giống hệt bố."
+  },
+  {
+    "stt": 561,
+    "vocab": "一般",
+    "hanviet": "Nhất Ban",
+    "pinyin": "yìbān",
+    "meaning": "adv. usually; generally; habitually; ordinarily / Phó từ. thông thường; nói chung; thường",
+    "example": "我〜 7 点钟起床。",
+    "example_meaning": "Tôi thường thức dậy lúc 7 giờ."
+  },
+  {
+    "stt": 562,
+    "vocab": "一边",
+    "hanviet": "Nhất Biên",
+    "pinyin": "yìbiān",
+    "meaning": "adv. while; as; at the same time; simultaneously / Phó từ. vừa... vừa...; một bên (biểu thị hai hành động xảy ra đồng thời)",
+    "example": "他喜欢〜看书，〜听音乐。",
+    "example_meaning": "Anh ấy thích vừa đọc sách vừa nghe nhạc."
+  },
+  {
+    "stt": 563,
+    "vocab": "一直",
+    "hanviet": "Nhất Trực",
+    "pinyin": "yìzhí",
+    "meaning": "adv. all the time / Phó từ. luôn luôn; suốt; liên tục; thẳng",
+    "example": "我〜不明白这句话的意思。",
+    "example_meaning": "Tôi cứ không hiểu ý nghĩa của câu nói này."
+  },
+  {
+    "stt": 564,
+    "vocab": "以前",
+    "hanviet": "Dĩ Tiền",
+    "pinyin": "yǐqián",
+    "meaning": "adv. before (a point of time); back; ago; previously; formerly / Danh từ chỉ phương vị/thời gian. trước; trước kia; trước đây",
+    "example": "我们看电影〜，先去吃个饭吧。",
+    "example_meaning": "Trước khi chúng ta xem phim, đi ăn cơm trước đã nhé."
+  },
+  {
+    "stt": 565,
+    "vocab": "音乐",
+    "hanviet": "Âm Nhạc",
+    "pinyin": "yīnyuè",
+    "meaning": "n. music / Danh từ. âm nhạc",
+    "example": "她最喜欢看〜节目。",
+    "example_meaning": "Cô ấy thích xem chương trình âm nhạc nhất."
+  },
+  {
+    "stt": 566,
+    "vocab": "银行",
+    "hanviet": "Ngân Hàng",
+    "pinyin": "yínháng",
+    "meaning": "n. bank / Danh từ. ngân hàng",
+    "example": "〜下午 5 点关门。",
+    "example_meaning": "Ngân hàng đóng cửa lúc 5 giờ chiều."
+  },
+  {
+    "stt": 567,
+    "vocab": "饮料",
+    "hanviet": "Ẩm Liệu",
+    "pinyin": "yǐnliào",
+    "meaning": "n. beverage; drink / Danh từ. đồ uống; thức uống; nước giải khát",
+    "example": "冰箱里还有〜吗？",
+    "example_meaning": "Trong tủ lạnh còn đồ uống không?"
+  },
+  {
+    "stt": 568,
+    "vocab": "应该",
+    "hanviet": "Ưng Cai",
+    "pinyin": "yīnggāi",
+    "meaning": "aux. should; have to; ought to; must / Động từ năng nguyện. nên; phải",
+    "example": "8 点lê, 〜去上班了。 (8 点了，〜去上班了。)",
+    "example_meaning": "8 giờ rồi, nên đi làm rồi."
+  },
+  {
+    "stt": 569,
+    "vocab": "影响",
+    "hanviet": "Ảnh Hưởng",
+    "pinyin": "yǐngxiǎng",
+    "meaning": "V. influence; affect; concern; work upon; n. influence; effect / Động từ. ảnh hưởng; tác động; Danh từ. sự ảnh hưởng; tác động; hiệu ứng",
+    "example": "请不要〜别人休息。 / 环境对人有很大的〜。",
+    "example_meaning": "Xin vui lòng đừng ảnh hưởng đến người khác nghỉ ngơi. / Môi trường có ảnh hưởng rất lớn đối với con người."
+  },
+  {
+    "stt": 570,
+    "vocab": "用",
+    "hanviet": "Dụng",
+    "pinyin": "yòng",
+    "meaning": "V. use / Động từ. dùng; sử dụng",
+    "example": "我〜了两个小时打扫房间。",
+    "example_meaning": "Tôi đã dùng (mất) hai tiếng đồng hồ để dọn dẹp phòng."
+  },
+  {
+    "stt": 571,
+    "vocab": "游戏",
+    "hanviet": "Du Hí",
+    "pinyin": "yóuxì",
+    "meaning": "n. game; play; recreation / Danh từ. trò chơi; trò giải trí",
+    "example": "这是孩子们最喜欢玩儿的〜。",
+    "example_meaning": "Đây là trò chơi mà lũ trẻ thích chơi nhất."
+  },
+  {
+    "stt": 572,
+    "vocab": "有名",
+    "hanviet": "Hữu Danh",
+    "pinyin": "yǒumíng",
+    "meaning": "adj. famous / Tính từ. nổi tiếng; có danh tiếng",
+    "example": "这本书很〜。",
+    "example_meaning": "Cuốn sách này rất nổi tiếng."
+  },
+  {
+    "stt": 573,
+    "vocab": "又",
+    "hanviet": "Hựu",
+    "pinyin": "yòu",
+    "meaning": "adv. again; once more / Phó từ. lại; lại một lần nữa",
+    "example": "我们休息了一会儿，〜开始工作了。",
+    "example_meaning": "Chúng tôi nghỉ ngơi một lát, rồi lại bắt đầu làm việc."
+  },
+  {
+    "stt": 574,
+    "vocab": "遇到",
+    "hanviet": "Ngộ Đáo",
+    "pinyin": "yùdào",
+    "meaning": "V. meet / Động từ. gặp phải; bắt gặp; chạm trán",
+    "example": "刚才我在街上〜了张先生。",
+    "example_meaning": "Vừa nãy tôi gặp ông Trương ở trên phố."
+  },
+  {
+    "stt": 575,
+    "vocab": "元",
+    "hanviet": "Nguyên",
+    "pinyin": "yuán",
+    "meaning": "nm. RMB Yuan / Lượng từ. tệ (đơn vị tiền tệ của Trung Quốc)",
+    "example": "这块手表 600〜。",
+    "example_meaning": "Chiếc đồng hồ đeo tay này có giá 600 tệ."
+  },
+  {
+    "stt": 576,
+    "vocab": "愿意",
+    "hanviet": "Nguyện Ý",
+    "pinyin": "yuànyì",
+    "meaning": "aux. be willing; wish; like; want / Động từ năng nguyện. bằng lòng; đồng ý; nguyện ý; mong muốn",
+    "example": "他很〜帮助别人。",
+    "example_meaning": "Anh ấy rất bằng lòng giúp đỡ người khác."
+  },
+  {
+    "stt": 577,
+    "vocab": "月亮",
+    "hanviet": "Nguyệt Lượng",
+    "pinyin": "yuèliang",
+    "meaning": "n. the Moon / Danh từ. mặt trăng; nguyệt lượng",
+    "example": "今晚的〜真圆！",
+    "example_meaning": "Mặt trăng tối nay thật là tròn!"
+  },
+  {
+    "stt": 578,
+    "vocab": "越",
+    "hanviet": "Việt",
+    "pinyin": "yuè",
+    "meaning": "adv. the more … the more … / Phó từ. càng... càng...",
+    "example": "他〜说〜高兴。",
+    "example_meaning": "Anh ấy càng nói càng vui vẻ."
+  },
+  {
+    "stt": 579,
+    "vocab": "站",
+    "hanviet": "Trạm",
+    "pinyin": "zhàn",
+    "meaning": "V. stand; nm. distance between two bus stops / Động từ. đứng; Lượng từ. trạm; ga (khoảng cách giữa hai điểm dừng xe buýt, tàu điện)",
+    "example": "爸爸〜在win的身边。 / 去火车站，坐地铁 3 〜就到了。 (爸爸〜在我的身边。 / 去火车站，坐地铁 3 〜就到了。)",
+    "example_meaning": "Bố đứng ở bên cạnh tôi. / Đến ga tàu hỏa, đi tàu điện ngầm 3 trạm là đến rồi."
+  },
+  {
+    "stt": 580,
+    "vocab": "张",
+    "hanviet": "Trương",
+    "pinyin": "zhāng",
+    "meaning": "nm. used for paper, bed, table, face, etc.; V. open up / Lượng từ. tờ, tấm, chiếc, cái (dùng cho giấy, giường, bàn, mặt...); Động từ. mở ra; há ra",
+    "example": "请给我一〜纸。 / 小女孩儿〜开嘴，笑了。",
+    "example_meaning": "Xin hãy cho tôi một tờ giấy. / Cô bé há miệng ra và mỉm cười."
+  },
+  {
+    "stt": 581,
+    "vocab": "照顾",
+    "hanviet": "Chiếu Cố",
+    "pinyin": "zhàogù",
+    "meaning": "V. look after; take care / Động từ. chăm sóc; trông nom; chiếu cố",
+    "example": "我生病了，妈妈一直〜我。",
+    "example_meaning": "Tôi bị ốm, mẹ luôn luôn chăm sóc tôi."
+  },
+  {
+    "stt": 582,
+    "vocab": "照片",
+    "hanviet": "Chiếu Phiến",
+    "pinyin": "zhàopiàn",
+    "meaning": "n. photo / Danh từ. bức ảnh; tấm ảnh; bức hình",
+    "example": "这是我小时候的〜。",
+    "example_meaning": "Đây là bức ảnh thời thơ ấu của tôi."
+  },
+  {
+    "stt": 583,
+    "vocab": "照相机",
+    "hanviet": "Chiếu Tương Cơ",
+    "pinyin": "zhàoxiàngjī",
+    "meaning": "n. camera / Danh từ. máy ảnh; máy chụp hình",
+    "example": "我新买了一个〜。",
+    "example_meaning": "Tôi mới mua một cái máy ảnh."
+  },
+  {
+    "stt": 584,
+    "vocab": "只",
+    "hanviet": "Chích / Chỉ",
+    "pinyin": "zhī",
+    "meaning": "nm. one of a pair; for animals, furnitures, boats or ships; adv. only; merely; just / Lượng từ. con, chiếc, cái (dùng cho một chiếc trong một đôi; dùng cho động vật, đồ gia dụng, tàu thuyền); Phó từ. chỉ; chỉ là",
+    "example": "我有一〜鞋找不 family 了。 (我有一〜鞋 thèm (找) 不 family 了。 / 树上有一〜小猫。)",
+    "example_meaning": "Tôi có một chiếc giày tìm không thấy nữa rồi. / Trên cây có một con mèo con."
+  },
+  {
+    "stt": 585,
+    "vocab": "只",
+    "hanviet": "Chích / Chỉ",
+    "pinyin": "zhǐ",
+    "meaning": "adv. only; merely; just / Phó từ. chỉ; chỉ có",
+    "example": "房间里〜有我一个人。",
+    "example_meaning": "Trong phòng chỉ có một mình tôi thôi."
+  },
+  {
+    "stt": 586,
+    "vocab": "中间",
+    "hanviet": "Trung Gian",
+    "pinyin": "zhōngjiān",
+    "meaning": "n. center; middle / Danh từ. ở giữa; trung gian; trung tâm",
+    "example": "我站在〜, 旁边的是我的同学。",
+    "example_meaning": "Tôi đứng ở giữa, bên cạnh là bạn học của tôi."
+  },
+  {
+    "stt": 587,
+    "vocab": "中文",
+    "hanviet": "Trung Văn",
+    "pinyin": "Zhōngwén",
+    "meaning": "n. Chinese language / Danh từ. tiếng Trung; tiếng Trung Quốc; chữ Trung Quốc",
+    "example": "我会用〜写文章。",
+    "example_meaning": "Tôi biết dùng tiếng Trung để viết văn."
+  },
+  {
+    "stt": 588,
+    "vocab": "终于",
+    "hanviet": "Chung Ư",
+    "pinyin": "zhōngyú",
+    "meaning": "adv. at last; finally / Phó từ. cuối cùng; rốt cuộc (biểu thị kết quả mong đợi đã xảy ra)",
+    "example": "春天〜来了。",
+    "example_meaning": "Mùa xuân cuối cùng cũng đến rồi."
+  },
+  {
+    "stt": 589,
+    "vocab": "种",
+    "hanviet": "Chủng",
+    "pinyin": "zhǒng",
+    "meaning": "nm. kind; sort; type / Lượng từ. loại; thứ; hạng",
+    "example": "超市里有很多〜新鲜水果。",
+    "example_meaning": "Trong siêu thị có rất nhiều loại trái cây tươi ngon."
+  },
+  {
+    "stt": 590,
+    "vocab": "重要",
+    "hanviet": "Trọng Yếu",
+    "pinyin": "zhòngyào",
+    "meaning": "adj. important / Tính từ. quan trọng",
+    "example": "我忘了一件〜的事情。",
+    "example_meaning": "Tôi quên mất một việc quan trọng rồi."
+  },
+  {
+    "stt": 591,
+    "vocab": "周末",
+    "hanviet": "Chu Mạt",
+    "pinyin": "zhōumò",
+    "meaning": "n. weekend / Danh từ. cuối tuần",
+    "example": "这个〜你有什么安排？",
+    "example_meaning": "Cuối tuần này bạn có sắp xếp gì không?"
+  },
+  {
+    "stt": 592,
+    "vocab": "主要",
+    "hanviet": "Chủ Yếu",
+    "pinyin": "zhǔyào",
+    "meaning": "adj. major; main / Tính từ. chủ yếu; chính; trọng yếu",
+    "example": "这本书〜讲了些什么？",
+    "example_meaning": "Cuốn sách này chủ yếu nói về những điều gì?"
+  },
+  {
+    "stt": 593,
+    "vocab": "注意",
+    "hanviet": "Chú Ý",
+    "pinyin": "zhùyì",
+    "meaning": "V. pay attention to; to keep an eye on; take notice of / Động từ. chú ý; lưu ý; để ý",
+    "example": "请〜安全。",
+    "example_meaning": "Xin hãy chú ý an toàn."
+  },
+  {
+    "stt": 594,
+    "vocab": "着急",
+    "hanviet": "Trứ Cấp / Chiêu Cấp",
+    "pinyin": "zháojí",
+    "meaning": "V. worry; feel anxious / Động từ. lo lắng; sốt ruột; vội vàng",
+    "example": "遇到事情，不要〜。",
+    "example_meaning": "Khi gặp phải chuyện, đừng lo lắng (sốt ruột)."
+  },
+  {
+    "stt": 595,
+    "vocab": "自己",
+    "hanviet": "Tự Kỷ",
+    "pinyin": "zìjǐ",
+    "meaning": "pron. oneself; self; one's own / Đại từ. tự mình; bản thân; chính mình",
+    "example": "我喜欢〜一个人旅游。",
+    "example_meaning": "Tôi thích tự mình đi du lịch một mình."
+  },
+  {
+    "stt": 596,
+    "vocab": "总是",
+    "hanviet": "Tổng Thị",
+    "pinyin": "zǒngshì",
+    "meaning": "adv. always / Phó từ. luôn luôn; lúc nào cũng; luôn",
+    "example": "他〜很早起床。",
+    "example_meaning": "Anh ấy lúc nào cũng thức dậy rất sớm."
+  },
+  {
+    "stt": 597,
+    "vocab": "嘴",
+    "hanviet": "Chủy",
+    "pinyin": "zuǐ",
+    "meaning": "n. mouth / Danh từ. miệng; mồm; mỏ",
+    "example": "妹妹的〜边有一粒米。",
+    "example_meaning": "Bên mép em gái có một hạt cơm."
+  },
+  {
+    "stt": 598,
+    "vocab": "最近",
+    "hanviet": "Tối Cận",
+    "pinyin": "zuìjìn",
+    "meaning": "adv. recently; of late; lately / Phó từ. gần đây; dạo này; mới đây",
+    "example": "我〜很忙。",
+    "example_meaning": "Gần đây tôi dạo này rất bận."
+  },
+  {
+    "stt": 599,
+    "vocab": "作业",
+    "hanviet": "Tác Nghiệp",
+    "pinyin": "zuòyè",
+    "meaning": "n. school assignment; study assignment / Danh từ. bài tập về nhà; bài tập",
+    "example": "今天的〜你写完了吗？",
+    "example_meaning": "Bài tập hôm nay bạn đã làm xong chưa?"
+  },
+  {
+    "stt": 600,
+    "vocab": "作用",
+    "hanviet": "Tác Dụng",
+    "pinyin": "zuòyòng",
+    "meaning": "n. an effect; an influence / Danh từ. tác dụng; tác động; hiệu lực",
+    "example": "作用: 这种感冒药对我没什么〜。 (这种感冒药对我没什么〜。)",
+    "example_meaning": "Loại thuốc cảm này đối với tôi không có tác dụng gì mấy."
+  }
+]

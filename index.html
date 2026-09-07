@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>HSKawa 3 — Ôn từ vựng HSK 3</title>
+  <meta name="description" content="Flashcard học từ vựng HSK 3 dành riêng cho bạn." />
+
+  <!-- Font: Noto Serif SC cho chữ Hán, Quicksand cho tiêu đề/nhãn, Inter cho nội dung -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link
+    href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@600;700&family=Quicksand:wght@500;600;700&family=Inter:wght@400;500;600&display=swap"
+    rel="stylesheet"
+  />
+
+  <link rel="stylesheet" href="./assets/css/style.css" />
+</head>
+<body>
+
+  <div class="app-shell">
+
+    <!-- ============== HEADER ============== -->
+    <header class="app-header">
+      <div>
+        <h1 class="app-header__title">HSK<span>awa</span> 3</h1>
+        <p class="app-header__subtitle">600 từ vựng — món quà nhỏ để em ôn thi</p>
+      </div>
+    </header>
+
+    <!-- ============== THANH TIẾN TRÌNH ==============
+         Giá trị đang là demo tĩnh, sẽ được nối với localStorage
+         và hệ thống 8 cấp độ nhân vật ở Bước 4. -->
+    <section class="progress-block" aria-label="Tiến độ học tập">
+      <div class="progress-block__meta">
+        <span>Cấp 1 · Chồi non</span>
+        <span>72 / 600 từ</span>
+      </div>
+      <div class="progress-track">
+        <div class="progress-fill"></div>
+      </div>
+    </section>
+
+    <!-- ============== BANNER CÂU ĐỘNG LỰC ==============
+         Nội dung được nạp từ data/quotes.json thông qua main.js -->
+    <section class="quote-banner" id="quote-banner" aria-live="polite">
+      <p id="quote-text">Đang tải lời nhắn hôm nay…</p>
+    </section>
+
+    <!-- ============== CHUYỂN ĐỔI CHẾ ĐỘ HỌC ==============
+         Logic chuyển mặt thẻ / bật canvas viết tay sẽ thêm ở Bước 2 và 3.
+         Hiện tại chỉ là khung giao diện tĩnh. -->
+    <div class="mode-switch" role="tablist" aria-label="Chế độ học">
+      <button class="mode-switch__btn" role="tab" aria-pressed="true">Nhận diện</button>
+      <button class="mode-switch__btn" role="tab" aria-pressed="false">Luyện viết</button>
+    </div>
+
+    <!-- ============== KHU VỰC THẺ HỌC (HERO) ==============
+         Đây là ví dụ tĩnh minh hoạ bố cục thẻ (mặt trước).
+         Card Engine thật + hiệu ứng lật sẽ được xây ở Bước 2. -->
+    <main class="card-stage">
+      <article class="flashcard" id="flashcard">
+        <div class="flashcard__hanzi">爱</div>
+        <p class="flashcard__hint">Chạm để xem nghĩa</p>
+      </article>
+    </main>
+
+    <!-- ============== FOOTER ==============
+         Easter egg (ảnh + câu hỏi bí mật + confetti) sẽ thêm ở Bước 5. -->
+    <footer class="app-footer">
+      <p>Làm bằng ❤ và vài trăm chữ Hán</p>
+    </footer>
+
+  </div>
+
+  <script src="./assets/js/main.js" defer></script>
+</body>
+</html>

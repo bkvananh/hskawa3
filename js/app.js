@@ -509,7 +509,66 @@ function bindEvents() {
   }, { passive: true });
 }
 
-// Console test: window.testLevel(8)
+// ==========================================
+// 🛠️ BỘ SCRIPT TEST GAMIFICATION & LEVEL
+// ==========================================
+
+// 1. Nhảy thẳng đến 1 cấp độ bất kỳ (1 - 8)
+window.testLevel = function(targetLevel = 8) {
+  const targetConfig = LEVEL_CONFIG.find(c => c.level === targetLevel) || LEVEL_CONFIG[7];
+  state.masteredWords.clear();
+  const wordsToSimulate = targetLevel === 8 ? 600 : targetConfig.min + 1;
+  for (let i = 1; i <= wordsToSimulate; i++) {
+    state.masteredWords.add(i);
+  }
+  updateGamificationUI(true);
+  renderCurrentCard();
+  console.log(`%c🚀 Đã chuyển sang Cấp ${targetLevel}: ${targetConfig.title} (${state.masteredWords.size}/600 từ)`, "color: #20C997; font-weight: bold; font-size: 14px;");
+};
+
+// 2. Giả lập thăng ngay lên cấp kế tiếp (+ kích hoạt hiệu ứng chúc mừng)
+window.levelUp = function() {
+  if (state.currentLevel >= 8) {
+    console.warn("Đã đạt cấp tối đa (Cấp 8) rồi!");
+    return;
+  }
+  const nextConfig = LEVEL_CONFIG.find(c => c.level === state.currentLevel + 1);
+  if (nextConfig) {
+    for (let i = state.masteredWords.size + 1; i <= nextConfig.min + 1; i++) {
+      state.masteredWords.add(i);
+    }
+    updateGamificationUI(true);
+    renderCurrentCard();
+    console.log(`%c🎉 Chúc mừng thăng cấp ${state.currentLevel}: ${nextConfig.title}!`, "color: #FFB703; font-weight: bold; font-size: 14px;");
+  }
+};
+
+// 3. Nhảy thẳng lên Max Cấp 8 (Đạt 600/600 từ, viền cầu vồng & pháo hoa bùng nổ)
+window.levelMax = function() {
+  state.masteredWords.clear();
+  for (let i = 1; i <= 600; i++) {
+    state.masteredWords.add(i);
+  }
+  updateGamificationUI(true);
+  renderCurrentCard();
+  console.log("%c👑 ĐÃ ĐẠT CẤP ĐỘ TỐI THƯỢNG: Cấp 8 chii béo phì (600/600 từ)!", "color: #D81B60; font-weight: bold; font-size: 16px;");
+};
+
+// 4. Giả lập thuộc thêm N từ ngẫu nhiên để test thanh tiến độ %
+window.addWords = function(count = 10) {
+  let added = 0;
+  let currentId = 1;
+  while (added < count && state.masteredWords.size < 600) {
+    if (!state.masteredWords.has(currentId)) {
+      state.masteredWords.add(currentId);
+      added++;
+    }
+    currentId++;
+  }
+  updateGamificationUI(true);
+  renderCurrentCard();
+  console.log(`Đã nạp thêm ${added} từ. Tổng hiện tại: ${state.masteredWords.size}/600 từ.`);
+};// Console test: window.testLevel(8)
 window.testLevel = function(targetLevel = 8) {
   const targetConfig = LEVEL_CONFIG.find(c => c.level === targetLevel) || LEVEL_CONFIG[7];
   state.masteredWords.clear();

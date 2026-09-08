@@ -1,78 +1,196 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
-  <title>HSKawa 3 — Ôn từ vựng HSK 3</title>
-  <meta name="description" content="Flashcard học từ vựng HSK 3 dành riêng cho bạn." />
-
-  <!-- Font: Noto Serif SC cho chữ Hán, Quicksand cho tiêu đề/nhãn, Inter cho nội dung -->
-  <link rel="preconnect" href="https://fonts.googleapis.com" />
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-  <link
-    href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@600;700&family=Quicksand:wght@500;600;700&family=Inter:wght@400;500;600&display=swap"
-    rel="stylesheet"
-  />
-
-  <link rel="stylesheet" href="./assets/css/style.css" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>HSKawa 3 </title>
+    
+    <!-- Google Fonts: Nunito & Noto Sans SC -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@400;700&family=Nunito:wght@400;600;700;800&display=swap" rel="stylesheet">
+    
+    <!-- Confetti JS CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/canvas-confetti@1.6.0/dist/confetti.browser.min.js"></script>
+    
+    <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
+    <div class="app-container" id="app-container">
+        <!-- Header: Full Avatar & Mode Switch -->
+        <header class="top-bar">
+            <div class="level-badge" id="level-badge" title="Bấm để xem chứng chỉ">
+                <div class="avatar-container" id="avatar-container">
+                    <img id="avatar-img" class="avatar-img-full" src="assets/images/avatar-lv1.jpg" alt="Avatar">
+                </div>
+                <div class="level-info">
+                    <span class="level-text" id="level-title">Cấp 1: chii lủng đầu</span>
+                    <span class="progress-text" id="progress-text">0 / 600 từ</span>
+                </div>
+            </div>
+            
+            <div class="mode-switch">
+                <button id="btn-mode-1" class="active">Nhận diện</button>
+                <button id="btn-mode-2">Tập viết</button>
+            </div>
+        </header>
 
-  <div class="app-shell">
+        <!-- Quote Khích Lệ -->
+        <div class="quote-section">
+            <p id="daily-quote">💙</p>
+        </div>
 
-    <!-- ============== HEADER ============== -->
-    <header class="app-header">
-      <div>
-        <h1 class="app-header__title">HSK<span>awa</span> 3</h1>
-        <p class="app-header__subtitle">600 từ vựng — món quà nhỏ để em ôn thi</p>
-      </div>
-    </header>
+        <!-- Flashcard & Writing Workspace -->
+        <main class="study-workspace" id="study-workspace">
+            <!-- Cụm Flashcard -->
+            <div class="flashcard-wrapper">
+                <div class="flashcard-container" id="flashcard">
+                    <div class="flashcard-inner">
+                        <!-- Mặt trước -->
+                        <div class="flashcard-front">
+                            <span class="learned-tag hidden" id="card-learned-tag">Đã thuộc ✓</span>
+                            <h1 class="vocab-front" id="card-vocab">爱</h1>
+                            <p class="hint-front hidden" id="card-hint">Ái (ài) - Yêu, thích</p>
+                            <span class="flip-hint">👆 Chạm vào thẻ để lật</span>
+                        </div>
+                        
+                        <!-- Mặt sau -->
+                        <div class="flashcard-back">
+                            <div class="back-content">
+                                <h2 class="vocab-back" id="back-vocab">爱</h2>
+                                <p class="pinyin-back" id="back-pinyin">ài</p>
+                                <p class="hanviet-back" id="back-hanviet">[ Ái ]</p>
+                                <hr>
+                                <p class="meaning-back" id="back-meaning">Động từ. yêu; thích làm việc gì đó</p>
+                                <div class="example-box">
+                                    <p class="example-cn" id="back-example">妈妈，我爱你。</p>
+                                    <p class="example-vn" id="back-example-meaning">Mẹ ơi, con yêu mẹ.</p>
+                                </div>
+                            </div>
+                            <span class="flip-hint">👆 Chạm để quay lại mặt trước</span>
+                        </div>
+                    </div>
 
-    <!-- ============== THANH TIẾN TRÌNH ==============
-         Giá trị đang là demo tĩnh, sẽ được nối với localStorage
-         và hệ thống 8 cấp độ nhân vật ở Bước 4. -->
-    <section class="progress-block" aria-label="Tiến độ học tập">
-      <div class="progress-block__meta">
-        <span>Cấp 1 · Chồi non</span>
-        <span>72 / 600 từ</span>
-      </div>
-      <div class="progress-track">
-        <div class="progress-fill"></div>
-      </div>
-    </section>
+                    <!-- Hai nút điều hướng gắn trực tiếp trên thẻ -->
+                    <button id="btn-prev" class="card-floating-nav nav-prev" aria-label="Từ trước">❮</button>
+                    <button id="btn-next" class="card-floating-nav nav-next" aria-label="Từ sau">❯</button>
+                </div>
 
-    <!-- ============== BANNER CÂU ĐỘNG LỰC ==============
-         Nội dung được nạp từ data/quotes.json thông qua main.js -->
-    <section class="quote-banner" id="quote-banner" aria-live="polite">
-      <p id="quote-text">Đang tải lời nhắn hôm nay…</p>
-    </section>
+                <!-- Nút Đã thuộc & Random -->
+                <div class="action-controls">
+                    <button id="btn-toggle-master" class="btn-master">
+                        <span class="heart-icon">🤍</span> <span id="master-btn-label">Đánh dấu đã thuộc</span>
+                    </button>
+                    <button id="btn-shuffle" class="btn-shuffle" title="Đảo ngẫu nhiên">🔀 Đảo từ</button>
+                </div>
+            </div>
 
-    <!-- ============== CHUYỂN ĐỔI CHẾ ĐỘ HỌC ==============
-         Logic chuyển mặt thẻ / bật canvas viết tay sẽ thêm ở Bước 2 và 3.
-         Hiện tại chỉ là khung giao diện tĩnh. -->
-    <div class="mode-switch" role="tablist" aria-label="Chế độ học">
-      <button class="mode-switch__btn" role="tab" aria-pressed="true">Nhận diện</button>
-      <button class="mode-switch__btn" role="tab" aria-pressed="false">Luyện viết</button>
+            <!-- Bảng vẽ Canvas -->
+            <div class="writing-area hidden" id="writing-area">
+                <div class="canvas-header">
+                    <span class="canvas-title">✍️ Ô Luyện Viết</span>
+                    <div class="canvas-controls">
+                        <button id="btn-undo" title="Hoàn tác">↩ Undo</button>
+                        <button id="btn-redo" title="Làm lại">↪ Redo</button>
+                        <button id="btn-clear" title="Xóa sạch">🗑 Xóa</button>
+                    </div>
+                </div>
+                <div class="canvas-wrapper">
+                    <canvas id="writing-canvas"></canvas>
+                </div>
+            </div>
+        </main>
+
+        <!-- Modal Chứng Chỉ & Preview Cấp Độ -->
+        <div class="modal-backdrop hidden" id="cert-modal">
+            <div class="modal-card cert-modal-card">
+                <button class="modal-close-btn" id="btn-close-modal">✕</button>
+                <h3 class="cert-heading">CHỨNG CHỈ HỌC TẬP</h3>
+                
+                <div class="id-card-full" id="cert-avatar-wrapper">
+                    <img id="cert-avatar-img" class="id-card-photo" src="assets/images/avatar-lv1.jpg" alt="Avatar">
+                    <img id="cert-overlay-img" class="id-card-frame" src="assets/images/overlay-normal.png" alt="Khung chứng chỉ" onerror="this.src='assets/images/khen.jpg'">
+                </div>
+
+                <div class="cert-details">
+                    <h4 class="cert-level-name" id="cert-level-name">Cấp 1 - chii lủng đầu</h4>
+                    <p class="cert-desc" id="cert-desc">Em đã thuộc được 0/600 từ vựng HSK 3!</p>
+                    
+                    <div class="progress-bar-bg">
+                        <div class="progress-bar-fill" id="cert-progress-fill" style="width: 0%;"></div>
+                    </div>
+                    <span class="cert-percentage" id="cert-percentage">0% hoàn thành</span>
+                </div>
+
+                <!-- Teaser xem trước cấp độ tiếp theo và cấp độ cuối cùng -->
+                <div class="level-teasers-container">
+                    <h5 class="teasers-heading">✨ KHÁM PHÁ CẤP ĐỘ</h5>
+                    <div class="teasers-grid">
+                        <!-- Preview Cấp kế tiếp -->
+                        <div class="teaser-card" id="teaser-next-card">
+                            <div class="teaser-avatar-wrap">
+                                <img id="teaser-next-img" class="teaser-avatar-img" src="assets/images/avatar-lv2.jpg" alt="Next Level">
+                                <span class="teaser-lock-icon">🔒</span>
+                            </div>
+                            <div class="teaser-text">
+                                <span class="teaser-badge">Cấp kế tiếp</span>
+                                
+                            </div>
+                        </div>
+
+                        <!-- Preview Cấp 8 Mystery -->
+                        <div class="teaser-card teaser-mystery" id="teaser-final-card">
+                            <div class="teaser-avatar-wrap">
+                                <img id="teaser-final-img" class="teaser-avatar-img mystery-blur" src="assets/images/avatar-lv8.jpg" alt="Mystery Level">
+                                <span class="teaser-lock-icon mystery-crown">👑</span>
+                            </div>
+                            <div class="teaser-text">
+                                <span class="teaser-badge badge-mystery">Cấp 8 Bí Mật</span>
+                                
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="mystery-unlock hidden" id="mystery-unlock-box">
+                    🌟 <strong>ye yey yey</strong><br>
+                    All clear! 💖
+                </div>
+
+                <!-- Nút đặt lại tiến độ -->
+                <button id="btn-reset-progress" class="btn-reset-progress">🔄 Đặt lại toàn bộ tiến độ</button>
+            </div>
+        </div>
+
+        <!-- Modal Tỏ Tình Easter Egg (Đã đổi sang màu vàng ấm) -->
+        <div class="modal-backdrop hidden" id="easter-egg-modal">
+            <div class="modal-card secret-love-card">
+                <button class="modal-close-btn" id="btn-close-secret-modal" type="button" aria-label="Đóng">✕</button>
+                <div class="heart-pulse-icon">💌🐇</div>
+                <h3 class="secret-love-title">wise once said</h3>
+                <div class="secret-love-message">
+                    <p>u unana una unanaya ha yaha</p>
+                    <p class="secret-signature">prii~ 💖</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Footer / Easter Egg -->
+        <footer class="footer-easter-egg">
+            <div class="secret-box">
+                <img src="assets/images/easter-egg.jpg" alt="Secret" class="secret-img" onerror="this.src='easter-egg.jpg'">
+                <p class="secret-question">con thỏ nói jz?</p>
+                <div class="secret-input-group">
+                    <input type="text" id="secret-input" placeholder="Nhập đáp án tiếng Việt..." autocomplete="off">
+                    <button id="btn-check-secret">check</button>
+                </div>
+            </div>
+        </footer>
     </div>
 
-    <!-- ============== KHU VỰC THẺ HỌC (HERO) ==============
-         Đây là ví dụ tĩnh minh hoạ bố cục thẻ (mặt trước).
-         Card Engine thật + hiệu ứng lật sẽ được xây ở Bước 2. -->
-    <main class="card-stage">
-      <article class="flashcard" id="flashcard">
-        <div class="flashcard__hanzi">爱</div>
-        <p class="flashcard__hint">Chạm để xem nghĩa</p>
-      </article>
-    </main>
-
-    <!-- ============== FOOTER ==============
-         Easter egg (ảnh + câu hỏi bí mật + confetti) sẽ thêm ở Bước 5. -->
-    <footer class="app-footer">
-      <p>Làm bằng ❤ và vài trăm chữ Hán</p>
-    </footer>
-
-  </div>
-
-  <script src="./assets/js/main.js" defer></script>
+    <!-- Scripts -->
+    <script type="module" src="js/app.js"></script>
+    <script type="module" src="js/canvas.js"></script>
+    <script type="module" src="js/easter-egg.js"></script>
 </body>
 </html>
